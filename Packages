@@ -461,6 +461,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fvideoDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fvideoDp
 dev: arthurdapaz
 
+Package: com.bandarhl.igghost
+Version: 2.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/igghost_2.1-1.deb
+Size: 124510
+Installed-Size: 261
+MD5sum: d743ca88eda3c909167e70712665466c
+Name: IGGhost for Instagram
+Icon: file:///Library/Application%20Support/IGGhost/IGGhost.bundle/setting@2x.png
+Description: A lock-screen tweak to add a new notification animations!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: BandarHL <bandarhelal180@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igghostDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=igghostDp
+dev: bandarhl
+
 Package: com.bateleurs.noeditmenudelay
 Version: 1.1-1
 Section: Tweaks
@@ -1145,6 +1166,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=evanescoDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=evanescoDp
 dev: cpdigitaldarkroom
 
+Package: com.cpdigitaldarkroom.fastunlockx
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fastunlockx_1.2.deb
+Size: 18008
+Installed-Size: 246
+MD5sum: b2860c4d90598786381a17a4032558b0
+Name: FastUnlockX
+Icon: file:///Library/PreferenceBundles/FastUnlockX.bundle/images/FastUnlockX@2x.png
+Description: Faster unlock for iPhone X
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastunlockxDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fastunlockxDp
+dev: cpdigitaldarkroom
+
 Package: com.cpdigitaldarkroom.hideme8-lite
 Version: 0.0.3-2
 Priority: optional
@@ -1313,6 +1354,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byefolderv
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byefolderviewDp
 dev: lucaluca86
 
+Package: com.cydiageek.byehomebottombarx
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/byehomebottombarx_1.0.0.deb
+Size: 58354
+Installed-Size: 292
+MD5sum: 7c94f243d74261cd34d8adf87d40ca63
+Name: ByeHomeBottomBarX
+Icon: file:///Library/PreferenceBundles/ByeHomeBottomBarX.bundle/ByeHomeBottomBarX@2x.png
+Description: Remove/Fade Away the Ugly Home Bottom Bar of the iPhone X!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byehomebottombarxDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byehomebottombarxDp
+dev: lucaluca86
+
 Package: com.cydiageek.byeseparatorscell
 Version: 1.0.0
 Priority: optional
@@ -1477,6 +1539,26 @@ Author: CydiaGeek <lucaluca86@aol.com>
 Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gyrationDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gyrationDp
+dev: lucaluca86
+
+Package: com.cydiageek.hidedonebuttonx
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hidedonebuttonx_1.0.0.deb
+Size: 2796
+Installed-Size: 99
+MD5sum: 3f4ab4b477326cfb6a4209c6992ec46e
+Name: HideDoneButtonX
+Description: Hide the Editing Done Button in the SB on the iPhone X!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidedonebuttonxDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidedonebuttonxDp
 dev: lucaluca86
 
 Package: com.cydiageek.marina
@@ -1687,6 +1769,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spotlightl
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spotlightless11Dp
 dev: lucaluca86
 
+Package: com.cydiageek.springanimations
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/springanimations_1.0.4.deb
+Size: 48114
+Installed-Size: 419
+MD5sum: dfdc9f792737231570eb0e6d753b7b62
+Name: SpringAnimations
+Icon: file:///Library/PreferenceBundles/SpringAnimations.bundle/SpringAnimations@2x.png
+Description: Nice SpringBoard Animations Effects on iOS 11!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springanimationsDp
+dev: lucaluca86
+
 Package: com.cydiageek.tinticonlabel
 Version: 1.0.1
 Priority: optional
@@ -1862,6 +1965,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lyricsexpl
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lyricsexplorerDp
 dev: erike
 
+Package: com.douliuroczy.ipadprokb
+Version: 1.1.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ipadprokeyboard_1.1.1.deb
+Size: 25514
+Installed-Size: 257
+MD5sum: 2ea31b712e2b4309b991bacf3dc70c71
+Name: iPad Pro KeyBoard
+Description: bring the iPad Pro KeyBoard on any iPad in landscape.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipadprokeyboardDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipadprokeyboardDp
+dev: douliuroczy
+
 Package: com.douliuroczy.sbarxlite
 Version: 1.0-1
 Priority: optional
@@ -1922,6 +2045,28 @@ Tag: cydia::commercial, cydia::obsolete, purpose::uikit, ios7support::1, ios8sup
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wififofumproDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wififofumproDp
 dev: dynamicallyloaded
+
+Package: com.eason.carplay.ios11
+Version: 2.0-12
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5101), firmware (>= 11.0)
+Conflicts: de.j-gessner.ccloader, com.eason.carplay
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ngxplay11_2.0-12.deb
+Size: 3551384
+Installed-Size: 15614
+MD5sum: 6662f4a3c38b78958f883c47ee1bdcaf
+Name: NGXPlay11
+Icon: file:///Applications/NGXPlay.app/AppIcon29x29@2x.png
+Description: Let your iPhone can mirror to carplay.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Eas0n <easonwumac@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ngxplay11Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ngxplay11Dp
+dev: eason
 
 Package: com.enduniverse.prefermyfi2
 Version: 2.1
@@ -2241,6 +2386,25 @@ Author: Frozen Penguin <penguins_can_fly@live.com>
 Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=predictionshortcutsDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=predictionshortcutsDp
+dev: frozenpenguin
+
+Package: com.fpt.saw
+Version: 1.2.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, applist, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/saw_1.2.0.deb
+Size: 718384
+Installed-Size: 1715
+MD5sum: b931949efc607ffe06a294bde82d680d
+Name: Saw
+Icon: file:///Library/PreferenceBundles/sawprefs.bundle/icon@2x.png
+Description: Cuts off useless space below the tab bar in apps. iOS 11 and iPhone X only.
+Author: Frozen Penguin <penguins_can_fly@live.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sawDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sawDp
 dev: frozenpenguin
 
 Package: com.freeyourapple.fyawhatsapphack
@@ -2699,6 +2863,28 @@ Tag: purpose::extension, compatible::ios8
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hapticmusicDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hapticmusicDp
 dev: iakd
+
+Package: com.ichitaso.pasithea2
+Version: 2.1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), applist (>= 1.5.9), net.angelxwind.karenlocalizer, firmware (>= 11.0) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea
+Replaces: com.ichitaso.pasithea
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.ichitaso.pasithea2_v2.1.1.deb
+Size: 405194
+Installed-Size: 1612
+MD5sum: f755bdd872ee4bf97584f128e18979b8
+Name: Pasithea 2 (iOS 10 & 11)
+Icon: file:///Library/PreferenceBundles/PasitheaSettings.bundle/Pasithea@2x.png
+Description: Manage the iOS pasteboard history
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Cannathea <csupport@cannathea.com>
+Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pasithea2Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pasithea2Dp
+dev: cannathea
 
 Package: com.ichitaso.pokegols
 Version: 1.0-4
@@ -3229,6 +3415,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rasberryDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rasberryDp
 dev: insomniac13
 
+Package: com.ion.customalertx
+Version: 0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/customalertx_0.1.deb
+Size: 29196
+Installed-Size: 315
+MD5sum: 2d07f6abf7bcd60e714c7e9f4d519343
+Name: CustomAlertX
+Icon: file:///Library/PreferenceBundles/CustomAlertXprefs.bundle/icon.png
+Description: A lock-screen tweak to add a new notification animations!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Justin Carlson <carlsonjustin32@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customalertxDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customalertxDp
+dev: carlsonjustin32
+
 Package: com.iphonerepocenter.loznaviheylistenringtone
 Version: 1.0
 Section: Ringtones
@@ -3266,6 +3473,24 @@ Tag: purpose::extension
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockdownliteDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockdownliteDp
 dev: ipodtouchmaster05
+
+Package: com.jailbreak365.safeccmodules
+Version: 1.2-14
+Section: Addons (ControlCenter)
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ccmodules_1.2-14.deb
+Size: 1109436
+Installed-Size: 6021
+MD5sum: 5895ff60ba77e743c90fc1e5b0c8b9db
+Name: CCModules
+Description: Control center modules for iOS 11.
+Author: jailbreak365 <jailbreak365@mail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+dev: jailbreak365
 
 Package: com.jake0oo0.noalertloop
 Version: 1.0.1-1
@@ -3660,6 +3885,25 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boostedwif
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boostedwifiDp
 dev: kingpuffdaddi
 
+Package: com.kingpuffdaddi.control-center.ccvibration
+Version: 1.0
+Section: Addons (ControlCenter)
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ccvibration_1.0.deb
+Size: 11446
+Installed-Size: 141
+MD5sum: a5170777b4fea66ce4c0a8e025e4f178
+Name: CCVibration
+Icon: file:///Library/ControlCenter/Bundles/CCVibration.bundle/Icon@2x.png
+Description: A Control Center Module to enable/disable vibration
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvibrationDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvibrationDp
+dev: kingpuffdaddi
+
 Package: com.kingpuffdaddi.control-center.ccvpn
 Version: 1.0
 Section: Tweaks
@@ -3755,6 +3999,26 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=oledificationDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=oledificationDp
 dev: ladshyam
+
+Package: com.laoyur.callkiller
+Version: 1.1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/callkiller_1.1.1.deb
+Size: 273078
+Installed-Size: 1115
+MD5sum: 3f140d9e9b328ece468064d138556861
+Name: CallKiller
+Icon: file:///Applications/callkiller-gui.app/AppIcon60x60@2x.png
+Description: kill the annoying spamming calls
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: laoyur <admin@laoyur.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callkillerDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callkillerDp
+dev: laoyur
 
 Package: com.lheap.whatspad
 Version: 2.0
@@ -5251,6 +5515,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
 dev: rweichler
 
+Package: com.r333d.eqe
+Version: 2.0.9
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (<< 11.0) | com.rpetrich.rocketbootstrap (>> 1.0.5), firmware (>= 11.0) | com.rpetrich.rocketbootstrap, mobilesubstrate, dpkg, coreutils
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/eqe_2.0.9.deb
+Size: 5027770
+Installed-Size: 15811
+MD5sum: 65558abfaf3e0b716102de5a48090343
+Name: EQE
+Icon: file:///Library/Activator/Listeners/com.r333d.eqe.popup/icon-small@2x.png
+Description: System-wide parametric equalizer
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: r333d <rweichler+cydia+eqe@gmail.com>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=eqe2Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=eqe2Dp
+dev: rweichler
+
 Package: com.rain.colorstatusbar
 Version: 0.0.1-3
 Priority: optional
@@ -5490,6 +5774,48 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nofeedback
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nofeedbackDp
 dev: rishanan
 
+Package: com.rishanan.springplus11
+Version: 1.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Conflicts: com.rishanan.bke, com.rishanan.noti, com.rishanan.ndb,com.rishanan.swP, com.rishanan.springplus, com.rishanan.BIOS10
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/springplus11_1.2.deb
+Size: 32652
+Installed-Size: 339
+MD5sum: 7286c175c7dd4e5869410c454632978e
+Name: SpringPlus11
+Icon: file:///Library/PreferenceBundles/SpringPref.bundle/icon@2x.png
+Description: Internal settings unlocked for ios 11.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: RIshanan <rishanan1996@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springplus11Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springplus11Dp
+dev: rishanan
+
+Package: com.rishanan.spt
+Version: 1.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sleepprivacy_1.0-1.deb
+Size: 4816
+Installed-Size: 129
+MD5sum: a05ff42e5d20dc4877d4c05222fb7089
+Name: Sleep Privacy
+Description: Hides notification and key pad for security purpose when sleeping.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: RIshanan <rishanan1996@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleepprivacyDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleepprivacyDp
+dev: rishanan
+
 Package: com.rob311.drago
 Version: 0.0.1-2
 Priority: optional
@@ -5683,6 +6009,25 @@ Author: Youssef Mikhail <ymiscool@hotmail.com>
 Tag: purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=acceleratedunlockDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=acceleratedunlockDp
+dev: ymiscool
+
+Package: com.ruler225.videohud
+Version: 2.3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/videohud_2.3.deb
+Size: 14058
+Installed-Size: 124
+MD5sum: 71459d0222eff6bdb662c1c7bbc5f238
+Name: VideoHUD
+Description: iOS 11 video player HUD used systemwide!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Youssef Mikhail <ymiscool@hotmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videohudDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=videohudDp
 dev: ymiscool
 
 Package: com.ruler225.waketunes
@@ -6063,6 +6408,44 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ghostprefs
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ghostprefsDp
 dev: skylerk99
 
+Package: com.smokin1337.hush
+Version: 0.0.2-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hush_0.0.2-1.deb
+Size: 50412
+Installed-Size: 202
+MD5sum: 27b61ab9f2958c2c8d165365ab91a4af
+Name: Hush
+Icon: file:///Library/PreferenceBundles/HushPrefs.bundle/icon@2x.png
+Description: Flip device face down to turn on do not disturb.
+Author: smokin1337 <riddickx4@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hushDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hushDp
+dev: smokin1337
+
+Package: com.spicat.rwpslider
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/rwpslider_0.0.1.deb
+Size: 3212
+Installed-Size: 74
+MD5sum: ec31eb61e72a1674970ab3138cff34e6
+Name: RWP Slider
+Description: Brightness slider for Reduce White Point when enabled.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: SpicaT <spica.tweak@outlook.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rwpsliderDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rwpsliderDp
+dev: spicat
+
 Package: com.springtomize.st4
 Version: 3
 Section: Tweaks
@@ -6246,6 +6629,26 @@ Tag: purpose::uikit, compatible::ios10, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rotyDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rotyDp
 dev: synnyg
+
+Package: com.tapsharp.jumper
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.12), com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/jumper_1.0.0.deb
+Size: 70640
+Installed-Size: 299
+MD5sum: 609b67edea14b7544607fa5e1a20710a
+Name: Jumper
+Icon: file:///Library/PreferenceBundles/Jumper.bundle/icon@2x.png
+Description: Jump into an application straight from the lockscreen
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Neo Ighodaro <neo@creativitykills.co>
+Tag: purpose::extension, role::enduser, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jumperDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=jumperDp
+dev: lehoodwink
 
 Package: com.tdogg9401.calypso2
 Version: 1.0.1-1
@@ -9504,6 +9907,29 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifibarsio
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifibarsio76themeDp
 dev: gabry3795
 
+Package: org.theos.dependencies
+Version: 0.0.3
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: git, grep, dpkg, coreutils, rsync, org.thebigboss.cacerts, org.coolstar.iostoolchain, firmware (>= 11) | org.coolstar.perl, firmware (<< 11) | perl
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/theosdependencies_0.0.3.deb
+Size: 936
+Installed-Size: 5
+MD5sum: b295a7b43604ebceaffa25801cbcec09
+Name: Theos Dependencies
+Description: What Theos needs.
+ Add coolstar's repository before installing this package https://coolstar.org/publicrepo/
+ Add sbingner's repository before installing this package https://repo.bingner.com/
+ This metapackage installs git, grep, dpkg, coreutils, rsync, CA Certs, perl and iOS Toolchain in one go.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: uroboro <uroboro.845@gmail.com>
+Tag: purpose::console, role::hacker
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosdependenciesDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=theosdependenciesDp
+dev: uroboro
+
 Package: preferenceloader
 Version: 2.2.3-3
 Section: System
@@ -9561,6 +9987,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=verticalvi
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=verticalvideosyndrome2Dp
 dev: andreaskhenriksson
 
+Package: tk.1di4r.hidedots11
+Version: 0.0.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hidedots11_0.0.1-1.deb
+Size: 3284
+Installed-Size: 145
+MD5sum: e1439a33650d0f0b08488db8db36d558
+Name: HideDots11
+Description: Hide Ugly HomeScreen And LockScreen Dots on iOS 11
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: 1di4r <01di4r@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidedots11Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidedots11Dp
+dev: 1di4r
+
 Package: tk.ethanrdoesmc.infinity
 Version: 1.2
 Section: Tweaks
@@ -9579,6 +10025,25 @@ Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Tag: purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=translucencyinfinityDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=translucencyinfinityDp
+dev: ethanrdoesmc
+
+Package: tk.ethanrdoesmc.largetitles
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/largetitleseverywhere_1.0.1.deb
+Size: 6178
+Installed-Size: 118
+MD5sum: 3f045de43d891b7b0edff89be610a1b4
+Name: LargeTitlesEverywhere
+Description: Makes every NavigationBar title use the large style.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=largetitleseverywhereDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=largetitleseverywhereDp
 dev: ethanrdoesmc
 
 Package: tv.othman.igtvothman
@@ -9641,6 +10106,28 @@ Author: Othman Alomiry <oooom24@gmail.com>
 Tag: purpose::extension, compatible::ios10, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=scothmanforsnapchatDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=scothmanforsnapchatDp
+dev: othman
+
+Package: tv.othman.scothman.ios11
+Version: 12.10.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.abcapps.snapplus, com.abcapps.snappluslite, com.cokepokes.phantom, com.hackyouriphone.palbreak, com.yourepo.mohadu31.nosub, com.yourepo.mohadu31.palbreakcyrepo, com.sharedroutine.skylerk99.disbreak, com.sharedroutine.skylerk99.snapbreak, com.sharedroutine.skylerk99.mlbreak, com.hackyouriphone.xconxx, com.repo.xarold.com.xconxx, com.n00neimp0rtant.xconxx, com.yourepo.mohadu31.xconxxx, com.yourepo.mohadu31.xconxxforios9, com.yourepo.goldcydia.xconxx, net.cydia00.xcon, com.ithegentle.phloader, com.yourepo.mohadu31.phloader, net.cydia00.phloader, com.yourepo.mohadu31.phantomcrack, com.yourepo.goldcydia.phantomcrack, net.cydia00.phantomcrack, com.ithegentle.adsremoval, tv.othman.scothman, com.yourepo.othmanal3miry.scothmanforsnapchat
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/scothmanforsnapchatelectra_12.10.1.deb
+Size: 3192120
+Installed-Size: 9312
+MD5sum: 6dd2004a1738d7e9c3129d96b21550f2
+Name: SCOthman For Snap (iOS11)
+Icon: file:///Library/Application%20Support/SnapOthman/SCOthmanResources.bundle/SCOthmanIcon.png
+Description: Add features to the Snap app
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Othman Alomiry <oooom24@gmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=scothmanforsnapchatelectraDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=scothmanforsnapchatelectraDp
 dev: othman
 
 Package: tw.hiraku.datalogoswitcher
