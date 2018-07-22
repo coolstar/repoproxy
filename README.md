@@ -10,9 +10,11 @@ Via Spreadsheet:
   1. Join the jailbreak discord
   2. Ask for one of the volunteers there to add your package to https://docs.google.com/spreadsheets/d/10cLGau96ptKSjRcPg5tuyuIp5ZoLrlwgQVjypqY_Wsc/edit#gid=0
   3. Wait for the closest weekend for the whitelist here to be updated
+  
 Via TweakCompatible:
   1. Submit it to TweakCompatible
   2. Wait for the weekend for the spreadsheet & whitelist here to be automatically updated
+  
 Via BigBoss:
   1. Submit an update or new package on/after July 2, 2018
   2. Wait 24 hours for it to get whitelisted and to show up here
