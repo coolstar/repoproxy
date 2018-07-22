@@ -7,8 +7,8 @@ Architectures: iphoneos-arm
 Components: main
 Description: iOS 11 and higher compatible packages from BigBoss, Modmyi and ZodTTD combined
 MD5Sum:
- 0b811c95a7132e593eae94fb72acca25 741374 Packages
- 2eab7579b8a92152917397ccedeadf69 95991 Packages.bz2
+ dbade877a57737fedbecac49312e6cac 1681601 Packages
+ 582aad69c0789ebc95cb9c79f14c90d4 208072 Packages.bz2
 SHA256:
- aec22d86f30af9636dbf82efbfc1ed3b4eb5bb132b701fe9e36d74be75601e83 741374 Packages
- 5871a8b0d372982434abd3bf9f7cff8cc54660dd6bfffa64a1290c41cccdd11a 95991 Packages.bz2
+ 125cb15a8b3b7bc077b0189fd0ad452e84a5c3518b705e358e24d8b561142044 1681601 Packages
+ 78411e07982fb3947f46fd3cfc897f7772012327e78b2203a02a6099c0eb438f 208072 Packages.bz2
