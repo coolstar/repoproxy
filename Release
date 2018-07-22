@@ -3,7 +3,7 @@ Label: BigBoss + ModMyi (Archive) + ZodTTD/MacCiti (Archive)
 Suite: stable
 Version: 0.9
 Codename: repounclutter
-Architectures: iphnoeos-arm
+Architectures: iphoneos-arm
 Components: main
 Description: iOS 11 and higher compatible packages from BigBoss, Modmyi and ZodTTD combined
 MD5Sum:
