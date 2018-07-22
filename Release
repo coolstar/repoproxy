@@ -1,0 +1,14 @@
+Origin: RepoBridge
+Label: BigBoss + ModMyi (Archive) + ZodTTD/MacCiti (Archive)
+Suite: stable
+Version: 0.9
+Codename: repounclutter
+Architectures: iphnoeos-arm
+Components: main
+Description: iOS 11 and higher compatible packages from BigBoss, Modmyi and ZodTTD combined
+MD5Sum:
+ 7b3a3011def700aeb3a555d8d7e00af2 1660436 Packages
+ a244cca03d56c99ee3444beadc8d8fea 205192 Packages.bz2
+SHA256:
+ 249825698b905cf9dbb2317dcad894e44500b54681f5440dcee8f3aa3af0efc0 1660436 Packages
+ 63e6c19d5330aa676f1aecd64f949045e4ceee6a3d3174eac8d8c517f48ad4f6 205192 Packages.bz2
