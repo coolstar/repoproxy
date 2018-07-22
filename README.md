@@ -6,6 +6,7 @@ Project Repo-Unclutter. Packages file is automatically updated by a script based
 ## Adding packages to the whitelist
 
 **To whitelist individual packages:**
+
 Via Spreadsheet:
   1. Join the jailbreak discord
   2. Ask for one of the volunteers there to add your package to https://docs.google.com/spreadsheets/d/10cLGau96ptKSjRcPg5tuyuIp5ZoLrlwgQVjypqY_Wsc/edit#gid=0
