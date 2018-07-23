@@ -17,7 +17,7 @@ Via TweakCompatible:
   2. Wait for the weekend for the spreadsheet & whitelist here to be automatically updated
   
 Via BigBoss:
-  1. Submit an update or new package on/after July 2, 2018
+  1. Submit an update or new package on/after April 3, 2015
   2. Wait 24 hours for it to get whitelisted and to show up here
 
 **To whitelist entire categories:**
