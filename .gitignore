@@ -1,6 +1,7 @@
 bigboss_packages*
-modmyi_packages
-zodttd_packages
+modmyi_packages*
+zodttd_packages*
 updaterepos.php
 tcimport.php
 tc.csv
+.DS_Store
