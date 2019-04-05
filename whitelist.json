@@ -181,5 +181,6 @@
 	"org.coolstar.ld64",
 	"net.limneos.libbulletin",
 	"com.modmyi.libswift4",
-	"org.coolstar.llvm-clang64"
+	"org.coolstar.llvm-clang64",
+	"ws.hbang.common"
 ]

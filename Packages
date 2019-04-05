@@ -37,15 +37,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapstorysp
 dev: ajbbocydia
 
 Package: ajbbotech.com.storefeatures
-Version: 1.1
+Version: 1.2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/storefeatures_1.1.deb
-Size: 41806
-Installed-Size: 476
-MD5sum: 96a572f3e635fbbf56034a2383dc6395
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/storefeatures_1.2.deb
+Size: 42432
+Installed-Size: 478
+MD5sum: 7e13b8e6e08e7ad0c7344efbb820b063
 Name: Store Features
 Description: Add More Features to Cydia
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -98,16 +98,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ucflagDp
 dev: ucfake
 
 Package: app.weiphone.ucstep
-Version: 5.0.0
+Version: 5.0.3
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 8.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ucstep_5.0.0.deb
-Size: 1076060
-Installed-Size: 3222
-MD5sum: d0b3799419cc65a49506653cc37b0939
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ucstep_5.0.3.deb
+Size: 1081728
+Installed-Size: 3322
+MD5sum: 4fd01bec09d3c7b1be42df5aa738737a
 Name: UCStep一键运动步数生成器
 Icon: file:///Applications/UCStep.app/AppIcon57x57.png
 Description: 支付宝微信QQ平安好医生企业咕咚步数神器
@@ -314,15 +314,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=emojitypeDp
 dev: adriano
 
 Package: bz.jed.tweakcompatible
-Version: 0.1.4
+Version: 0.1.5
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/tweakcompatible_0.1.4.deb
-Size: 53826
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/tweakcompatible_0.1.5.deb
+Size: 54016
 Installed-Size: 292
-MD5sum: 80ab96074bb7ee98d7f2107bab2fcbad
+MD5sum: 0a90d6021ba05aa5f67c60274c8d69b7
 Name: tweakCompatible
 Icon: file:///Library/PreferenceBundles/tweakCompatible_prefs.bundle/icon@2x.png
 Description: Adds a way to check tweak compatibility in cydia
@@ -411,20 +411,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=birdhouseDp
 dev: candoizo
 
 Package: ca.candoizo.chirp
-Version: 0.0.2
+Version: 1.0
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/chirp_0.0.2.deb
-Size: 9458
-Installed-Size: 120
-MD5sum: bab025ef87960c9db24a1cf6b10939eb
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/chirp_1.0.deb
+Size: 51704
+Installed-Size: 368
+MD5sum: 405da130abadad97d9a80de2ca0d570b
 Name: Chirp
-Description: wholesome reminders on your lockscreen
+Icon: file:///Library/PreferenceBundles/ChirpPrefs.bundle/Icon/Icon@2x.png
+Description: Wholesome reminders for your lockscreen, courtesy of @tinycarebot.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: candoizo <andreasmgott@gmail.com>
-Tag: purpose::extension, compatible::ios10
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chirpDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chirpDp
 dev: candoizo
@@ -491,20 +492,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=eyeplugsDp
 dev: kirara
 
 Package: ca.ndoizo.bolders
-Version: 1.0.1
+Version: 1.1.1-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bolders_1.0.1.deb
-Size: 13938
-Installed-Size: 117
-MD5sum: 31f908021576fb63867ee2a818dd5b78
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bolders_1.1.1-1.deb
+Size: 46144
+Installed-Size: 306
+MD5sum: 738a6e12d08437625f43c828492d66e1
 Name: Bolders
-Description: Bigger, bolder folders!
+Icon: file:///Library/PreferenceBundles/BoldersPrefs.bundle/Icon/Icon@2x.png
+Description: Bigger bolder folders
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: candoizo <andreasmgott@gmail.com>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boldersDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boldersDp
 dev: candoizo
@@ -607,6 +609,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statushudD
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statushudDp
 dev: tweakcc
 
+Package: cf.1di4r.timemoji
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/timemoji_1.0.deb
+Size: 1989750
+Installed-Size: 3145
+MD5sum: 705ab14d4e8e5a74be57396b6750c6f0
+Name: Timemoji
+Icon: file:///Library/PreferenceBundles/Timemojiprefs.bundle/icon.png
+Description: Replace AM/PM with emojis 😉
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: 1di4r <01di4r@gmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=timemojiDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=timemojiDp
+dev: 1di4r
+
 Package: ch.ringwald.btstack
 Version: 1.1-1
 Section: Development
@@ -625,9 +648,9 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Matthias Ringwald <tickets@btstack.uservoice.com>
 Tag: role::developer, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=btstackData
+breaks: co.cocoanuts.celeste (<= 0.90)
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=btstackData
 dev: mringwald
-breaks: co.cocoanuts.celeste (<= 0.90)
 
 Package: ch.ringwald.hidsupport
 Version: 1.3.1-1
@@ -1247,16 +1270,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bbmeasyDp
 dev: ahmedbafkir
 
 Package: com.ahmedbafkir.dleasy
-Version: 1.4.3
+Version: 1.5
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dleasy_1.4.3.deb
-Size: 690574
-Installed-Size: 3612
-MD5sum: 50aacaf4cb6ad6ca3cb8f4f1db08ecf6
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dleasy_1.5.deb
+Size: 673058
+Installed-Size: 3412
+MD5sum: 97fb89f21a81e5703f7907dd10ae9198
 Name: DLEasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
 Description: Download images & videos from social apps easily!
@@ -1410,15 +1433,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=toplesskeyb
 dev: ahrabie
 
 Package: com.ahsanqaed.noclose
-Version: 1.0
+Version: 2.0
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/amnoclose_1.0.deb
-Size: 12402
-Installed-Size: 255
-MD5sum: 44677ba0a4c5451114ab3b7745e679f9
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/amnoclose_2.0.deb
+Size: 138158
+Installed-Size: 918
+MD5sum: 9397cf417b355e44e050d6ca8b4bbc62
 Name: AM-NoClose
 Icon: file:///Library/PreferenceBundles/AMNoClosebundle.bundle/icon.png
 Description: shows alert when shutting down your device
@@ -1525,6 +1548,25 @@ Author: AlexK <alexkotrotsios123@gmail.com>
 Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyutilitiesDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyutilitiesDp
+dev: alexk
+
+Package: com.alexk.nolsscreenshot
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nolsscreenshot_0.0.1.deb
+Size: 8622
+Installed-Size: 137
+MD5sum: e8ea4654293dc4fa3bf50697f51b8246
+Name: NoLSScreenshot
+Description: Blocks screenshots in lockscreen.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: AlexK <alexkotrotsios123@gmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolsscreenshotDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nolsscreenshotDp
 dev: alexk
 
 Package: com.alltim3h4ckers.batteryonlypercent
@@ -1849,16 +1891,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=horseshoeDp
 dev: cardflourish101
 
 Package: com.aw.mobile.ikm
-Version: 5.1.0-6
+Version: 5.1.0-20
 Section: Security
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware(>= 3.0), mobilesubstrate, zip(>= 2.0), com.rpetrich.rocketbootstrap(>= 1.0.6), gawk
 Conflicts: com.aw.mobile.ikm64, com.aw.mobile.ikm.customized
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ikeymonitor_5.1.0-6.deb
-Size: 2114852
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ikeymonitor_5.1.0-20.deb
+Size: 2115316
 Installed-Size: 19321
-MD5sum: 539fe4e2cbe737444b1533fa8ad57246
+MD5sum: 7b417ccf4cd71a4a96d80cb553c3e599
 Name: iKeyMonitor keylogger - iPad/iPhone/iPod Key logger
 Description: Secretly Logs keystrokes, websites, screenshots and delivers them to you by Email or FTP.
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -2181,17 +2223,17 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/AptBackup.php
 dev: chrisfeatherstone
 
 Package: com.blandry.alarmvolume
-Version: 1.2.4
+Version: 1.2.5
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: de.ukex.sergeantalarm, org.samball.novibratedwakeup, org.thebigboss.arise, com.myrepospace.blandry.alarmvolume
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/alarmvolume_1.2.4.deb
-Size: 54682
-Installed-Size: 240
-MD5sum: 50be4b0e9e57a1c0430218fa6b501263
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/alarmvolume_1.2.5.deb
+Size: 55838
+Installed-Size: 323
+MD5sum: efc3f547566a03da012caa712acd03c8
 Name: AlarmVolume
 Icon: file:///Library/PreferenceBundles/AlarmVolumeSettings.bundle/AlarmVolumeSettings@2x.png
 Description: Set volume for Alarms and Timers
@@ -2258,16 +2300,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ssbmobileDp
 dev: luisfinke
 
 Package: com.browncoconut.itranslate
-Version: 0.0.1-5
+Version: 0.0.1-6
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/itranslate_0.0.1-5.deb
-Size: 9506
-Installed-Size: 235
-MD5sum: d4d3192150ba65511fe695185c3128f8
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/itranslate_0.0.1-6.deb
+Size: 4568
+Installed-Size: 133
+MD5sum: 8a2331b239ec0aee465f0b85440ed95a
 Name: iTranslate
 Icon: file:///Library/PreferenceBundles/itranslate.bundle/icon.png
 Description: adds 'translate' for words in Safari
@@ -2358,16 +2400,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=btsportunlo
 dev: dathero
 
 Package: com.c1d3r.notchification
-Version: 1.3.2
+Version: 1.4.2
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, applist, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/notchification_1.3.2.deb
-Size: 2245642
-Installed-Size: 8721
-MD5sum: c92cd2fadc9567c201d1c2aae83ff25b
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/notchification_1.4.2.deb
+Size: 2241786
+Installed-Size: 8621
+MD5sum: 5819b75e7c3352f5282e1caaa5e6a92c
 Name: Notchification
 Icon: file:///Library/PreferenceBundles/NotchificationSettings.bundle/NotchificationSettingsIcon@2x.png
 Description: Beautiful animated notifications for all device;
@@ -3060,6 +3102,27 @@ Tag: role::developer, purpose::extension, compatible::ios7, compatible::ios8, co
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
 dev: ashikase
+
+Package: com.cjack.hooktiktok
+Version: 0.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/hooktiktok_0.2.deb
+Size: 33970
+Installed-Size: 250
+MD5sum: 1d258d9bda2c4f1065fccfdc5b993088
+Name: hooktiktok
+Icon: file:///Library/PreferenceLoader/Preferences/hooktiktokIcon@2x.png
+Description: hook TikTok，实现国家或地区选择，无水印视频下载，取消某些视频限制下载。TikTok版本10.4.0，其他版本未知。
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: cjack <chenxkj@gmail.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hooktiktokDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hooktiktokDp
+dev: cjack
 
 Package: com.clarkecdc.open
 Version: 1.0.0
@@ -4028,20 +4091,20 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=toothfreeDp
 dev: creaturecoding
 
 Package: com.creaturesurvive.libcscolorpicker
-Version: 0.7.9
+Version: 0.8.1
 Section: Development
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), applist
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/libcscolorpicker_0.7.9.deb
-Size: 67504
-Installed-Size: 422
-MD5sum: beeb09223fbcccfae74a679d4f0f2c32
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/libcscolorpicker_0.8.1.deb
+Size: 66450
+Installed-Size: 414
+MD5sum: fb2b15142edb706b2e098210f52d11f2
 Name: libCSColorPicker
 Description: A minimal color picker library for developers
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CreatureSurvive <support@creaturecoding.com>
-Tag: purpose::library, cydia::obsolete, compatible::ios10
+Tag: purpose::library, cydia::obsolete, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolorpickerDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcscolorpickerDp
 dev: creaturecoding
@@ -4130,22 +4193,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=adaptivecol
 dev: lucaluca86
 
 Package: com.cydiageek.adaptivecolorpower
-Version: 1.5
+Version: 1.6
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/adaptivecolorpower_1.5.deb
-Size: 27974
-Installed-Size: 351
-MD5sum: e9ff789fdead2910c2a16c0226cc3599
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/adaptivecolorpower_1.6.deb
+Size: 37272
+Installed-Size: 415
+MD5sum: 9ea4a825de9f82c7da4900b69a5c2772
 Name: AdaptiveColorPower
 Icon: file:///Library/PreferenceBundles/AdaptiveColorPower.bundle/AdaptiveColorPower@2x.png
 Description: Color the Battery Icon based on the Wallpaper's Tint!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=adaptivecolorpowerDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=adaptivecolorpowerDp
 dev: lucaluca86
@@ -4168,6 +4231,26 @@ Author: CydiaGeek <lucaluca86@aol.com>
 Tag: purpose::extension, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alwaysdismissairplanealertDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alwaysdismissairplanealertDp
+dev: lucaluca86
+
+Package: com.cydiageek.animejionless
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/animejionless_1.0.0.deb
+Size: 7650
+Installed-Size: 185
+MD5sum: d166941ed7eff49ac4915925f6f44464
+Name: AnimejionLESS
+Description: Disable Animations on Animoji Previews!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animejionlessDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animejionlessDp
 dev: lucaluca86
 
 Package: com.cydiageek.barfade
@@ -4295,22 +4378,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterviber
 dev: lucaluca86
 
 Package: com.cydiageek.bluemusic
-Version: 1.0.1
+Version: 1.0.2
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bluemusic_1.0.1.deb
-Size: 50976
-Installed-Size: 232
-MD5sum: 2c8fb13743457749598e3e21284b6b96
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bluemusic_1.0.2.deb
+Size: 50958
+Installed-Size: 287
+MD5sum: c755ff04aef55ef32c5620236c3df047
 Name: BlueMusic
 Icon: file:///Library/PreferenceBundles/BlueMusic.bundle/BlueMusic@2x.png
 Description: Make Music App with Sleeker Blue Text and Tints!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bluemusicDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bluemusicDp
 dev: lucaluca86
@@ -4421,16 +4504,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byefoldervi
 dev: lucaluca86
 
 Package: com.cydiageek.byehomebottombarx
-Version: 1.0.3-1
+Version: 1.0.5
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/byehomebottombarx_1.0.3-1.deb
-Size: 69794
-Installed-Size: 373
-MD5sum: eae46275837d09b334164c8c1bb7abef
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/byehomebottombarx_1.0.5.deb
+Size: 71022
+Installed-Size: 376
+MD5sum: 6ca40c178f6bacdbc35b827013a3ebef
 Name: ByeHomeBottomBarX
 Icon: file:///Library/PreferenceBundles/ByeHomeBottomBarX.bundle/ByeHomeBottomBarX@2x.png
 Description: Remove/Fade Away the Ugly Home Bottom Bar of the iPhone X!
@@ -4671,16 +4754,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coysimDp
 dev: lucaluca86
 
 Package: com.cydiageek.cthulhu
-Version: 1.0.2
+Version: 1.0.3
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cthulhu_1.0.2.deb
-Size: 59980
-Installed-Size: 511
-MD5sum: b241ffb03c2d1c28b4f8478712e13f43
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cthulhu_1.0.3.deb
+Size: 60516
+Installed-Size: 513
+MD5sum: 07b8a93392a13a3e0fe3ae1b73ed725d
 Name: Cthulhu
 Icon: file:///Library/PreferenceBundles/Cthulhu.bundle/icon@2x.png
 Description: Custom Text below Press Home to Open/Swipe up to Unlock & More!
@@ -4860,43 +4943,43 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=darktintsin
 dev: lucaluca86
 
 Package: com.cydiageek.denyphotoalbums
-Version: 1.0.7
+Version: 1.0.8
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/denyphotoalbums_1.0.7.deb
-Size: 61232
-Installed-Size: 399
-MD5sum: 33e33bf4f2ea16e3e945b9380579739b
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/denyphotoalbums_1.0.8.deb
+Size: 68744
+Installed-Size: 497
+MD5sum: 546d31299275a1271a6ad2c27c7d4433
 Name: DenyPhotoAlbums
 Icon: file:///Library/PreferenceBundles/DenyPhotoAlbums.bundle/DenyPhotoAlbums@2x.png
 Description: Hide Needless Photo Albums & More!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=denyphotoalbumsDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=denyphotoalbumsDp
 dev: lucaluca86
 
 Package: com.cydiageek.discreetvoicememos
-Version: 1.0.4
+Version: 1.0.5
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/discreetvoicememos_1.0.4.deb
-Size: 12198
-Installed-Size: 337
-MD5sum: bd18d43f89bbe9d43f1fdf2a1227639e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/discreetvoicememos_1.0.5.deb
+Size: 24694
+Installed-Size: 439
+MD5sum: 9bafa103d7a3c50cce08138bd85a9be1
 Name: discreetVoiceMemos
 Icon: file:///Library/PreferenceBundles/discreetVoiceMemos.bundle/discreetVoiceMemos@2x.png
 Description: Make Discreet the VoiceMemos App!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=discreetvoicememosDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=discreetvoicememosDp
 dev: lucaluca86
@@ -5045,22 +5128,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fbnomorerec
 dev: lucaluca86
 
 Package: com.cydiageek.fleetingswitcher11
-Version: 1.0.9
+Version: 1.1.0
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fleetingswitcher11_1.0.9.deb
-Size: 64810
-Installed-Size: 591
-MD5sum: 103307654be4a647d1c5bd2918eb63c0
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fleetingswitcher11_1.1.deb
+Size: 66066
+Installed-Size: 612
+MD5sum: 65c33c047fbadead1638169afb75a654
 Name: fleetingSwitcher11
 Icon: file:///Library/PreferenceBundles/fleetingSwitcher11.bundle/icon@2x.png
 Description: Useful and Visual options for the iOS 11 App Switcher!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fleetingswitcher11Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fleetingswitcher11Dp
 dev: lucaluca86
@@ -5191,22 +5274,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=huefolderbg
 dev: lucaluca86
 
 Package: com.cydiageek.huepasscode
-Version: 1.0.0
+Version: 1.0.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, org.thebigboss.libcolorpicker
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/huepasscode_1.0.0.deb
-Size: 47334
-Installed-Size: 409
-MD5sum: a468c43e1b2db394db6436d1bac9ae95
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/huepasscode_1.0.1.deb
+Size: 53442
+Installed-Size: 501
+MD5sum: bf5a9f6a7a8fed3662f9def2094c4ab2
 Name: huePasscode
 Icon: file:///Library/PreferenceBundles/huePasscode.bundle/huePasscode@2x.png
 Description: Custom Colors & Options for the Passcode!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=huepasscodeDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=huepasscodeDp
 dev: lucaluca86
@@ -5296,16 +5379,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lshiddentoo
 dev: lucaluca86
 
 Package: com.cydiageek.marina
-Version: 1.0.8
+Version: 1.0.9
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/marina_1.0.8.deb
-Size: 73390
-Installed-Size: 578
-MD5sum: 3d64fb6f3e93ac0a3e58c0ec5b66e9a9
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/marina_1.0.9.deb
+Size: 73706
+Installed-Size: 579
+MD5sum: 798a899410d831f5405ef1d640a145d1
 Name: Marina
 Icon: file:///Library/PreferenceBundles/Marina.bundle/Marina@2x.png
 Description: Change the Numbers of the Icons of the Dock & More!
@@ -5794,6 +5877,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneforce
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneforceopentabsDp
 dev: lucaluca86
 
+Package: com.cydiageek.playmusiconrecord
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/playmusiconrecord_1.0.1.deb
+Size: 52476
+Installed-Size: 499
+MD5sum: ce24fd32e11bb950688dec431b3730b2
+Name: PlayMusicOnRecord
+Icon: file:///Library/PreferenceBundles/PlayMusicOnRecord.bundle/PlayMusicOnRecord@2x.png
+Description: Disable Music/Audio from stopping when recording Videos!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=playmusiconrecordDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=playmusiconrecordDp
+dev: lucaluca86
+
 Package: com.cydiageek.ringui
 Version: 1.0.2-3
 Priority: optional
@@ -5941,22 +6045,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smartcamera
 dev: lucaluca86
 
 Package: com.cydiageek.smoothbattery
-Version: 1.0.2
+Version: 1.0.3
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smoothbattery_1.0.2.deb
-Size: 53228
-Installed-Size: 423
-MD5sum: 1aab660c48adc1885fdb4ae30a16c476
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smoothbattery_1.0.3.deb
+Size: 60432
+Installed-Size: 523
+MD5sum: a45876274b8645e565d1e6f6352665b6
 Name: SmoothBattery
 Icon: file:///Library/PreferenceBundles/SmoothBattery.bundle/icon@2x.png
 Description: Smooth and Color options for your Battery!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smoothbatteryDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smoothbatteryDp
 dev: lucaluca86
@@ -6004,16 +6108,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smoothkeybo
 dev: lucaluca86
 
 Package: com.cydiageek.smoothlockx
-Version: 1.2.5
+Version: 1.2.6
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smoothlockx_1.2.5.deb
-Size: 75070
-Installed-Size: 723
-MD5sum: 3c95a7cf16e530bbe8af255176b78983
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smoothlockx_1.2.6.deb
+Size: 76736
+Installed-Size: 725
+MD5sum: eace8e8beb14b7b178e66a7220e75969
 Name: SmoothLockX
 Icon: file:///Library/PreferenceBundles/SmoothLockX.bundle/SmoothLockX@2x.png
 Description: Give Smooth and Clean Views to the LockScreen on the iPhone X!
@@ -6067,22 +6171,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=softcalcDp
 dev: lucaluca86
 
 Package: com.cydiageek.spotlightless11
-Version: 1.0.7
+Version: 1.0.8
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/spotlightless11_1.0.7.deb
-Size: 54806
-Installed-Size: 513
-MD5sum: 20dd340c552bf8b390a31dfc7ef011c6
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/spotlightless11_1.0.8.deb
+Size: 57062
+Installed-Size: 559
+MD5sum: 94f97864e2b7924e7f6b885511819419
 Name: Spotlightless11
 Icon: file:///Library/PreferenceBundles/Spotlightless11.bundle/Spotlightless11@2x.png
 Description: Get Rid of the Spotlight on iOS 10/11/12!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spotlightless11Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spotlightless11Dp
 dev: lucaluca86
@@ -6578,22 +6682,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smooth3dDp
 dev: demy076
 
 Package: com.deniu.daniutweak
-Version: 2.1.4
+Version: 2.1.6
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: app.weiphone.locationholic.rwx, app.weiphone.locationholic.locationholic.baidu, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, app.weiphone.sxtb.rwx, com.xsellize.rwx, rwx.appvv, app.weiphone.sxtb.rwx, cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, topme.ios.FakeGps, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/daniu_2.1.4.deb
-Size: 9430870
-Installed-Size: 38423
-MD5sum: 53b6df197b498375d78f7dd2ea69f2e5
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/daniu_2.1.6.deb
+Size: 8290678
+Installed-Size: 31823
+MD5sum: c9d4091c0bc6822584c2fa3368fe5e05
 Name: Daniu大牛
 Icon: file:///Applications/DNCube.app/AppIcon60x60@2x.png
 Description: 模拟位置修改位置模拟定位修改定位百度地图虚拟定位位置模拟钉钉打卡支付宝步数模拟步数修改微信多开微信运动微信分身wifi模拟定位修改wifi密码查看位置共享搜狗地图手机定位装逼神器伪装位置拍照壁纸日历铃声相机多开模拟红包插件微信运动交友咕咚keep
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Daniu <public@daniu.net>
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daniuDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daniuDp
 dev: daniu
@@ -6639,16 +6743,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nopagebounc
 dev: developersbliss
 
 Package: com.dgh0st.appswitchcurrent10
-Version: 0.0.2
+Version: 0.0.2-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
 Conflicts: com.dgh0st.appswitchcurrent
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/appswitchcurrent10_0.0.2.deb
-Size: 17520
-Installed-Size: 310
-MD5sum: bdef3634ea351a6f24db40e125459a47
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/appswitchcurrent10_0.0.2-1.deb
+Size: 15448
+Installed-Size: 306
+MD5sum: bb84974487e7abd1b9491bf9746c6a42
 Name: AppSwitchCurrent (9 & 10)
 Icon: file:///Library/PreferenceBundles/AppSwitchCurrent10.bundle/icon@2x.png
 Description: Center current application in deck switcher
@@ -6659,21 +6763,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appswitchcu
 dev: dgh0st
 
 Package: com.dgh0st.batterybar
-Version: 0.0.3-2
+Version: 0.0.3-4
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Conflicts: com.skylerk99.powerbar, org.thebigboss.batterystatusbar
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/batterybar_0.0.3-2.deb
-Size: 40936
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/batterybar_0.0.3-4.deb
+Size: 41130
 Installed-Size: 339
-MD5sum: 268c1ec83d49a54573580d861b87b37d
+MD5sum: b31761903388bc8cc7c0ab257926a248
 Name: BatteryBar
 Icon: file:///Library/PreferenceBundles/BatteryBar.bundle/icon@2x.png
 Description: Display a bar that represents the battery percentage in the status bar.
 Author: DGh0st <deeppwnage@yahoo.com>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterybarDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterybarDp
 dev: dgh0st
@@ -6698,15 +6802,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=enhancedswi
 dev: dgh0st
 
 Package: com.dgh0st.force3dappshortcuts
-Version: 0.0.4
+Version: 0.0.4-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/force3dappshortcuts_0.0.4.deb
-Size: 21886
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/force3dappshortcuts_0.0.4-1.deb
+Size: 21900
 Installed-Size: 282
-MD5sum: 8f60cba1bed618a946203a536277587b
+MD5sum: 7d6075ae0c605ec487c1ba5be2ca9d0e
 Name: Force3DAppShortcuts
 Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
 Description: Enable 3D touch shortcuts on homescreen for older devices.
@@ -6736,15 +6840,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=homecardico
 dev: dgh0st
 
 Package: com.dgh0st.lsscreenshotlimit
-Version: 0.0.3
+Version: 0.0.4-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lsscreenshotlimit_0.0.3.deb
-Size: 19536
-Installed-Size: 285
-MD5sum: 9d45611c8cf3198c0927f3e15b142a66
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/lsscreenshotlimit_0.0.4-1.deb
+Size: 16094
+Installed-Size: 277
+MD5sum: 6b6a00643af919ded61730de1c96b77f
 Name: LSScreenshotLimit
 Icon: file:///Library/PreferenceBundles/LSScreenshotLimit.bundle/icon@2x.png
 Description: Limit the amount of screenshots on your lockscreen.
@@ -6791,15 +6895,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=no3dtouchwi
 dev: dgh0st
 
 Package: com.dgh0st.screenshotxi
-Version: 1.0-9
+Version: 1.0-10
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/screenshotxi_v1.0-9.deb
-Size: 116838
-Installed-Size: 628
-MD5sum: 3f21f556b3032faff509890063891447
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/screenshotxi_v1.0-10.deb
+Size: 88486
+Installed-Size: 402
+MD5sum: 7a8cdfb7b08c470964470c2196b66312
 Name: ScreenshotXI
 Icon: file:///Library/PreferenceBundles/ScreenshotXI.bundle/icon@2x.png
 Description: iOS 11 screenshot feature on older iOS versions
@@ -6808,6 +6912,25 @@ Author: DGh0st <deeppwnage@yahoo.com>
 Tag: purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=screenshotxiDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=screenshotxiDp
+dev: dgh0st
+
+Package: com.dgh0st.undorotation
+Version: 0.0.12-2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/undorotation_0.0.12-2.deb
+Size: 400736
+Installed-Size: 1706
+MD5sum: 942b1a5aded3b9b571cf8c15f070ec5e
+Name: UndoRotation
+Icon: file:///Library/PreferenceBundles/undorotation.bundle/UndoRotation@2x.png
+Description: button to Undo last device rotation
+Author: DGh0st <deeppwnage@yahoo.com>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=undorotationDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=undorotationDp
 dev: dgh0st
 
 Package: com.dirtybeans.csources2
@@ -6926,6 +7049,27 @@ Author: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
 Tag: purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipadcamiphoneDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipadcamiphoneDp
+dev: douliuroczy
+
+Package: com.douliuroczy.ipadfeatures
+Version: 1.3
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ipadfeaturesxii_1.3.deb
+Size: 29262
+Installed-Size: 666
+MD5sum: 4049ddf0eaebcd05b76a4af4a4233250
+Name: iPad Features XII
+Icon: file:///Library/PreferenceBundles/iPadFeaturesXII.bundle/icon.png
+Description: Bring the iPad features to iPhone; StatusBar, Camera, Grid Switcher
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipadfeaturesxiiDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipadfeaturesxiiDp
 dev: douliuroczy
 
 Package: com.douliuroczy.ipadprokb
@@ -7110,23 +7254,43 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tapspotlig
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tapspotlightDp
 dev: dunkston
 
+Package: com.duraidabdul.neptune
+Version: 1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/neptuneforiphone_1.0.deb
+Size: 128798
+Installed-Size: 369
+MD5sum: 323484da0b2c06e729558b3bc31f7c10
+Name: Neptune for iPhone
+Icon: file:///Library/PreferenceBundles/Neptune.bundle/icon@2x.png
+Description: Enable Apple's modern fluid gestural interface on all devices.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Duraid Abdul <feedback.100@icloud.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=neptuneforiphoneDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=neptuneforiphoneDp
+dev: duraidabdul
+
 Package: com.dwna.newawardsforoldreddit
-Version: 1.1
+Version: 1.2
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/newawardsforoldreddit_1.1.deb
-Size: 73900
-Installed-Size: 432
-MD5sum: 364f3bafe5f5b6c7368e027ab1a6983d
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/newawardsforoldreddit_1.2.deb
+Size: 119036
+Installed-Size: 691
+MD5sum: 75c446c8080c997b16c832566b4f4e49
 Name: NewAwardsForOldReddit
 Icon: file:///Library/PreferenceBundles/naforPreferences.bundle/icon@2x.png
 Description: silver & platinum for Reddit 3.13.1, Narwhal
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: dwna <down.a.well@gmail.com>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=newawardsforoldredditDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=newawardsforoldredditDp
 dev: dwna
@@ -7276,16 +7440,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=prefermyfi2
 dev: enduniverse
 
 Package: com.estertion.replaykiteverywhere
-Version: 1.7.0
+Version: 1.7.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, libactivator, firmware (>= 9.0), firmware (<< 13.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.2), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/replaykiteverywhere_1.7.0.deb
-Size: 31788
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/replaykiteverywhere_1.7.1.deb
+Size: 31594
 Installed-Size: 196
-MD5sum: c9fd29f26fbcd2b449ce3c789e5ba34c
+MD5sum: 5ba821da0487262fd0217c72913bc8bf
 Name: ReplayKit Everywhere
 Icon: file:///Library/PreferenceBundles/ReplayKitEverywherePrefs.bundle/Icon@3x.png
 Description: Record app screen, everywhere, with the convenience of ReplayKit
@@ -7295,6 +7459,45 @@ Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11,
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=replaykiteverywhereDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=replaykiteverywhereDp
 dev: estertion
+
+Package: com.eswick.harbor2
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/harbor2_1.0.1-1.deb
+Size: 32984
+Installed-Size: 202
+MD5sum: d01181462d1e7d6b295be82e71ccf290
+Name: Harbor 2
+Icon: file:///Library/PreferenceBundles/harbor2prefs.bundle/icon@2x.png
+Description: macOS-style Dock
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Evan Swick <eswick@eswick.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=harbor2Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=harbor2Dp
+dev: eswick
+
+Package: com.ethan.flybirdremotecontrol
+Version: 1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flybirdremotecontrol_1.1.deb
+Size: 532746
+Installed-Size: 2513
+MD5sum: 39d45df262d7c4f519e2625c391dc29c
+Name: 飞鸟群控
+Description: FlyBirdRemoteControl - 通过pc端控制手机 - 实时控制支持鼠标点击、滑动
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Ethan.Qiu <lovetony2019@hotmail.com>
+Tag: purpose::extension, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flybirdremotecontrolDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flybirdremotecontrolDp
+dev: lovetony2019
 
 Package: com.ethan.waautoreply
 Version: 1.4
@@ -7413,6 +7616,28 @@ Tag: purpose::extension, compatible::ios10, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ibookslookupcloserDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ibookslookupcloserDp
 dev: everettjf
+
+Package: com.exormeter.alarmfade
+Version: 1.1.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Conflicts: com.blandry.alarmvolume
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/alarmfade_1.1.0.deb
+Size: 38550
+Installed-Size: 297
+MD5sum: 7bec567714ca324c3aa0ce2229d34df8
+Name: AlarmFade
+Icon: file:///Library/PreferenceBundles/AlarmFade.bundle/icon@2x.png
+Description: Fades in the alarm
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Nils Kirchhof <nils.kirchhof@t-online.de>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alarmfadeDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alarmfadeDp
+dev: nilskirchhof
 
 Package: com.expetelek.simplepasscodebuttons
 Version: 0.0.4
@@ -7598,21 +7823,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusi9Dp
 dev: f0u4d
 
 Package: com.f0u4d.watusitools
-Version: 2.0.5
+Version: 2.0.6
 Section: Development
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), darwintools
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/watusitools_2.0.5.deb
-Size: 6231408
-Installed-Size: 29412
-MD5sum: ba87b6a4acf491c19840e68f1739763b
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/watusitools_2.0.6.deb
+Size: 6270682
+Installed-Size: 29612
+MD5sum: 660862dabf6a9e0dcf9db53677b80b24
 Name: WatusiTools
 Description: Library for Watusi and WhatsApp tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Fouad Raheb <fouad.raheb@gmail.com>
-Tag: cydia::obsolete, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: cydia::obsolete, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusitoolsDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=watusitoolsDp
 dev: f0u4d
@@ -7884,17 +8109,17 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=whatsappcus
 dev: fidele007
 
 Package: com.fouadraheb.watusi
-Version: 1.1.7
+Version: 1.1.9
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.3), com.rpetrich.rocketbootstrap, applist
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 2.0.6), com.rpetrich.rocketbootstrap, applist
 Conflicts: com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1
 Replaces: org.thebigboss.watusi
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/watusi2_1.1.7.deb
-Size: 3013424
-Installed-Size: 13113
-MD5sum: 09853fd0d8203a867494e7e98fc81e3d
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/watusi2_1.1.9.deb
+Size: 3072904
+Installed-Size: 13413
+MD5sum: 76f6071638483d69f323bd7015232b7d
 Name: Watusi 2 for WhatsApp
 Icon: file:///Library/Application%20Support/Watusi/FRAssets.bundle/Watusi@3x.png
 Description: The all-in-one tweak for WhatsApp Messenger
@@ -8650,16 +8875,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gokustudiow
 dev: gokustudio
 
 Package: com.golddavid.colorbanners2
-Version: 1.2.2
+Version: 1.2.3
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
 Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.golddavid.colorbanners2_v1.2.2.deb
-Size: 662904
-Installed-Size: 1013
-MD5sum: 4ff4a19cbb7e3d783e4d5b4d7ba16970
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.golddavid.colorbanners2_v1.2.3.deb
+Size: 663092
+Installed-Size: 1014
+MD5sum: b3ec287a9d27b35d2c6c0dd17a0f23a3
 Name: ColorBanners 2
 Icon: file:///Library/PreferenceBundles/ColorBanners2Prefs.bundle/ColorBanners@2x.png
 Description: Color your notifications
@@ -9256,6 +9481,25 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpowe
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpowermenuDp
 dev: huub
 
+Package: com.hydri.sbtaps
+Version: 1.0.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sbtaps_1.0.0.deb
+Size: 9532
+Installed-Size: 127
+MD5sum: 470949c36eb6d3c996471ca7cd6265b2
+Name: SBTaps
+Description: toggle system functions by tapping statusbar icons
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Hydri <twitchtv.hydri@gmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbtapsDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbtapsDp
+dev: hydri
+
 Package: com.i0sa.phonecaller
 Version: 1.6.1
 Priority: optional
@@ -9405,16 +9649,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stylishDp
 dev: i0stweak3r
 
 Package: com.i0stweak3r.stylish11
-Version: 1.0.7-1
+Version: 1.0.7-2
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/stylish11_1.0.7-1.deb
-Size: 92356
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/stylish11_1.0.7-2.deb
+Size: 92594
 Installed-Size: 789
-MD5sum: c508baceff24266bd535447f25a14ea8
+MD5sum: 3fc08228ed8a7b1cf424b439de4d595e
 Name: Stylish11
 Icon: file:///Library/PreferenceBundles/Stylish11.bundle/icon@2x.png
 Description: colorful UI customization features
@@ -10076,6 +10320,82 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uirotation
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uirotation9Dp
 dev: ichitaso
 
+Package: com.icraze.easynotifications
+Version: 1.0-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/easynotifications_1.0-1.deb
+Size: 7410
+Installed-Size: 143
+MD5sum: bbd145609735e7151d2df18932ed1e28
+Name: Easy Notifications
+Description: Swipe To Open/Clear Notifications Quicker And Easier.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: iCraze <icrazeios@protonmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easynotificationsDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easynotificationsDp
+dev: icraze
+
+Package: com.icraze.no3dcursor
+Version: 1.0-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/no3dcursor_1.0-1.deb
+Size: 7114
+Installed-Size: 130
+MD5sum: b49b76cb239a362735465a02f6f10247
+Name: No3DCursor
+Description: Disable The 3D Touch Keyboard Cursor.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: iCraze <icrazeios@protonmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=no3dcursorDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=no3dcursorDp
+dev: icraze
+
+Package: com.icraze.noburst
+Version: 1.0-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/noburst_1.0-1.deb
+Size: 6686
+Installed-Size: 129
+MD5sum: 38f0de9462423eb54cef78c8e79be110
+Name: NoBurst
+Description: Disable Burst Photos In The Camera App.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: iCraze <icrazeios@protonmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noburstDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noburstDp
+dev: icraze
+
+Package: com.icraze.simplisticphotos
+Version: 0.0.2-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/simplisticphotos_0.0.2-1.deb
+Size: 7256
+Installed-Size: 143
+MD5sum: 3f54f99c625947265da4e57c8b098307
+Name: Simplistic Photos
+Description: Removes The Tab-Bar In The Photos App.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: iCraze <icrazeios@protonmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=simplisticphotosDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=simplisticphotosDp
+dev: icraze
+
 Package: com.idevicelover.callplus
 Version: 1.5
 Section: Tweaks
@@ -10094,6 +10414,48 @@ Author: elias <elias_sfeir@live.com>
 Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callplusDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callplusDp
+dev: idevicelover
+
+Package: com.idevicelover.confirm2proceed2
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ws.hbang.common
+Conflicts: com.idevicelover.confirm2proceed
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/confirm2proceed2_1.2.deb
+Size: 229714
+Installed-Size: 1312
+MD5sum: 2e728cece1cdf36e4e8f2abd5f7ff65d
+Name: Confirm2Proceed2
+Icon: file:///Library/PreferenceBundles/confirm2proceed2.bundle/icon@2x.png
+Description: confirm dialog for sms, calls, email & more.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Elias <elias_sfeir@live.com>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirm2proceed2Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirm2proceed2Dp
+dev: idevicelover
+
+Package: com.idevicelover.no2theft2
+Version: 1.4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.idevicelover.no2theft
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/no2theft2_1.4.deb
+Size: 141644
+Installed-Size: 801
+MD5sum: bbc4def8570b2c46796435b0c01a9403
+Name: No2Theft2
+Icon: file:///Library/PreferenceBundles/No2Theft2.bundle/icon@2x.png
+Description: No2Theft protects your phone from thieves!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Elias Sfeir <elias_sfeir@live.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=no2theft2Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=no2theft2Dp
 dev: idevicelover
 
 Package: com.idevicelover.socialdownloader
@@ -11185,6 +11547,28 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockdownli
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockdownliteDp
 dev: ipodtouchmaster05
 
+Package: com.itaysoft.icaughtuxii
+Version: 1.1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, firmware (>= 11.0)
+Conflicts: com.itaysoft.icaughtu, com.itaysoft.icaughtupro, com.itaysoft.icaughtupro8, com.itaysoft.icaughtupro9, com.itaysoft.icaughtupro10
+Replaces: com.itaysoft.icaughtu, com.itaysoft.icaughtupro, com.itaysoft.icaughtupro8, com.itaysoft.icaughtupro9, com.itaysoft.icaughtupro10
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/icaughtu12_1.1.0.deb
+Size: 432630
+Installed-Size: 1224
+MD5sum: cc45365b28bedcfe63640cc812f78b30
+Name: iCaughtU 12
+Icon: file:///Library/PreferenceBundles/iCaughtUXII.bundle/iCaughtU_12@2x.png
+Description: The most complete tweak to enhance the security of your Device
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Itay <support@itaysoft.com>
+Tag: cydia::commercial, purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icaughtupro12Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icaughtupro12Dp
+dev: itay
+
 Package: com.itcbx.wechatplugin
 Version: 4.1-3
 Section: Tweaks
@@ -11307,15 +11691,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=exchangepas
 dev: thazsar
 
 Package: com.iwazowski.iweppro5
-Version: 8.8.5-364
+Version: 8.8.5-367
 Section: Networking
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iweppro5_8.8.5-364.deb
-Size: 441816
-Installed-Size: 2012
-MD5sum: b4fa6c1ada81af0baf9e83b21c1cf075
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iweppro5_8.8.5-367.deb
+Size: 441984
+Installed-Size: 2013
+MD5sum: 3b24ea973620173932c0cb50390d0276
 Name: iWep PRO 8
 Icon: file:///Applications/iweppro5.app/iWepPROIcon_57px.png
 Description: First iOS WiFi Auditor Application
@@ -11759,6 +12143,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=norecentsD
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=norecentsDp
 dev: joka
 
+Package: com.joka.qubetownjailbreakbypass
+Version: 1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/qubetownjailbreakbypass_1.0.deb
+Size: 6634
+Installed-Size: 157
+MD5sum: 417309b869242086db5347113307e658
+Name: QubeTown Jailbreak Bypass
+Icon: file:///Library/PreferenceLoader/Preferences/qubetown@2x.png
+Description: Bypass the QubeTown jailbreak detection.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Joka <jooeeeee@hotmail.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qubetownjailbreakbypassDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qubetownjailbreakbypassDp
+dev: joka
+
 Package: com.jontelang.assistiveplus
 Version: 1.6
 Section: Tweaks
@@ -11821,22 +12225,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=screenlocke
 dev: jontelang
 
 Package: com.jontelang.snapper2
-Version: 1.3
+Version: 1.4
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.jontelang.snapper
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.jontelang.snapper2_v1.3.deb
-Size: 192360
-Installed-Size: 920
-MD5sum: 767300028f8c19a22358155842b4b72e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.jontelang.snapper2_v1.4.deb
+Size: 216730
+Installed-Size: 1020
+MD5sum: 8376d49c00bd5e339fe51e10be43b887
 Name: Snapper 2
 Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/SnapperPreferences@2x.png
 Description: Pin screenshots on the screen.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Jonathan Winger Lang <jontelang@gmail.com>
-Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapper2Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapper2Dp
 dev: jontelang
@@ -12312,15 +12716,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
 dev: kingpuffdaddi
 
 Package: com.kingpuffdaddi.dynamictimer
-Version: 1.2
+Version: 1.2.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dynamictimer_1.2.deb
-Size: 33658
-Installed-Size: 258
-MD5sum: 9415f11f94adeacee396e727c5597741
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dynamictimer_1.2.1.deb
+Size: 34050
+Installed-Size: 259
+MD5sum: 823bac482aab8ff98deba21aa5be422a
 Name: DynamicTimer
 Description: change between "Stop Playing" and ringtone
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
@@ -12580,6 +12984,26 @@ Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
 dev: kurrt
+
+Package: com.kushy.firstaid
+Version: 0.0.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/firstaid_0.0.2.deb
+Size: 30200
+Installed-Size: 255
+MD5sum: c399bdadae5372b4809c6df565b17acc
+Name: FirstAid
+Icon: file:///Library/PreferenceBundles/firstaid.bundle/icon@2x.png
+Description: support chatroom inside Cydia app
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: KushyDaBush <kush.designs2@gmail.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=firstaidDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=firstaidDp
+dev: kushy
 
 Package: com.kushy.libellus
 Version: 3.1.2
@@ -13462,21 +13886,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterglyph
 dev: stgardner4
 
 Package: com.macciti.boomstar
-Version: 2.0-2
+Version: 2.0-3
 Priority: optional
 Section: Themes (SpringBoard)
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), com.anemonetheming.anemone
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.macciti.boomstar_v2.0-2.deb
-Size: 5200666
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/boomstar_2.0-3.deb
+Size: 5201066
 Installed-Size: 16122
-MD5sum: ba09b5bc8e33937da6967f6974c52f11
+MD5sum: f265c44d87cb6dea8af5f443660daae0
 Name: Boom Star 2
 Description: Feel the explosive beauty of colors in the night :P
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Ernest0N <magatar136@yandex.ru>
-Tag: cydia::commercial, purpose::theme, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::theme, compatible::ios9, compatible::ios10, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boomstarthemeDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boomstarthemeDp
 dev: ernest0n
@@ -14309,19 +14733,19 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cleanmusicc
 dev: mtactheming
 
 Package: com.mtac.cleanpasscodexi
-Version: 0.0.3-1
+Version: 0.0.4-2
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cleanpasscodexi_0.0.3-1.deb
-Size: 21638
-Installed-Size: 233
-MD5sum: 6488781c7b758965360ef718ccd616a1
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cleanpasscodexi_0.0.4-2.deb
+Size: 21540
+Installed-Size: 249
+MD5sum: acdc5f318dad8eaeb4752cd81a2ae435
 Name: CleanPasscodeXI
 Icon: file:///Library/PreferenceBundles/cpxiprefs.bundle/icon@2x.png
-Description: Remove the Emergency/Cancel buttons and passcode entry circles from the passcode screen
+Description: Customize your Passcode screen.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: MTAC <mtactheming@gmail.com>
 Tag: purpose::extension, compatible::ios11, compatible::ios12
@@ -14388,6 +14812,25 @@ Tag: purpose::extension, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockconversationsDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lockconversationsDp
 dev: mvincentm
+
+Package: com.mvincentm.myname
+Version: 2.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 4.0), preferenceloader, mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/myname_2.0.deb
+Size: 42818
+Installed-Size: 304
+MD5sum: 53a9a8225e46f93198445f4aeb9e3abc
+Name: MyName
+Icon: file:///Library/PreferenceLoader/Preferences/MyName/icon@2x.PNG
+Description: change carrier name to your name
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: M_Vincent_M <vincentmm@free.fr>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mynameDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mynameDp
+dev: vincentmm
 
 Package: com.n104.illlooklater
 Version: 2.0-2
@@ -15166,43 +15609,43 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=quickpowerm
 dev: olxios
 
 Package: com.oly.xb-autonetwork
-Version: 1.5
+Version: 1.6
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.oly.xb-ccmodules
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbautonetwork_1.5.deb
-Size: 309908
-Installed-Size: 950
-MD5sum: d473246c9a9ae4b28a0974f283e73292
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbautonetwork_1.6.deb
+Size: 310472
+Installed-Size: 951
+MD5sum: 6dcf5f818a87b1fb0f15d4c24c66a156
 Name: XB-AutoNetwork
 Icon: file:///Library/PreferenceBundles/XBAutoNetwork.bundle/XBAutoNetwork@2x.png
 Description: Save battery disabling WiFi or Data!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Olivier Crespo <ocbarrio@yahoo.es>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xbautonetworkDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xbautonetworkDp
 dev: olycreba
 
 Package: com.oly.xb-ccmodules
-Version: 1.8
+Version: 1.9
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11), mobilesubstrate, com.opa334.ccsupport, preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbccmodules_1.8.deb
-Size: 791630
-Installed-Size: 4322
-MD5sum: 059be064d01c3613cf19f5a4d2474dd2
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbccmodules_1.9.deb
+Size: 647536
+Installed-Size: 3122
+MD5sum: 6026e8b2531a45573c6fa2a0a5a01912
 Name: XB-CCModules
 Icon: file:///Library/PreferenceBundles/XBCCModules.bundle/XBCCModules@2x.png
-Description: CC Connectivity replacement with settings!
+Description: CC Connectivity replacement with settings and more!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Olivier Crespo <ocbarrio@yahoo.es>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xbccmodulesDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xbccmodulesDp
 dev: olycreba
@@ -15229,37 +15672,37 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xbhideDp
 dev: olycreba
 
 Package: com.oly.xb-vibracall
-Version: 1.5
+Version: 1.6
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbvibracall_1.5.deb
-Size: 215860
-Installed-Size: 721
-MD5sum: ae70b27c168778e6df19179302069a4a
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbvibracall_1.6.deb
+Size: 223422
+Installed-Size: 691
+MD5sum: a80389d45860931a4ebf5c086a50f1e5
 Name: XB-VibraCall
 Icon: file:///Library/PreferenceBundles/XBVibraCall.bundle/XBVibracall@2x.png
 Description: Vibrate when calls are connected or disconnected!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Olivier Crespo <ocbarrio@yahoo.es>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xbvibracallDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xbvibracallDp
 dev: olycreba
 
 Package: com.oly.xbspotlightscroll
-Version: 1.1
+Version: 1.3
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbspotlightscroll_1.1.deb
-Size: 282742
-Installed-Size: 641
-MD5sum: 47768c46d0af8a33580070fcef065400
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbspotlightscroll_1.3.deb
+Size: 295154
+Installed-Size: 737
+MD5sum: 01c8e7e2fffe15bdbe2c40d419e49594
 Name: XB-SpotlightScroll
 Icon: file:///Library/PreferenceBundles/XBSpotlightScroll.bundle/XBSpotlightScroll@2x.png
 Description: Replace Spotlight left swipe gesture with Actions and more!
@@ -15271,16 +15714,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=xbspotlight
 dev: olycreba
 
 Package: com.oly.xbwakedevice
-Version: 1.0
+Version: 1.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbwakedevice_1.0.deb
-Size: 128056
-Installed-Size: 499
-MD5sum: 44f33bf85c95eb0dfd3ede7e36c9e3c6
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/xbwakedevice_1.1.deb
+Size: 126330
+Installed-Size: 487
+MD5sum: 31b6b9437e130a83658424b5206aba5f
 Name: XB-WakeDevice
 Icon: file:///Library/PreferenceBundles/XBWakeDevice.bundle/XBWakeDevice@2x.png
 Description: Wake screen with device orientation!
@@ -15311,7 +15754,7 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onemoretime
 dev: onemoretweak
 
 Package: com.opa334.ccsupport
-Version: 1.2-2
+Version: 1.2-3
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
@@ -15319,10 +15762,10 @@ Conflicts: com.ioscreatix.silo
 Provides: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ccsupport_1.2-2.deb
-Size: 30988
-Installed-Size: 122
-MD5sum: 8ca91bbf72b14439964f7b20b9f4cea6
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ccsupport_1.2-3.deb
+Size: 35506
+Installed-Size: 203
+MD5sum: 5bdf900d2f1e3f7b8dca06696892ef8a
 Name: CCSupport
 Description: Support tweak for CC modules!
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -15411,6 +15854,25 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterbadg
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterbadgesDp
 dev: orangebananaspy
 
+Package: com.orangebananaspy.cfxpreferences
+Version: 1.0
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cfxpreferences_1.0.deb
+Size: 7154
+Installed-Size: 205
+MD5sum: e96eddf690d703b1307ec31f879993ae
+Name: CFXPreferences
+Description: Flush and get preferences from cfprefsd
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Orangebananaspy <support@orangebananaspy.com>
+Tag: cydia::obsolete, purpose::library, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cfxpreferencesDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cfxpreferencesDp
+dev: orangebananaspy
+
 Package: com.orangebananaspy.libobsutilities
 Version: 1.4
 Section: Development
@@ -15428,6 +15890,26 @@ Author: Orangebananaspy <support@orangebananaspy.com>
 Tag: cydia::obsolete, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libobsutilitiesDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libobsutilitiesDp
+dev: orangebananaspy
+
+Package: com.orangebananaspy.organicemojiscrubber
+Version: 1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.orangebananaspy.cfxpreferences
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/organicemojiscrubber_1.2.deb
+Size: 116858
+Installed-Size: 400
+MD5sum: 6f5c856761c803e22a6dd118d0c46f7f
+Name: Organic Emoji Scrubber
+Icon: file:///Library/PreferenceBundles/OrganicEmojiScrubber.bundle/icon@2x.png
+Description: Add organic animation to the emoji scrubber
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Orangebananaspy <support@orangebananaspy.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=organicemojiscrubberDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=organicemojiscrubberDp
 dev: orangebananaspy
 
 Package: com.ouraigua.audicy
@@ -15576,15 +16058,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=byebetalert
 dev: mohmadagzail
 
 Package: com.pantsthief.flexing
-Version: 0.0.10
+Version: 0.0.11
 Section: Development
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware(>= 8.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flexing_0.0.10.deb
-Size: 336776
-Installed-Size: 1421
-MD5sum: 4350d0428d79726288bb9adbdb76fe19
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/flexing_0.0.11.deb
+Size: 495710
+Installed-Size: 2621
+MD5sum: 02e26892b7cdf8f7c93682695704a285
 Name: FLEXing
 Icon: file:///Library/Activator/Listeners/com.pantsthief.flexing.toggle/Icon-small@2x.png
 Description: Open FLEX anywhere!
@@ -15630,6 +16112,27 @@ Tag: purpose::extension, role::enduser, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openbankbypassDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=openbankbypassDp
 dev: pa1nproductions
+
+Package: com.particleapps.instasearch
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/instasearch_1.0.0.deb
+Size: 166554
+Installed-Size: 396
+MD5sum: 3299d2b15791319cdedecc0a635f7782
+Name: Instasearch
+Icon: file:///var/mobile/Application%20Support/Instasearch/InstasearchAppIcon.png
+Description: Hide Instagram's explore features and automatically begin searching
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Rocco Del Priore <frostbitee08@gmail.com>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instasearchDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instasearchDp
+dev: frostbitee08
 
 Package: com.pash.musicplayer
 Version: 2.2.9
@@ -15945,6 +16448,26 @@ Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pkgbackupDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pkgbackupDp
 dev: jibril
+
+Package: com.pxcex.bannercopied
+Version: 0.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bannercopied_0.0.2.deb
+Size: 6804
+Installed-Size: 133
+MD5sum: 089ca059f3d7f124dc5bbb8a37add42e
+Name: BannerCopied
+Description: Copy your notifications to paste later
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: pxcex <pxcex@icloud.com>
+Tag: purpose::extension, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bannercopiedDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bannercopiedDp
+dev: pxcex
 
 Package: com.pxcex.bordericonplus
 Version: 1.0.1-1
@@ -18246,9 +18769,9 @@ Description: Mod Manager for World of Tanks Blitz
 Author: subdiox <subdiox@gmail.com>
 Tag: purpose::uikit
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blitzmodderDp
+breaks: org.coolstar.stash933
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blitzmodderDp
 dev: subdiox
-breaks: org.coolstar.stash933
 
 Package: com.sull.facebookmessengeressentials
 Version: 1.0
@@ -18350,15 +18873,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backupaz2Dp
 dev: synnyg
 
 Package: com.synnyg.floatydock
-Version: 1.4.1
+Version: 1.5
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, com.creaturesurvive.libcscolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/floatydock_1.4.1.deb
-Size: 67886
-Installed-Size: 256
-MD5sum: 169a625639e24fb4310a395d16a9ed08
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/floatydock_1.5.deb
+Size: 70024
+Installed-Size: 412
+MD5sum: db13005a1d18ce08fd0eb0383072c1ff
 Name: FloatyDock
 Icon: file:///Library/PreferenceBundles/FloatyDockPrefs.bundle/icon@2x.png
 Description: iPad dock power, for all !
@@ -18370,24 +18893,44 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=floatydockD
 dev: synnyg
 
 Package: com.synnyg.roty
-Version: 1.0-1
+Version: 1.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/roty_1.0-1.deb
-Size: 90934
-Installed-Size: 400
-MD5sum: 9f375ace5e52d567ac747dfb4c7bf049
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/roty_1.1.deb
+Size: 90940
+Installed-Size: 388
+MD5sum: bb3f286a1c40c668254773bca6b90003
 Name: Roty
 Icon: file:///Library/PreferenceBundles/rotyprefs.bundle/icon@2x.png
 Description: Rotate your device as you want !
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: SynnyG <synnyg.devjb@gmail.com>
-Tag: purpose::uikit, compatible::ios10, compatible::ios11
+Tag: purpose::uikit, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rotyDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rotyDp
 dev: synnyg
+
+Package: com.talal.alotaibi.arabicappstore
+Version: 1.0.1
+Priority: optional
+Section: Applications
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/arabicappstore_1.0.1.deb
+Size: 13134
+Installed-Size: 59
+MD5sum: c8c8cbbebff3e548115da16b66953254
+Name: Arabic AppStore
+Description: الاداة تضيف السهولة لتصفح متجر التطبيقات وفهم بعض الخيارات والاعدادات لمجتمع اللغة العربية
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: TALAL ALOTAIBI <Talalrugi@hotmail.com>
+Tag: compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=arabicappstoreDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=arabicappstoreDp
+dev: alotaibi
 
 Package: com.tangxianhai.truebackground
 Version: 2.1.0-14
@@ -18846,27 +19389,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=outlinethe
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=outlinethemeDp
 dev: thomz
 
-Package: com.tigerban.tempoxs
-Version: 1.0
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/tempoxs_1.0.deb
-Size: 14554
-Installed-Size: 148
-MD5sum: 1d9708fd14f8900a6a612bbfb21777b3
-Name: TempoXS
-Icon: file:///Library/PreferenceBundles/TempoXS.bundle/icon@2x.png
-Description: Change the status bar time format
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: Tigerban <tigerban3@gmail.com>
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tempoxsDp
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tempoxsDp
-dev: tigerban
-
 Package: com.tigisoftware.appdatamanager
 Version: 1.4.2
 Priority: optional
@@ -19190,16 +19712,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=musessionsi
 dev: tweakingsdev
 
 Package: com.tweakios.easydialer
-Version: 0.0.2-4
+Version: 0.0.2-17
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/easydialer_0.0.2-4.deb
-Size: 110298
-Installed-Size: 587
-MD5sum: 88a92a8a2f93209bbaf8efe4c2f113cd
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/easydialer_0.0.2-17.deb
+Size: 115272
+Installed-Size: 630
+MD5sum: 24debe0fab4473a9a7d67653854827db
 Name: EasyDialer
 Icon: file:///Library/PreferenceBundles/EasyDialerPrefs.bundle/EasyDialer@2x.png
 Description: Dial contacts easily with T9 searching!
@@ -19988,21 +20510,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wadisablepr
 dev: xcerelon
 
 Package: com.xcxiao.bottomcontrolx
-Version: 1.1.0
+Version: 1.1.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bottomcontrolx_1.1.0.deb
-Size: 107082
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bottomcontrolx_1.1.1.deb
+Size: 107052
 Installed-Size: 393
-MD5sum: 4a435d5e1596f1b9b41912ebd6129e30
+MD5sum: 7675a76de7a11bc5be676d89836c4c2d
 Name: BottomControlX
 Description: Easier access to your ControlCenter on iPhone X.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: XCXiao <958169971@qq.com>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bottomcontrolxDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bottomcontrolxDp
 dev: xcxiao
@@ -21625,16 +22147,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleeksheets
 dev: mattr
 
 Package: ios.cajb.videodownloader
-Version: 2.5.0
+Version: 2.5.1
 Priority: optional
 Section: Multimedia
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/videodownloader_2.5.0.deb
-Size: 3092550
-Installed-Size: 11410
-MD5sum: 1ef7e5b608c533aa692223fc480b0f6e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/videodownloader_2.5.1.deb
+Size: 3094100
+Installed-Size: 11412
+MD5sum: dd0f26a5c3eba52d9c49e90b1a54590c
 Name: 网页视频下载器Web Video Downloader-缓存网站视频
 Description: Web Video Downloader. 缓存下载视频，离线播放。看视频、看电影、看连续剧，更快更爽更自由！
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -21666,16 +22188,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fingertouch
 dev: dreamcode
 
 Package: jb.acc.gpsmanager
-Version: 1.8.1
+Version: 1.8.2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, topme.ios.FakeGps, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmanager_1.8.1.deb
-Size: 2577932
-Installed-Size: 9323
-MD5sum: 93f5209af3b1e8d93a579570a80f5ea6
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmanager_1.8.2.deb
+Size: 2637092
+Installed-Size: 9523
+MD5sum: 354b85a3ff74f7782cbec6866aaf0386
 Name: GPS Manager(GPS定位管家)
 Description: Configure APP's fake GPS location wherever you like. GPS定位管家，可设置应用的虚拟定位，随时随地定位修改打卡。
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -22122,76 +22644,76 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcercubeD
 dev: freemanrepo
 
 Package: me.alfhaily.rocket
-Version: 3.0.17
+Version: 3.3.4
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, me.alfhaily.rocket.lib (>= 1.0.1)
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, me.alfhaily.rocket.lib (>= 1.0.5)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/rocketforinstagram_3.0.17.deb
-Size: 1834916
-Installed-Size: 6312
-MD5sum: d781ca09b9f1a59a2af374465b288fa2
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/rocketforinstagram_3.3.4.deb
+Size: 1991348
+Installed-Size: 6912
+MD5sum: 064d3057b2ae641a0fcc5cd5932b03b3
 Name: Rocket for Instagram
 Icon: file:///Library/Application%20Support/Rocket/Rocket.bundle/rocket-icon-title@2x.png
 Description: posts and view stories anonymously and do much more
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Majd Alfhaily <freemanrepo@me.com>
-Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rocketforinstagramDp
 dev: freemanrepo
 
 Package: me.alfhaily.rocket.lib
-Version: 1.0.2
+Version: 1.0.5
 Section: Development
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/librocket_1.0.2.deb
-Size: 4435374
-Installed-Size: 21511
-MD5sum: 16013222c3a24718f6141227dc8de058
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/librocket_1.0.5.deb
+Size: 5560524
+Installed-Size: 26511
+MD5sum: aa8ad7b27a8085765564ad1ee0d65ac5
 Name: libRocket
 Description: A library used by Rocket tweak
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Majd Alfhaily <freemanrepo@me.com>
-Tag: purpose::library, cydia::obsolete, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::library, cydia::obsolete, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=librocketDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=librocketDp
 dev: freemanrepo
 
 Package: me.autotouch.autotouch.ios8
-Version: 4.3.7
+Version: 5.0.0
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), applist (>= 1.4.1), com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: me.autotouch.autotouch.ios7
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/autotouch8_4.3.7.deb
-Size: 7290022
-Installed-Size: 25221
-MD5sum: ce2ea0c866e30be76d0f07cdeb846cd9
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/autotouch8_5.0.0.deb
+Size: 7508598
+Installed-Size: 26221
+MD5sum: 7c89014acfb4564bfc9e71cfd5636643
 Name: AutoTouch
 Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
 Description: Record and playback touch operations, play macro scripts automatically.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Kent Krantz <kentkrantz@gmail.com>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
 dev: kentkrantz
 
 Package: me.liuming.apphider
-Version: 1.5.0
+Version: 1.5.6
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/apphider_1.5.0.deb
-Size: 2537226
-Installed-Size: 8912
-MD5sum: 07ae3c5fea1417169a413562e6594f9e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/apphider_1.5.6.deb
+Size: 2588436
+Installed-Size: 9212
+MD5sum: 3c1a4be353727bed36b5327147b53022
 Name: App Hider(应用隐藏) - Make Apps disappeared from SpringBoard
 Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
 Description: Hide your Apps from SpringBoard
@@ -22203,16 +22725,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
 dev: liuming
 
 Package: me.liuming.locationexpert
-Version: 2.5.0
+Version: 2.5.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locationexpert_2.5.0.deb
-Size: 2727988
-Installed-Size: 10104
-MD5sum: e0c09fb66939a121ff5cb9813c74ac14
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locationexpert_2.5.1.deb
+Size: 2733852
+Installed-Size: 10124
+MD5sum: 242d0cfed464ddc55c024f5e43176a4d
 Name: 虚拟定位专家(GPS Faker Expert)-模拟导航，扫街
 Icon: file:///Applications/LocationExpert.app/AppIcon29x29@2x.png
 Description: 虚拟定位专家，模拟导航和GPS定位，微信吸粉和查找附近好友神器，Uber、滴滴虚拟驾驶导航。
@@ -22224,16 +22746,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationexp
 dev: liuming
 
 Package: me.liuming.locationhelper
-Version: 5.3.3
+Version: 5.3.6
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, me.liuming.LocationExpert, topme.ios.FakeGps, apt.tinyapps.location360pro
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locationhelper_5.3.3.deb
-Size: 2984560
-Installed-Size: 9624
-MD5sum: 9d11db15fca1e25c03e8220193b367b5
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locationhelper_5.3.6.deb
+Size: 3052924
+Installed-Size: 9821
+MD5sum: 9c2e486ed11f07cd502016d773238595
 Name: 虚拟定位助手 - 系统GPS定位修改器，GPS Faker，天下游，模拟地理位置
 Icon: file:///Applications/LocationChanger.app/AppIcon29x29@2x.png
 Description: 轻松修改微信、QQ、支付宝、朋友圈、微博、陌陌、百度、高德位置信息，玩游戏、企业钉钉打卡、360度撩妹必备。
@@ -22302,15 +22824,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noaddclifeD
 dev: neoyeat
 
 Package: me.uni9k.swipetolock
-Version: 1.0.0
+Version: 1.2.0
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/swipetolock_1.0.0.deb
-Size: 14388
-Installed-Size: 258
-MD5sum: 5a2793c55d2d3a020a36f45a996d506e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/swipetolock_1.2.0.deb
+Size: 29676
+Installed-Size: 148
+MD5sum: 4f8d7fb29c2ec582583aa6fc8b1a2ec4
 Name: SwipeToLock
 Icon: file:///Library/PreferenceBundles/swipetolockpref.bundle/SwipeToLock@2x.png
 Description: SwipeUp to lock your iPhone X.
@@ -22817,16 +23339,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fakepicture
 dev: joebruce
 
 Package: net.joebruce.gpsmaster
-Version: 1.6.0
+Version: 1.6.2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, topme.ios.FakeGps, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, jb.acc.GpsManager, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, me.liuming.locationhelper, me.liuming.locationexpert, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmaster_1.6.0.deb
-Size: 2838862
-Installed-Size: 10213
-MD5sum: 48a5b69a0beda2ad5461e85116184a49
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmaster_1.6.2.deb
+Size: 2907764
+Installed-Size: 10413
+MD5sum: 12855c671c6d403f0a085af56bf4d480
 Name: GPS Master(GPS定位大师)-Fake Navigation,Location Spoofer
 Description: GPS Master can fake your iOS device's GPS location like you are driving between two places.
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -22898,22 +23420,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringma
 dev: limneos
 
 Package: net.limneos.answeringmachinex
-Version: 0.4-7
+Version: 1.0-6
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>=0.1-80), zip, firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, net.limneos.libbulletin (>=0.1-80), firmware (>= 11.0)
 Conflicts: net.limneos.audiorecorder (<= 1.7-4)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/answeringmachinex_0.4-7.deb
-Size: 361370
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/answeringmachinex_1.0-6.deb
+Size: 363184
 Installed-Size: 1511
-MD5sum: 5d4b9959ab177d40e00db2ed51b3de4e
+MD5sum: ce90bbdb846b486b5e676117e886387c
 Name: AnsweringMachine X
 Icon: file:///Library/PreferenceBundles/AnsweringMachine.bundle/AnsweringMachine@2x.png
 Description: Receive voicemails on device!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Elias Limneos <limneoselias@gmail.com>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachinexDp
 dev: limneos
@@ -23064,16 +23586,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callbarxDp
 dev: limneos
 
 Package: net.limneos.callbarxs
-Version: 2.1-55
+Version: 2.1-64
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Conflicts: net.limneos.callbarx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/callbarxs_2.1-55.deb
-Size: 159118
-Installed-Size: 749
-MD5sum: 1c369f087c2f3fa2322fab600f355065
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/callbarxs_2.1-64.deb
+Size: 158442
+Installed-Size: 766
+MD5sum: 4e88e3abefd81a94af0f4cd2814edc65
 Name: CallBar XS (iOS 12)
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Description: Don't let incoming calls interrupt you!
@@ -23383,41 +23905,41 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notchstatus
 dev: midkin
 
 Package: net.midkin.smartvolumecontrol2
-Version: 2.5.1
+Version: 3.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smartvolumecontrol2_2.5.1.deb
-Size: 334702
-Installed-Size: 1104
-MD5sum: 6f37a91f89f29d02d0335527a20c916c
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smartvolumecontrol2_3.1.deb
+Size: 590450
+Installed-Size: 1504
+MD5sum: 80e9a1e0ca0e8a3d3d2f1b31c43fe0d0
 Name: SmartVolumeControl2
-Description: iOS Most Advanced Volume Controller.
+Description: iOS's most advanced volume controller.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: midkin <midkin@hotmail.com>
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smartvolumecontrol2Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smartvolumecontrol2Dp
 dev: midkin
 
 Package: net.midkin.smartvolumemixer
-Version: 1.3.1
+Version: 2.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smartvolumemixer_1.3.1.deb
-Size: 114736
-Installed-Size: 624
-MD5sum: 323d00ea5babf3226cd76512a7326bb7
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/smartvolumemixer_2.1.deb
+Size: 394368
+Installed-Size: 928
+MD5sum: f3e2d91015368a9af614ba48f2304e10
 Name: SmartVolumeMixer
-Description: iOS most advanced volume mixer.
+Description: iOS's most advanced volume mixer.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: midkin <midkin@hotmail.com>
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smartvolumemixerDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smartvolumemixerDp
 dev: midkin
@@ -23859,9 +24381,9 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 Tag: purpose::console, cydia::obsolete
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
+breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 dev: coolstar
-breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
 
 Package: org.coolstar.llvm-clang64
 Version: 5.0.1-2
@@ -23881,9 +24403,9 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 Tag: purpose::console, cydia::obsolete
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
+breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 dev: coolstar
-breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
 
 Package: org.coolstar.nolargetitles
 Version: 1.0-1
@@ -23985,16 +24507,36 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
 dev: ioshack
 
-Package: org.midey.colormebaddge
-Version: 1.0.11
+Package: org.midey.basebadges
+Version: 1.0.0
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/colormebaddge_1.0.11.deb
-Size: 367564
-Installed-Size: 970
-MD5sum: 889126e961fd063d9819115a88e40b61
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/basebadges_1.0.0.deb
+Size: 90592
+Installed-Size: 530
+MD5sum: 003f13f9b70aa32dd9693170efc3031d
+Name: BaseBadges
+Icon: file:///Library/PreferenceBundles/BaseBadgesPrefs.bundle/BaseBadgesIcon@2x.png
+Description: Display badges in different numeral systems
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: midey <mideydev@gmail.com>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=basebadgesDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=basebadgesDp
+dev: mideydev
+
+Package: org.midey.colormebaddge
+Version: 1.2.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/colormebaddge_1.2.0.deb
+Size: 372648
+Installed-Size: 1270
+MD5sum: 0d0dbd321cc512271f4a9030667b3b25
 Name: ColorMeBaddge
 Icon: file:///Library/PreferenceBundles/ColorMeBaddgePrefs.bundle/ColorMeBaddgeIcon@2x.png
 Description: Sex up your badges with icon-based colors
@@ -24006,21 +24548,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colormebadd
 dev: mideydev
 
 Package: org.midey.folderusage
-Version: 1.0.4
+Version: 1.0.5
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/folderusage_1.0.4.deb
-Size: 97490
-Installed-Size: 618
-MD5sum: 59f21b0d1d3d5c2fcc1620df0ea22c06
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/folderusage_1.0.5.deb
+Size: 101414
+Installed-Size: 751
+MD5sum: aeae1f195691715fdcbace80cfad5d7b
 Name: FolderUsage
 Icon: file:///Library/PreferenceBundles/FolderUsagePrefs.bundle/FolderUsageIcon@2x.png
 Description: Swipe up on folders to view disk usage
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: midey <mideydev@gmail.com>
-Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=folderusageDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=folderusageDp
 dev: mideydev
@@ -24247,8 +24789,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: PoomSmart <poomst@hotmail.com>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appcolorcloseDp
-http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=appcolorcloseDp
 dev: poomst
+http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=appcolorcloseDp
 
 Package: org.thebigboss.appcon
 Version: 1.4.4
@@ -24311,16 +24853,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applanguage
 dev: ganbold
 
 Package: org.thebigboss.arkhamtheme
-Version: 3.0
+Version: 4.0
 Priority: optional
 Section: Themes
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/arkhamtheme_3.0.deb
-Size: 850200
-Installed-Size: 1512
-MD5sum: b47cce1caeca02e037fc6265833b2d9b
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/arkhamtheme_4.0.deb
+Size: 880810
+Installed-Size: 1612
+MD5sum: cbf1f1facd145256d616f2541dca707f
 Name: Arkham
 Description: modern theme inspired by the Gotham Glyphs Theme.
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -24346,8 +24888,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: PoomSmart <poomst@hotmail.com>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchassistivetouchDp
-http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchassistivetouchDp
 dev: poomst
+http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchassistivetouchDp
 
 Package: org.thebigboss.audioout
 Version: 1.4.0-7
@@ -24929,22 +25471,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
 dev: minuit
 
 Package: org.thebigboss.dimme
-Version: 1.3.7
+Version: 2.0.0-2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Conflicts: com.julioverne.dpkgcheck, com.sull.dpkgcheck
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.dimme_1.3.7.deb
-Size: 179342
-Installed-Size: 1421
-MD5sum: cf80ba2bd1b8b4fa901b5cd48b00b3cd
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dimme_2.0.0-2.deb
+Size: 192090
+Installed-Size: 1524
+MD5sum: 0163e618d30f1c58764ce6b106c7a13d
 Name: DimMe
 Icon: file:///Library/PreferenceBundles/DimMeSettings.bundle/DimMeSettings@2x.png
 Description: Dim the Screen with options.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Rene Kahle <packetfahrer@web.de>
-Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dimmeDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dimmeDp
 dev: packetfahrer
@@ -25209,6 +25751,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=favoriteem
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=favoriteemojisDp
 dev: adeemm
 
+Package: org.thebigboss.flashalert
+Version: 2.3.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.flashalert_v2.3.0.deb
+Size: 189502
+Installed-Size: 950
+MD5sum: 1f39fd3e2e087af2fa49d9f03d2aaa7d
+Name: FlashAlert
+Icon: file:///Library/PreferenceBundles/flashalertprefs.bundle/icon@2x.png
+Description: Configurable flash notifications & Flash Blinker
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Hrvoje Kostic <hrvoje.kostic@gmail.com>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flashalertDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flashalertDp
+dev: kostic
+
 Package: org.thebigboss.flashorama
 Version: 1.6.1
 Section: Tweaks
@@ -25349,21 +25911,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=groupmeDp
 dev: alexandrulaurus
 
 Package: org.thebigboss.hapticscroll
-Version: 2.2.0-1
+Version: 2.3.0-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, applist
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.hapticscroll_v2.2.0-1.deb
-Size: 23392
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.hapticscroll_v2.3.0-1.deb
+Size: 23438
 Installed-Size: 252
-MD5sum: 02edb634c2c6d52eae0d36b01d937ff7
+MD5sum: 547962d4ad0b018c6d96213b2b002091
 Name: HapticScroll
 Icon: file:///Library/PreferenceBundles/hapticscrollprefs.bundle/icon@2x.png
 Description: Haptic feedback when top/bottom scroll limit is reached.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Hrvoje Kostic <hrvoje.kostic@gmail.com>
-Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hapticscrollDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hapticscrollDp
 dev: kostic
@@ -25587,22 +26149,43 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitch
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchkeyboardclickDp
 dev: poomst
 
+Package: org.thebigboss.keyshortcutpro
+Version: 1.8.1-1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.mustafaa.keyshortcut
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/keyshortcutpro_1.8.1-1.deb
+Size: 471132
+Installed-Size: 1540
+MD5sum: 1442de184793984172abf0a0450d6d2e
+Name: KeyShortcut Pro
+Icon: file:///Library/PreferenceBundles/KeyShortcut.bundle/KeyShortcut@2x.png
+Description: Key shortcuts, profiles & configurable
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Mustafa Gezen (switchpwn) <mustiigezen@gmail.com>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyshortcutproDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyshortcutproDp
+dev: switchpwn
+
 Package: org.thebigboss.kidsecure
-Version: 1.0.6
+Version: 1.0.6-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.kidsecure_v1.0.6.deb
-Size: 306590
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/kidsecure_1.0.6-1.deb
+Size: 307170
 Installed-Size: 1615
-MD5sum: f6e3b63f952893c8514d27f32ff04813
+MD5sum: 46581a85bd291285a9b982344fb529b4
 Name: Kidsecure
 Icon: file:///Library/PreferenceBundles/Kidsecure.bundle/Kidsecure@2x.png
 Description: Secure your Phone for special Time!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Rene Kahle <packetfahrer@web.de>
-Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kidsecureDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kidsecureDp
 dev: packetfahrer
@@ -26063,6 +26646,26 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=newsimplei
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=newsimpleiconsthemeDp
 dev: s0ftman
 
+Package: org.thebigboss.nobanner
+Version: 2.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nobanner_2.0.1.deb
+Size: 223750
+Installed-Size: 1427
+MD5sum: 0b4a2f8023edc4354a2e3196738d6eca
+Name: NoBanner
+Icon: file:///Library/PreferenceBundles/NoBannerSettings.bundle/icon@2x.png
+Description: no push notifications during video playback
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Rene Kahle <packetfahrer@web.de>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nobannerDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nobannerDp
+dev: packetfahrer
+
 Package: org.thebigboss.noflyanimunlockxi
 Version: 1.0
 Section: Tweaks
@@ -26257,8 +26860,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: PoomSmart <poomst@hotmail.com>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phototorchDp
-http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=phototorchDp
 dev: poomst
+http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=phototorchDp
 
 Package: org.thebigboss.pmreally
 Version: 1.2
@@ -26555,20 +27158,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slomomodDp
 dev: poomst
 
 Package: org.thebigboss.sleeper
-Version: 4.0.1
+Version: 5.0.0
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: org.packix.sleeper
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.sleeper_v4.0.1.deb
-Size: 84392
-Installed-Size: 512
-MD5sum: c7c2ac3f9d6cc3b7093e7eaf5a38804d
-Name: Sleeper
-Description: Change alarm snooze times, the Apple way
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.sleeper_v5.0.0.deb
+Size: 133490
+Installed-Size: 770
+MD5sum: e997bbe528aa8fc327f520b556ce9d58
+Name: Sleeper (Legacy)
+Description: Set custom snooze times and skip alarms with the Clock app using Sleeper!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Joshua Seltzer <joshua.seltzer90@gmail.com>
-Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleeperDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleeperDp
 dev: joshuaseltzer
@@ -26750,21 +27354,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stillcaptur
 dev: poomst
 
 Package: org.thebigboss.stopalarmios8
-Version: 1.5.2
+Version: 2.0.0
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.1), mobilesubstrate (>= 0.9.5000), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.stopalarmios8_v1.5.2.deb
-Size: 415366
-Installed-Size: 2213
-MD5sum: 63ed800fbe012572343855cc2bd5e32d
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/stopalarmios8_2.0.0.deb
+Size: 448466
+Installed-Size: 2222
+MD5sum: a3b9fedd5339118f42f5516f8efa89c4
 Name: StopAlarm iOS 8+
 Icon: file:///Library/PreferenceBundles/StopAlarm8Settings.bundle/StopAlarm8Settings@2x.png
 Description: Snooze or Stops an Alarm!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Rene Kahle <packetfahrer@web.de>
-Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stopalarmios8Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stopalarmios8Dp
 dev: packetfahrer
@@ -26809,20 +27413,20 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=superslamDp
 dev: rdrnt
 
 Package: org.thebigboss.sutuplus
-Version: 2.2.2
+Version: 2.3.1-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sutuplus_2.2.2.deb
-Size: 81364
-Installed-Size: 387
-MD5sum: 249a1b27ca12f195169f771b546e5123
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sutuplus_2.3.1-1.deb
+Size: 180640
+Installed-Size: 682
+MD5sum: 4835788d7c306b9d7f587b23ae99ffd4
 Name: SutuPLUS-苏兔PLUS WX美化增强工具
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Carby <super.cat.rabbit@gmail.com>
-Tag: purpose::extension, role::enduser, compatible::ios11
+Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 dev: carby
@@ -26969,22 +27573,22 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vehiclenoti
 dev: kostic
 
 Package: org.thebigboss.vehiclenotifierpro
-Version: 1.4.0-1
+Version: 1.5.0-2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, applist
 Conflicts: org.thebigboss.vehiclenotifierlite
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.vehiclenotifierpro_v1.4.0-1.deb
-Size: 87960
-Installed-Size: 787
-MD5sum: 57e675a741ac60e2b07b7b0c43ce18be
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.vehiclenotifierpro_v1.5.0-2.deb
+Size: 86328
+Installed-Size: 770
+MD5sum: 822d5fe052138c8e5e4b5926d758cf20
 Name: VehicleNotifier Pro
 Icon: file:///Library/PreferenceBundles/VehicleNotifierProPrefs.bundle/icon@2x.png
-Description: Forwards notifications to your car screen
+Description: Forwards all iOS notifications to your car screen
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Hrvoje Kostic <hrvoje.kostic@gmail.com>
-Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vehiclenotifierproDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vehiclenotifierproDp
 dev: kostic
@@ -27703,16 +28307,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=translucenc
 dev: ethanrdoesmc
 
 Package: topme.ios.fakegps
-Version: 3.5.5
+Version: 3.5.8
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fakelocation_3.5.5.deb
-Size: 2539180
-Installed-Size: 9423
-MD5sum: c7298f26b0cbf4796bce4954395cf46c
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/fakelocation_3.5.8.deb
+Size: 2668022
+Installed-Size: 9923
+MD5sum: 77fa62f8d1ce3f8df574b4e21d5fc030
 Name: 定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行
 Description: 定位修改大师，Fake GPS Location, 修改微信、朋友圈、微博、陌陌、Facebook、QQ空间、支付宝、Instagram等应用定位，玩游戏、企业钉钉打卡必备工具。360度全球虚拟定位到想要的任何地方。
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -27908,16 +28512,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=folderautoc
 dev: yuripeyamashita
 
 Package: u.blanxd.iponcc
-Version: 1.4.3
+Version: 1.4.4
 Section: Addons (ControlCenter)
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: cy+cpu.arm64, firmware (>= 11), mobilesubstrate, com.opa334.ccsupport
 Conflicts: ee.mait.iponcc
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iponcc_1.4.3.deb
-Size: 17348
-Installed-Size: 157
-MD5sum: c398b27ee18363af69fe245cd1f1469d
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/iponcc_1.4.4.deb
+Size: 21500
+Installed-Size: 304
+MD5sum: 7d2be24092f485a361cf23199dab318d
 Name: IPonCC
 Description: Show IP info in CC
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -28169,21 +28773,21 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carriersear
 dev: arx8x
 
 Package: xyz.xninja.dopesettings
-Version: 0.0.4
+Version: 0.1.0
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dopesettings_0.0.4.deb
-Size: 6350
-Installed-Size: 116
-MD5sum: 0aa119ff24ee67f96c3fe2e78a0512e0
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dopesettings_0.1.0.deb
+Size: 35612
+Installed-Size: 144
+MD5sum: 838634286e30ec18b060ecf0317ed02f
 Name: DopeSettings
 Description: Spice up the settings view
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: ARX8x <arx8@icloud.com>
-Tag: purpose::extension, compatible::ios10
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dopesettingsDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dopesettingsDp
 dev: arx8x
