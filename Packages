@@ -36790,6 +36790,7 @@ Maintainer: June <junesgraphics@gmail.com>
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/screenshotapp/index.php
 tag: cydia::commercial
+SHA256: b44812ec8114be967406bd79a643ddb522e0771d90c5e9296cb9510cad995ff8
 
 Package: com.macciti.07respringlogochipseta8iph6plus
 Name: 07 Respring Logo ChipsetA8 iPh6 plus
@@ -36854,6 +36855,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez10anemone/index.php
 tag: cydia::commercial
+SHA256: d1a35b086372f8fb7b9bd9f59d3162af77f6aab2d5897fc77879eb397f3fd526
 
 Package: com.macciti.0bcez10pink
 Name: 0bCeZ 10 PinK
@@ -36870,6 +36872,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez10pink/index.php
 tag: cydia::commercial
+SHA256: 7e8c2ba059ac6a1ca3a7c469d7f65509e1b8c3f1605b76c8709b97a1ae92fbe8
 
 Package: com.macciti.0bcez10yellow
 Name: 0bCeZ 10 Yellow
@@ -36886,6 +36889,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez10yellow/index.php
 tag: cydia::commercial
+SHA256: 45701596b3d36cd93c88bdc7a9c8d97133d5fb8087184318cd48a59ad97778d5
 
 Package: com.macciti.0bcez8green
 Name: 0bCeZ8 GReeN
@@ -36902,6 +36906,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez8green/index.php
 tag: cydia::commercial
+SHA256: 5795953aa079c4797d51ec0885bf292f2e9997b5f72aa7cd9b5f7312b5f6e658
 
 Package: com.macciti.0bcez8lem0n
 Name: 0bCeZ8 LeM0N
@@ -36918,6 +36923,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez8lem0n/index.php
 tag: cydia::commercial
+SHA256: 024e1c390ba904523ab0ebf729e3c9c311b1cc8225946f49e7860e35cbe2637e
 
 Package: com.macciti.0bcez8orange
 Name: 0bCeZ8 OraNge
@@ -36934,6 +36940,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez8orange/index.php
 tag: cydia::commercial
+SHA256: 34f82086c1f6b8444dc846b93f4f16daffcee5c8eeedbd3cf8f9abf0463afc83
 
 Package: com.macciti.0bcez8pink
 Name: 0bCeZ8 PiNk
@@ -36950,6 +36957,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez8pink/index.php
 tag: cydia::commercial
+SHA256: 554da3bd661c36584da484084687ba3acf451b0288c9325b2d1b96d3fe88db8a
 
 Package: com.macciti.0bcez8red
 Name: 0bCeZ8 ReD
@@ -36966,6 +36974,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez8red/index.php
 tag: cydia::commercial
+SHA256: 705b30afbc9fe6f338d86029b142594040bda05e75b68d189ac22ab52eb61cf6
 
 Package: com.macciti.0bcez8vi0let
 Name: 0bCeZ8 Vi0LeT
@@ -36982,6 +36991,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez8vi0let/index.php
 tag: cydia::commercial
+SHA256: ff256f084788f10f5ac86a5c22514f38573659bae982de65dd78e043c3ec349e
 
 Package: com.macciti.0bcez9
 Name: 0bCeZ9 
@@ -36998,6 +37008,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9/index.php
 tag: cydia::commercial
+SHA256: 5ddedba59f17e4c031aaf91cff12df893e30a7a7e6a53fb9879677cf4d7d258e
 
 Package: com.macciti.0bcez9blue
 Name: 0bCeZ 9 Blue
@@ -37014,6 +37025,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9blue/index.php
 tag: cydia::commercial
+SHA256: 892545e3118dac39c86ff62de84809a600739d06ed6513ca59e972b3efb5c144
 
 Package: com.macciti.0bcez9cyan
 Name: 0bCeZ9 CyAn
@@ -37030,6 +37042,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9cyan/index.php
 tag: cydia::commercial
+SHA256: 9ab03346cd72b01cab8e55b6995569706f14c825e4cb5e979d608dd987f144ea
 
 Package: com.macciti.0bcez9g0lden
 Name: 0bCeZ9 G0LDeN
@@ -37046,6 +37059,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9g0lden/index.php
 tag: cydia::commercial
+SHA256: 7a1794ff4f066ce0ba2d9054251f1132b13e958b6643ae93b5b2b866f19a34db
 
 Package: com.macciti.0bcez9green
 Name: 0bCeZ9 Green
@@ -37062,6 +37076,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9green/index.php
 tag: cydia::commercial
+SHA256: 3d5ea8fa08c145be0531f3dff53f6cf3c2a31c5043622a7aad25badff2747266
 
 Package: com.macciti.0bcez9lem0n
 Name: 0bCeZ9 LeM0n
@@ -37078,6 +37093,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9lem0n/index.php
 tag: cydia::commercial
+SHA256: 2d45cba03c8ff1f8363799d526c8614b5f49b8e67b14d6b766291ef05c2980ca
 
 Package: com.macciti.0bcez9orange
 Name: 0bCeZ9 OrAnGe
@@ -37094,6 +37110,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9orange/index.php
 tag: cydia::commercial
+SHA256: dd5abf546d5f49bb9ce8ad4ceb2aa9e32b50aa91a8796f0601da724eec33e876
 
 Package: com.macciti.0bcez9pink
 Name: 0bCeZ9 PiNk
@@ -37110,6 +37127,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9pink/index.php
 tag: cydia::commercial
+SHA256: fa34ceeb370881a4d71dcac16500aff9fb6b369b5d80bd9150a944ee225e405f
 
 Package: com.macciti.0bcez9red
 Name: 0bCeZ9 ReD
@@ -37126,6 +37144,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9red/index.php
 tag: cydia::commercial
+SHA256: 3b374a530521020c4c0aa63068232ee0f46a2c001dde6437f7e4ef27bea8dace
 
 Package: com.macciti.0bcez9vi0let
 Name: 0bCeZ9 Vi0LeT
@@ -37142,6 +37161,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bcez9vi0let/index.php
 tag: cydia::commercial
+SHA256: 1be0c0f09bc1d888512a0ec30a458ca463bd47935c6144d2e47e4d4217d08f26
 
 Package: com.macciti.0bhra10anemone
 Name: 0bHrA 10 Anemone
@@ -37158,6 +37178,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhra10anemone/index.php
 tag: cydia::commercial
+SHA256: 58dc5f402410d1422b327cc921b9d83fb97b4f27dc6ea489794e9b3332c1a003
 
 Package: com.macciti.0bhra8black
 Name: 0bHrA 8 BlacK 
@@ -37174,6 +37195,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhra8black/index.php
 tag: cydia::commercial
+SHA256: de8a495e361cdbfd4e7e0a0889c77f34d3e54879e95d5741a3c500b4ad716888
 
 Package: com.macciti.0bhra90range
 Name: 0bHrA 9 0rAnGe
@@ -37190,6 +37212,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhra90range/index.php
 tag: cydia::commercial
+SHA256: 6ec250a5c668561f9a9e691861aa17f24e920d8cde6c24acb947c9bef2e4acec
 
 Package: com.macciti.0bhra9blue
 Name: 0bHrA9 BLuE
@@ -37206,6 +37229,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhra9blue/index.php
 tag: cydia::commercial
+SHA256: d77f864a3fc65cab52b0a66648d01f20789429c29b625bf347872eca8e73dd75
 
 Package: com.macciti.0bhra9lemon
 Name: 0bHrA9 Lemon
@@ -37222,6 +37246,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhra9lemon/index.php
 tag: cydia::commercial
+SHA256: 6f80fe5d377fa790648e596b80645d56dce35b3bc508aed91819be84d5139ddd
 
 Package: com.macciti.0bhra9pink
 Name: 0bHrA 9 Pink
@@ -37238,6 +37263,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhra9pink/index.php
 tag: cydia::commercial
+SHA256: fedb2d0f29cce4f1672ead72e169d8ea731441c2fd97c3c485af705ab6e67c87
 
 Package: com.macciti.0bhra9purple
 Name: 0bHrA9 PurPle
@@ -37254,6 +37280,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhra9purple/index.php
 tag: cydia::commercial
+SHA256: a6020d09970459bd7a34f47dfa7d84a6422515bbcdeb0bdd1feed2fe989c2abc
 
 Package: com.macciti.0bhrab9green
 Name: 0bHrA B 9 GreeN
@@ -37270,6 +37297,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhrab9green/index.php
 tag: cydia::commercial
+SHA256: 6edefba572321963936db323d66b8e72ef86203dcdfde63709a8869ded48540f
 
 Package: com.macciti.0bhrablackios8
 Name: 0bHrA BlacK iOS8
@@ -37286,6 +37314,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhrablackios8/index.php
 tag: cydia::commercial
+SHA256: cfbb3a7d6d164100e1e3fabf912ede17f32d5c028639755f8b97c267d3af7116
 
 Package: com.macciti.0bhrablueblack8
 Name: 0bHrA Blue BlacK 8
@@ -37302,6 +37331,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhrablueblack8/index.php
 tag: cydia::commercial
+SHA256: c5e09a85c793fa318469466e14f956ac1e2cd23da37950c12b926609916f9af6
 
 Package: com.macciti.0bhracyanblack8
 Name: 0bHrA Cyan BlacK 8
@@ -37318,6 +37348,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhracyanblack8/index.php
 tag: cydia::commercial
+SHA256: 3f5b106a0b2dc5fbf2d1d07090c85d1d7d7cec0edb459304b0005db153fb993e
 
 Package: com.macciti.0bhracyanui
 Name: 0bHrA Cyan UI
@@ -37334,6 +37365,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhracyanui/index.php
 tag: cydia::commercial
+SHA256: 81b2a3e51b9056a94a8ffc7ffda0533f15a73a19acb122d6673542b6599efa76
 
 Package: com.macciti.0bhragreenblack8
 Name: 0bHrA Green BlacK 8
@@ -37350,6 +37382,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhragreenblack8/index.php
 tag: cydia::commercial
+SHA256: b76e1e4e1a3d603c2f8145736d62f445cea618cea50c9314db8f92e1fa577f91
 
 Package: com.macciti.0bhragreenui
 Name: 0bHrA Green UI
@@ -37366,6 +37399,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhragreenui/index.php
 tag: cydia::commercial
+SHA256: fef97547a9638fe780e4d5e8f46fcaace74eabf6a4faa0d1829fedefbdd0b173
 
 Package: com.macciti.0bhraios9
 Name: 0bHrA iOS9
@@ -37382,6 +37416,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhraios9/index.php
 tag: cydia::commercial
+SHA256: ab0de09ff7cafe01f6bb0f1e4b5babfe9cc07913bacb9b366ced31ee0a313e3b
 
 Package: com.macciti.0bhralimeblack8
 Name: 0bHrA Lime BlacK 8
@@ -37398,6 +37433,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhralimeblack8/index.php
 tag: cydia::commercial
+SHA256: 764ca9fe8e8cc2416ae615eb7458904f775618bd9e62c9dac4ac8db52229ca6f
 
 Package: com.macciti.0bhralimeui
 Name: 0bHrA Lime UI
@@ -37414,6 +37450,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhralimeui/index.php
 tag: cydia::commercial
+SHA256: 13b716334999538116cc139541a5f4c7dc7f5614bad710796a4bd80061e71b0d
 
 Package: com.macciti.0bhraorangeblack8
 Name: 0bHrA Orange BlacK 8
@@ -37430,6 +37467,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhraorangeblack8/index.php
 tag: cydia::commercial
+SHA256: 13d852951d540fc241f38fb1de673e823279db301a7dc1217e54acab1a3d2e11
 
 Package: com.macciti.0bhraorangeui
 Name: 0bHrA Orange UI
@@ -37446,6 +37484,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhraorangeui/index.php
 tag: cydia::commercial
+SHA256: 9fd3151517243f2f199a18b4dd7269787dbc82d84e237e6bfee4bc76b6d875e7
 
 Package: com.macciti.0bhrapinkblack8
 Name: 0bHrA Pink BlacK 8
@@ -37462,6 +37501,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhrapinkblack8/index.php
 tag: cydia::commercial
+SHA256: f989333c617c41e9c1d1e1919942fbb12c524318afa8d448e66a6a445ab6615e
 
 Package: com.macciti.0bhrapurpleblack8
 Name: 0bHrA Purple BlacK 8
@@ -37478,6 +37518,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhrapurpleblack8/index.php
 tag: cydia::commercial
+SHA256: 855398c8ae351d7da2de2d2a2b5d07419394eddfdcf63fb43f1c7093a32ec95e
 
 Package: com.macciti.0bhrapurpleui
 Name: 0bHrA Purple UI
@@ -37494,6 +37535,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhrapurpleui/index.php
 tag: cydia::commercial
+SHA256: 05380edd8af6de8caa5275c8a365a5292459edfa2b4108682448819f5bff46cc
 
 Package: com.macciti.0bhrayellowblack8
 Name: 0bHrA Yellow BlacK 8
@@ -37510,6 +37552,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhrayellowblack8/index.php
 tag: cydia::commercial
+SHA256: 92abaf0e55958e9c9c55354bb276d359134ffbfe8913d6f73efc9a66da92996c
 
 Package: com.macciti.0bhrayellowui
 Name: 0bHrA Yellow UI
@@ -37526,6 +37569,7 @@ Maintainer: iC <apt@macciti.com>
 Author: 2honi <tonyzantos@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bhrayellowui/index.php
 tag: cydia::commercial
+SHA256: 5ca31f8c9745b40f88836c9c02efe71c17fa11e9f6291c731d5c292f0165437b
 
 Package: com.macciti.0bviousios10
 Name: 0bvious iOS10
@@ -37542,6 +37586,7 @@ Maintainer: iC <apt@macciti.com>
 Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0bviousios10/index.php
 tag: cydia::commercial
+SHA256: cb56dec7d8038d52d93cbcdeafa298f75e0dadc78a90aa547355dbe3d9386a68
 
 Package: com.macciti.0bviousios7classicdock
 Name: 0bvious iOS7 ClassicDock
@@ -38054,6 +38099,7 @@ Maintainer: iC <apt@macciti.com>
 Author: coccco28 <coccolino_26@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0ground/index.php
 tag: cydia::commercial
+SHA256: a0cc269ad507fbb499732ac7d99ad11b9b90b4fd69665652cfd8ee626ad2a630
 
 Package: com.macciti.0groundanemfoldersicons
 Name: 0Ground ANEMFoldersIcons
