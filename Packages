@@ -31630,6 +31630,7 @@ Size: 265330
 MD5sum: 568b5660ca2849b91f37f4891e53b71a
 Description: Your Ultimate music controls customizer!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 491f2152813dd046a6f3c226d0ba169ca8b99611ab440566421daffb7a24ab6f
 
 Package: com.alexzielenski.zeppelin
 Name: Zeppelin
@@ -31646,6 +31647,7 @@ Size: 954352
 MD5sum: b2306aca6cc4afe7ccc57210c98c0612
 Description: Replaces carrier text with an image!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e786a1e78b97abe1690388fe1795c9b32f1256428cac6a49bd641f956cee9113
 
 Package: com.bytafonttm.notoserif
 Name: Noto Serif Font
@@ -31661,6 +31663,7 @@ Filename: http://apt.modmyi.com/pool/main/c/com.bytafonttm.notoserif/com.bytafon
 Size: 828012
 MD5sum: cb68f97abca5448e4da5406e5ac0f535
 Description: Tweak Mode font by BytaFont.com
+SHA256: f6e0321a05e5d098506c1e773cd26af336c0e1e3f7fd31a900304064121eb4d4
 
 Package: com.bytafonttm.oxygen
 Name: Oxygen Font
@@ -31676,6 +31679,7 @@ Filename: http://apt.modmyi.com/pool/main/c/com.bytafonttm.oxygen/com.bytafonttm
 Size: 192830
 MD5sum: 2ce3de929907a6be220d44119cd5b1b6
 Description: Tweak Mode font by BytaFont.com
+SHA256: 89a7c696b7303abfba301f8604f7cb3bb9fab554fcacd47d0a38d4d1e35b5892
 
 Package: com.cl3ment.bootsound
 Name: BootSound
@@ -31691,6 +31695,7 @@ Size: 319744
 MD5sum: dba1affe815a83e540b549e67515fe16
 Description: Play a sound when SpringBoard starts up
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: fd07a2721670704998d26783a1391f669fb2eed31d49be14a359156e0b2e8ed1
 
 Package: com.dirtybeans.dbsicons
 Name: DBsIcons
@@ -31710,6 +31715,7 @@ Size: 134980
 MD5sum: e0c504eddf579cc1bf7cfecb8978b79e
 Description: DBs Icons
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ce6b6ddf47caf1c0696b8a0db692db437a1328a4bcb43b8696e2573b176e87db
 
 Package: com.dpearson.nonotcharging
 Name: No "Not Charging""
@@ -31725,6 +31731,7 @@ Size: 2236
 MD5sum: ab04ae20a0c939815cc0fbdec33239ba
 Description: Disables the "Not Charging" text displayed when an iPad is connected to an older computer or unofficial charger.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b7116165e1f08c0d0d5b38083f822ec05dd4cb48322925b3684fdd43b786ac68
 
 Package: com.florent.badgeremover
 Name: BadgeRemover
@@ -31740,6 +31747,7 @@ Size: 8462
 MD5sum: 5188f8be185f5f25d1fe18772f3011d0
 Description: Badgeremover removes every badges on your springboard
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 02bd92099ded7378629bafc8eac0f7021c603ff7e468b301e6f4a3a8a6d5f479
 
 Package: com.fortysixandtwo.alkaline
 Name: Alkaline
@@ -31755,6 +31763,7 @@ Size: 172902
 MD5sum: a4dc9a115f4c3975a6e8a5b30b73c888
 Description: Themeable status bar battery replacement for iOS 7.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 47f8a043f81529e27b87477c5e3a177254133435c56446a08bc76e943c605dd4
 
 Package: com.greensnow.unlimtedmediasendcarrier
 Name: Carrier Unlimited Media Send
@@ -31770,6 +31779,7 @@ Size: 4000
 MD5sum: 5a0468e5d1edcec8becf6f30fb1c9831
 Description: Send media of any length via the message's app.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: cf94e7e9866cfd8616911d4ad05619c6bfedcd71184b4f77fec8fccca14dc8fd
 
 Package: com.groovycarrot.groovyapi
 Name: groovyAPI
@@ -31786,6 +31796,7 @@ MD5sum: 875093468a54c93e6c80b35ddaeffed5
 Description: JavaScript interface for SpringBoard.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: role::developer
+SHA256: ad47e35f702a17fb29631c41758927899c6a8e23747a89ec3c8cc9899b107ceb
 
 Package: com.guizmo.dns
 Name: GuizmoDNS
@@ -31802,6 +31813,7 @@ MD5sum: 1e698569aaee92e46dc00423b2c5b026
 Description: Allow DNS settings for 3G from the system preferences
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: f50c0c77bd6baf70a7f21a86fea29306f6f755168599e755e8ae8e610df6f713
 
 Package: com.idd.iconomatic
 Name: IconOmatic
@@ -31817,6 +31829,7 @@ Size: 1778458
 MD5sum: 7816a58526e474acee9abf1cdc2236dc
 Description: Bring back depth to your springboard on iOS7!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: beb502da7643e3301f7d9e842e26f376aca4c5af99b33ff771e5188109a3aadd
 
 Author: Cole Train <jefferycole@hotmail.com>
 Name: iTunes
@@ -31833,6 +31846,7 @@ Architecture: iphoneos-arm
 Depends: winterboard
 Maintainer: maXimus <maximus@iphonemodding.com>
 Sponsor: iPhoneModding <http://www.iphonemodding.com>
+SHA256: 0b02797b89474890bca27b205df5a9045fc159516a15e0fc5992fed861947fb9
 
 Author: Jonathan352 <jonathanh352@yahoo.com>
 Name: JTheme
@@ -31849,6 +31863,7 @@ Architecture: iphoneos-arm
 Depends: winterboard
 Maintainer: maXimus <maximus@iphonemodding.com>
 Sponsor: iPhoneModding <http://www.iphonemodding.com>
+SHA256: 4e3527394aab89c8a4dab6b34ea1ea5ca23fe2ea1364601ac0ed30b0529ad7c3
 
 Package: com.itortrix.ekgsignals+
 Name: EKG Signals+
@@ -31864,6 +31879,7 @@ Size: 342520
 MD5sum: 758a28af3c6ec55a5213dd09e2bb0dc4
 Description: EKG Signals+
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 84cfdd82b244597340d3c05fad482cdce0d3ddc5cad1184201c6ad1a91a8072c
 
 Package: com.jacknorris.noaccessorysplash40
 Name: NoAccessorySplash iOS4
@@ -31880,6 +31896,7 @@ MD5sum: 2333936c0fb47f7c1c0d215f4bb8f445
 Description: [iOS4] "Accessory Connected" fix.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Author: JackNorris <jacknorris@jacknorris.net>
+SHA256: 2c7ac288934f83568500138b74b307e95c461d76215ff56b39df40e3952df2c8
 
 Package: com.kobisnir.fakeemail
 Name: Fake Email
@@ -31926,6 +31943,7 @@ MD5sum: 85dd14f4da39ce7eaa30d9161332e932
 Description: This is a theme that will make you enjoy your SpringBoard (again!)
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: d9807485b1b73f2788b0c8866a8f4f55f565d9fc43c9d41d898efd4d1b1e2bcc
 
 Package: com.modmyi.100logosforzeppelin
 Name: 100+ logos for Zeppelin
@@ -31941,6 +31959,7 @@ Size: 902084
 MD5sum: 2fda07e487afd5bf0d3c79f168014563
 Description: 100+ logos for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ce770b48798f2c08f8aa73bb8f96bd95d0427a94ae023c9e3b86a3c18fdddd08
 
 Package: com.modmyi.49ersnfllogotypealkalinebattery
 Name: 49ers NFL Logotype Alkaline Battery
@@ -31956,6 +31975,7 @@ Size: 152352
 MD5sum: efe0c88d8c4731852cbf7d1e31fc1f5d
 Description: 49ers NFL Logotype Alkaline Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f6edf300bff330da11ca7f2fa0283a4723bffecfc0f09abca618ec9824b6238e
 
 Package: com.modmyi.4gtolte
 Name: 4G To LTE
@@ -31986,6 +32006,7 @@ Size: 783308
 MD5sum: fc16b6fe40d73db5d38d4784f81740ff
 Description: Great Apple Zeppelins for you to enjoy.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 4970d323ae118fe6691c2e751240491198f57df56f8c1fb3b06c8f6af4f8c17f
 
 Package: com.modmyi.acoolloader
 Name: A Cool Loader
@@ -32001,6 +32022,7 @@ Size: 351652
 MD5sum: c33b30af9cf699be2835771ab357c820
 Description: This is a cool loader I made.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a6adf807258c3ac4119dfb3aa8b7a24df05f6964703998815fc297d164b35592
 
 Package: com.modmyi.agoa9
 Name: Agoa 9
@@ -32017,6 +32039,7 @@ MD5sum: 055167c49bd71a1dbd9f9e60f2b75035
 Description: I am pleased to present my new Agoa9 that is compatible with Anemone.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: afe0fa9c50e5d224da1fb1b1173c9cd4c8d1dcdb1509cd558c1e204f08cad48e
 
 Package: com.modmyi.agoav2anemoneffectfor933
 Name: Agoa V2 AnemonEffect for 9.3.3
@@ -32033,6 +32056,7 @@ MD5sum: 8dd12d819cc6db0ea4224cf777be3590
 Description: Contains 1 anemone Effect
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 1a10cf048f05fde160a42684c6fe78e9217facf4ddd50b21ecd8b9fc310e3ef5
 
 Package: com.modmyi.airjordanshoesforzeppelin
 Name: Air Jordan Shoes for Zeppelin
@@ -32048,6 +32072,7 @@ Size: 132062
 MD5sum: 3a1cdedf538e7f9eb35ba55bbaac6184
 Description: Air Jordan Shoes pack for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9f324c75fb7d4abcc1cf8010f52e726dad09ea18869be752e956f6f68c1975e2
 
 Package: com.modmyi.alkalinebatterykitkat
 Name: Alkaline Battery KitKat
@@ -32063,6 +32088,7 @@ Size: 38818
 MD5sum: ddd5b31b1c7e48c0f30b79bb2e09e735
 Description: Alkaline Battery KitKat
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b38d0a53f88e93c8d7ba2a0f35dea45926e07a4c9443c9533ca7ff850bffbc9e
 
 Package: com.modmyi.alkalineswordartonlinetheme
 Name: Alkaline - Sword Art Online Theme
@@ -32078,6 +32104,7 @@ Size: 13036
 MD5sum: eafd567e78cba9037a90f8746273e252
 Description: Alkaline - Sword Art Online Theme
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: bde3c444125c48a351542e99e16ca2113b7e552c04a29fedc4e087611ce1321b
 
 Package: com.modmyi.alkalinetextsolomon
 Name: AlkalineText - Solomon
@@ -32093,6 +32120,7 @@ Size: 1934784
 MD5sum: c582e6d0fc862a351599e181fe533221
 Description: AlkalineText - Solomon
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 7e04da7ad352df706d0877b18e51e4ab98e6742a52b9a285654a38654c1b929f
 
 Package: com.modmyi.alkalinetransistorsword
 Name: Alkaline Transistor Sword
@@ -32108,6 +32136,7 @@ Size: 713908
 MD5sum: 3c9a6ebc6f51b0cdd7512eb95fd03740
 Description: Alkaline Transistor Sword
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 8cc594b9f1537190fc98aa43de7e2578ba7494ed57f15edec1d9cfbf1d880848
 
 Package: com.modmyi.allcolorbatteryforalkaline
 Name: allColor Battery for Alkaline
@@ -32123,6 +32152,7 @@ Size: 71044
 MD5sum: 968dfd58af394e88e8a63026fd33062a
 Description: allColor Battery for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 188a2c257a03b595a659b01e28e7251c31d6c68e28fde0fb9e95863b10e5c2ab
 
 Package: com.modmyi.androidbattery2
 Name: Android Battery
@@ -32138,6 +32168,7 @@ Size: 78748
 MD5sum: cc87c60fd0d400dd3d94e904f2b4aaa4
 Description: Android bot on your statusbar
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 12902fc2b1d23ab45d3a2bcfa183a8f415043a66990cff05c00e38018b609e7d
 
 Package: com.modmyi.androidkitkatbattery
 Name: Android Kit Kat - Battery
@@ -32153,6 +32184,7 @@ Size: 1166
 MD5sum: 20a7f0fa60f1553e275d366d9716268a
 Description: Android Kit Kat - Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d43eb39849679c9a96db419b6cba2e36b71361f5ee045dc957d9dd8c7d55b3a7
 
 Package: com.modmyi.androidkitkatsignalbarsandbattery
 Name: Android Kit Kat Signal Bars and Battery
@@ -32168,6 +32200,7 @@ Size: 7806
 MD5sum: bedb55ee9fd94e8788e8e0dad75da9fb
 Description: Android Kit Kat Signal Bars and Battery Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d0d3ba9e9722ec3756fc20b0e9ab78c65d6a596bb7e5ab21d70d8993da707f60
 
 Package: com.modmyi.androidkitkatstatusbar2
 Name: Android KitKat Status Bar
@@ -32183,6 +32216,7 @@ Size: 267378
 MD5sum: dede4cc63f33483cde65e88e2b189696
 Description: Android KitKat Status Bar
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b522452b63ecd1ebd86226aab9a2f33f0d2ebe7defa0e28b684be525145a15b5
 
 Package: com.modmyi.androidlollipopstatusbarforanemone
 Name: Android Lollipop Status Bar for Anemone
@@ -32198,6 +32232,7 @@ Size: 13666
 MD5sum: 411fecc64a49421c8175f2e7402c45bb
 Description: Android Lollipop Status Bar for Anemone
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 660e6bf442f687ccbe2440ea07bb13b8476b2fe25216c0e0a35346b71e2328c7
 
 Package: com.modmyi.androidskateboard
 Name: Android Skateboard
@@ -32213,6 +32248,7 @@ Size: 580354
 MD5sum: a07e9442132d6cb151f38ce371bfe97e
 Description: Android Skateboard
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 05cc1b5067f850e89b9361410648b9c5896b896fd8fcdc33dd5ee8e1cccea422
 
 Package: com.modmyi.angrybirdsmb
 Name: Angry Birds - MB
@@ -32228,6 +32264,7 @@ Size: 1906376
 MD5sum: 283632335834896f80b261c0db5c3dd9
 Description: Some different angry birds in different themes.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 12ee7d02aa59eb1cb750399ff3bce6182435cad9a1f3c36431c458bc792ace70
 
 Package: com.modmyi.animalpawbattery
 Name: Animal Paw Battery
@@ -32243,6 +32280,7 @@ Size: 520346
 MD5sum: 4e329044367fa9a2c7246ba4b2eb83e1
 Description: Animal Paw Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 7e0a17df25522b12c7b8f46504b6911cb0f9175e9ec0c8a2a61cd7c8354fb59b
 
 Package: com.modmyi.animezeppelinpack
 Name: Anime Zeppelin Pack
@@ -32258,6 +32296,7 @@ Size: 465084
 MD5sum: 10cbc689c5d99db41acb02805ac8c2ca
 Description: THE Anime Zeppelin Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 83b4486ced6068ed6cda472ee6eafd14e895e29edddf94130ad36952829b676e
 
 Package: com.modmyi.appleloadingwheel
 Name: Apple Loading Wheel
@@ -32273,6 +32312,7 @@ Size: 106062
 MD5sum: 138c50991508f41cb104b289a32e9d69
 Description: Apple's computer Loading Wheel.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f476b72597dd4b994c6cb1c855fca6f70a588efe256b7b222542ecd2412427c7
 
 Package: com.modmyi.applelogoalkalinebattery
 Name: Apple logo Alkaline Battery
@@ -32288,6 +32328,7 @@ Size: 87368
 MD5sum: 53b60e521d8a455f644dbe8feaccd3c5
 Description: A simple Apple logo battery for Alkaline.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 085ee946ba24f5a22a339572f0147dc4d1b876989ae05337b955d80db327451a
 
 Package: com.modmyi.applemacintoshbattery
 Name: Apple Macintosh Alkaline
@@ -32303,6 +32344,7 @@ Size: 219008
 MD5sum: 85ba623093b8f21f6e305a2427250835
 Description: Apple Macintosh Battery for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a5472cc424bf23dcaeb664e48b00f25afd8f6656e9a06db92ceb867f24bf1ce5
 
 Package: com.modmyi.applemacintoshloadingwheel
 Name: Apple Macintosh Loading Wheel
@@ -32318,6 +32360,7 @@ Size: 151456
 MD5sum: be413d399c7499644da24d4001bc9fa7
 Description: Apple Macintosh Loading Wheel
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 49cee7ce40d62bc24429ba46eff2b2af4e56c4cdf96812e3e5d4c646943649d6
 
 Package: com.modmyi.appleretroloaderios6and5
 Name: Apple Retro Loader iOS 6 and 5
@@ -32333,6 +32376,7 @@ Size: 3103704
 MD5sum: 3c2296e99159b9cea0d42d364a0bc9ff
 Description: Replace your original loader with a retro color apple logo
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: fa7bdce75256dab33b5d602895125b32d2943d2a4c0d39d2703b7719e8765ba7
 
 Package: com.modmyi.applocker
 Name: Applocker
@@ -32364,6 +32408,7 @@ Size: 10096
 MD5sum: 8c29c143d8968858cc23c20ff755d413
 Description: Atari Zeppelin Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 99d867d3285c9277e39955eda62814d2ba7125b34b228ee94f90776567d2d7db
 
 Package: com.modmyi.attackontitanzeppelin
 Name: Attack On Titan Zeppelin
@@ -32379,6 +32424,7 @@ Size: 137538
 MD5sum: fc284b4cf8f07cb4d82337d3119c271f
 Description: Attack On Titan Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b2a717082b8a634a2b9e3126bee4a1d1d4833ce437c6cea0a5c9f77607ac6e21
 
 Package: com.modmyi.autoclashbotios
 Name: AutoClashBotiOS
@@ -32409,6 +32455,7 @@ Size: 44968
 MD5sum: 3d11ec226a04bdcd00b9db6951c0e10e
 Description: Avatar Zeppelin icons
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: dbdf630093149ce8caf49490a788d92a8b139d6a18d45c7116b49974be8a3b74
 
 Package: com.modmyi.aweosmedock
 Name: aweosme dock
@@ -32424,6 +32471,7 @@ Size: 22446
 MD5sum: 6718fd405dabed8cc06a7c02a471338d
 Description: aweosme dock
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b9436f0fb6c6a46531d612c6294a6d52780cca1740fce84b7dab645f92384b3a
 
 Package: com.modmyi.awholelotofzeppelin
 Name: A Whole Lot Of Zeppelin
@@ -32439,6 +32487,7 @@ Size: 1409882
 MD5sum: 8e3c558534cd2f28ae60d97e21dc4a2a
 Description: A Whole Lot Of Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 73e2aa2234c407687de74f3c70860011fd57022d79dffe8b414331bd69ccc12c
 
 Package: com.modmyi.awholelotofzeppelin2
 Name: A Whole Lot Of Zeppelin 2
@@ -32454,6 +32503,7 @@ Size: 237874
 MD5sum: ed85af0bc76427728399df82429e583f
 Description: A Whole Lot Of Zeppelin 2
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 650afcd32fd8b4486ac7bbeedcebffe25e09fbdf87c1832fcfd873dd6bea83be
 
 Package: com.modmyi.ax1umanemoneffect
 Name: Ax1um AnemonEffect
@@ -32470,6 +32520,7 @@ MD5sum: 37571d6dd894ab98a864766341082888
 Description: Ax1um AnemonEffect contains two iconomatic
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 0c456741f74e74dd24599d6b328262fcb66779e095996907e5dc73594a823b07
 
 Package: com.modmyi.ax1umanemonehtml
 Name: Ax1um AnemoneHTML
@@ -32486,6 +32537,7 @@ MD5sum: 6f7cae8cb83b200ce1a6cfb09b7e1425
 Description: Ax1um AnemoneHTML
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 906714bf876f0173d70f662ad84e3513a2f6589e0737467bc8cba4afc089a1e6
 
 Package: com.modmyi.ax1umdock
 Name: Ax1um Dock
@@ -32502,6 +32554,7 @@ MD5sum: 42ec5dce80dc758f56001d0f622b0f49
 Description: This package contains 4 dock that work with Anemone
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 54158649dfd11444b9ab87ca1b28bf48aa75301f77c410eee1e78bf3a26167a0
 
 Package: com.modmyi.ax1umtheme
 Name: Ax1um Theme
@@ -32518,6 +32571,7 @@ MD5sum: 734f13225915232fa3e25a59ba7493f2
 Description: Hi to all and all, I am pleased to present my new theme Ax1um.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 1e7253ffb9673450ad50865e505eb0671cda5c79c9164a6372eeb86b9d8ebc6f
 
 Package: com.modmyi.axiumbadge
 Name: Axium Badge
@@ -32534,6 +32588,7 @@ MD5sum: 928d9c60f37c944f6d235d8ed8b7ba3e
 Description: Axium badge works with Anemone
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 880854adb02282ed6288f5cf6d03a0936beabd4de43d3cc3df8efaabc3b36e3b
 
 Package: com.modmyi.bachdubstepringtone
 Name: Bach DubStep Ringtone
@@ -32549,6 +32604,7 @@ Size: 1152898
 MD5sum: 9b1d472ffb220cd21e7b3c8591e82d6e
 Description: Classic Bach Dubbed. Sounds beautiful. Must Have!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 01cc8e5b86257c5afc78393b558c00b8f28daa0d9509a03a7605aad7ad7d70bd
 
 Package: com.modmyi.backtothefuturedigitalspeedodelorean
 Name: Back to the Future Digital Speedo Delorean
@@ -32564,6 +32620,7 @@ Size: 259014
 MD5sum: eeb0ada2e96b0d7d518a3573dcf695e3
 Description: Back to the Future Digital Speedo Delorean Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 4da71dc11bb9b97792fdbe34b4fe4807d3bbaf660722ce32e2d480b4f2b79771
 
 Package: com.modmyi.baltimoreravenslogoforalkaline
 Name: Baltimore Ravens Logo for Alkaline
@@ -32579,6 +32636,7 @@ Size: 2325144
 MD5sum: 3a3f109fde30c428db82281aef55b1aa
 Description: Baltimore Ravens Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 44694cbcfb3f9dafcdf740ca6df3ab7f29c85bfe00f9f477bf0220b48c25ca36
 
 Package: com.modmyi.barsbattery
 Name: Bars Battery
@@ -32594,6 +32652,7 @@ Size: 112846
 MD5sum: e716c13531e94237afb55c6cb771e888
 Description: Cool looking battery themes.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9a85f7ce5d75ddc9948e4cc812cf18d8b81bcf4c6eb54e7df291ac4a9636964c
 
 Package: com.modmyi.barsbatteryvertical
 Name: Triple Cheeseburger
@@ -32609,6 +32668,7 @@ Size: 29968
 MD5sum: 137d4df0455a7208d9307e2efe121639
 Description: Bars Battery Vertical
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 91088bf3285130f38ded15f9e412a63e899bc5f987f426dc48c6cf4ed4e00025
 
 Package: com.modmyi.batriforalkaline
 Name: Batri for Alkaline
@@ -32624,6 +32684,7 @@ Size: 209236
 MD5sum: d2e1fadccfbe660b007fb8435bb032ed
 Description: Batri for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ac4c1d999dfc9b2ea247e090dce9313bb517028f6c5c5beb59691a183a898705
 
 Package: com.modmyi.batterygauge
 Name: Battery Gauge
@@ -32639,6 +32700,7 @@ Size: 256320
 MD5sum: 2fe6f91e0f45f1b3284ad9f3ab4f841b
 Description: Battery Gauge
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a82c2bfd44d04258190a9c86025e97f222462f4a18c641d018db5ba50c2842c2
 
 Package: com.modmyi.beeralldayforalkaline
 Name: Beer All Day for Alkaline
@@ -32654,6 +32716,7 @@ Size: 220066
 MD5sum: 9f58af3ab6f4c4c0b3789b00f71d60d8
 Description: Beer All Day for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 190959a03163533cae0f958e6fc697c39be76839665741974bc80c6d79b8577a
 
 Package: com.modmyi.besttube
 Name: Best Tube
@@ -32683,6 +32746,7 @@ Size: 11971292
 MD5sum: baf5539be8e6d150bb467c6f2378bcd6
 Description: BootSound Sounds Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e3d6f5994f140a60126c4b340504c68fe5245b016789f86e79bb5b4de017d144
 
 Package: com.modmyi.bostonbruinslogoforalkaline
 Name: Boston Bruins Logo for Alkaline
@@ -32698,6 +32762,7 @@ Size: 241034
 MD5sum: 4d23087edc309ff1d2bf68e63cdc6068
 Description: Boston Bruins Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b142d0265cc310f0c9522669e3ae53ca39a887d286ae8e4379b5b38c5fd5dae8
 
 Package: com.modmyi.boxy3
 Name: Boxy 3
@@ -32744,6 +32809,7 @@ Size: 85832
 MD5sum: bb93d10858488b9fc0dcc3f50d740467
 Description: Soccer Emblems for the most important teams in Brazil.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 7f1d750e54360275029ac635103a24ffcbbaafe21ae7a5c721c662898110e64b
 
 Package: com.modmyi.breakingbadzeppelinlogopack
 Name: Breaking Bad Zeppelin Logo Pack
@@ -32759,6 +32825,7 @@ Size: 18710
 MD5sum: 94185343c38a380ee582ba7138df503d
 Description: Breaking Bad Zeppelin Logo Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d1658819ca3656ee852882b4ec091b8e5c145a43154cb7b5d5977d04edf03574
 
 Package: com.modmyi.buffalobillslogoforalkaline
 Name: Buffalo Bills Logo for Alkaline
@@ -32774,6 +32841,7 @@ Size: 3431368
 MD5sum: 738a119a17f8924af9be83e20a6c0a56
 Description: Buffalo Bills Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f949dabc9724e7e91bf6a71398c35683cec2c30667d4e34e92736294df6a70c6
 
 Package: com.modmyi.bugant
 Name: Bugant
@@ -32804,6 +32872,7 @@ Size: 944596
 MD5sum: 9d9027c374733a3bc0f43727162c1bc4
 Description: C7 Battery Color Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 8b8b9fe7eb34e7fdeb55ed609b7ad6124cbd5a83caadad0177d786b5922cce6c
 
 Package: com.modmyi.c7theme
 Name: C7 Theme
@@ -32819,6 +32888,7 @@ Size: 23416396
 MD5sum: 23efc97ec689bf269ced572f03e4eeb2
 Description: C7 Theme
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 0d31a12cbc16a894628fb2d00ec2e4b3ecfcc44f99eac8f9bdfbc7ed392823e3
 
 Package: com.modmyi.callofdutymodernwarfare2ringtones
 Name: Call of Duty Modern Warfare 2 Ringtones
@@ -32834,6 +32904,7 @@ Size: 3629324
 MD5sum: 97e659bba487e00269bbdca437dfecfc
 Description: Call of Duty Modern Warfare 2 Ringtones.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 188a6b2db9585a7b64794194381fd2232a2d029c55e24371f406f1fbefed4c9a
 
 Package: com.modmyi.carolinapantherslogoforalkaline
 Name: Carolina Panthers Logo for Alkaline
@@ -32849,6 +32920,7 @@ Size: 456652
 MD5sum: 4693d2649f22903ed7f6451cfa2727ce
 Description: Carolina Panthers Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: dffce3c64001768c752f548e85e89162892d1bf59ed7e826b61dc8cae26642a7
 
 Package: com.modmyi.castlecrashers2
 Name: Castle Crashers
@@ -32864,6 +32936,7 @@ Size: 282820
 MD5sum: b0ebe95589d109f790b4650de6c673bb
 Description: Castle Crashers Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 415fd9d59467b2f060bcdd574b47e04a2e05680604b3e6b14e74f92ffaf41acf
 
 Package: com.modmyi.celticbatteryalkaline
 Name: Celtic Battery Alkaline
@@ -32879,6 +32952,7 @@ Size: 445458
 MD5sum: 832b3b7d99b1d20fcb59d9bf850ba2fb
 Description: Celtic Battery Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 49e32c23f9e5d71ec5b8eb193eafbeaa31c9c2515840a54fc847191d1215b6eb
 
 Package: com.modmyi.chefknifelsbatterytheme
 Name: Chef Knife LS Battery Theme
@@ -32894,6 +32968,7 @@ Size: 22404
 MD5sum: 20afd0e54d3dbd7570a512f191dd3531
 Description: Chef Knife LS Battery Theme
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 2d3c291b3a1f889537ea5677d7ce82dd019da565cfa9f1d21ddc2dfe8c51417f
 
 Package: com.modmyi.chicagobullslogoforalkaline
 Name: Chicago Bulls Logo for Alkaline
@@ -32909,6 +32984,7 @@ Size: 344114
 MD5sum: 1762a4a4b64e1208d72e71474748c911
 Description: Chicago Bulls Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 5a7dff35ca28b5a6997d5641ccdf389b57e4004a65fcda3e4647af2f8d364325
 
 Package: com.modmyi.chrysisbatteryforalkaline
 Name: Chrysis Battery for Alkaline
@@ -32924,6 +33000,7 @@ Size: 638460
 MD5sum: d5e18c7eae58977993345fe16e739e47
 Description: Chrysis Battery for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b48bacd00de6cfaaac4b484ba27e5b15ff145fdc3b2e5a434c46e82fae57d2bf
 
 Package: com.modmyi.circolor
 Name: Circolor
@@ -32939,6 +33016,7 @@ Size: 14771990
 MD5sum: 23526f2875709722aec1946030cbb846
 Description: Circolor is a theme for your iDevice that focuses on circles and colors
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: cbf0667cd8c44981dd2195620495fd7edce528d21afc9bdbad6300356bcc972b
 
 Package: com.modmyi.clashofclansmegazeppelinpack
 Name: Clash of Clans Mega Zeppelin PACK
@@ -32954,6 +33032,7 @@ Size: 490338
 MD5sum: 5b129c1114de09b26553ee7a71ca45da
 Description: Clash of clans Zeppelin logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 677f99b5febc4e14d72dee758cd82f6babe06bbbe7a345531278e684d55e118d
 
 Package: com.modmyi.classicbattery
 Name: ClassicBattery
@@ -32969,6 +33048,7 @@ Size: 16398
 MD5sum: ad2954246f491ba4d775461f9e8e3a45
 Description: ClassicBars brings back iOS 6 and previous Battery Indicator.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 57565e023f0bfb25ccfb176ed57fb5aae79ca71d54dbfeba40c3aee5c6fb9fa4
 
 Package: com.modmyi.clockpointerbatteryforalkaline
 Name: Clock Pointer Battery for Alkaline
@@ -32984,6 +33064,7 @@ Size: 587358
 MD5sum: b7cbe956d4f5793ef9a915f129417e92
 Description: Clock Pointer Battery for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c54c0254885971df42d7c27ebd9563c158d6ddcd4253ef5c5ade8ea759d3b80e
 
 Package: com.modmyi.clsimpliciosnighticonpack
 Name: Simplicios Night Icon Pack
@@ -33014,6 +33095,7 @@ Size: 19862
 MD5sum: 919a15f0e12190868e0865329748751b
 Description: Battery theme for use with ALKALINE
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 0a6fdc7a59bed742726301a863aba9bee3f30d9ee7eda6a4b656f41409b63c0d
 
 Package: com.modmyi.colorcirclebatteryforalkaline
 Name: Color Circle Battery for Alkaline
@@ -33029,6 +33111,7 @@ Size: 419132
 MD5sum: 165a7045a8d2118fb0391dce2c5d4e39
 Description: Color Circle Battery for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: cdd445fb052040a86f34e1e8f4d70f0ec4ee9bdd150d848b7068516c7ed56134
 
 Package: com.modmyi.colornumberthemeforalkaline
 Name: Color Number theme for Alkaline
@@ -33044,6 +33127,7 @@ Size: 979124
 MD5sum: 58f20f3709dbdbdfc985c35f6b65bdcb
 Description: Color Number theme for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 0e5ad5719ae016743e1e847919265dab56006fa2b57c833d9223d0b28c3d4a86
 
 Package: com.modmyi.colornumberthemeforalkalineno
 Name: Color Number Theme for Alkaline (no %)
@@ -33059,6 +33143,7 @@ Size: 436488
 MD5sum: 67e7aa0ff94ee05cd731e3c87568fddb
 Description: Color Number Theme for Alkaline (no %)
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 7062bc1be0600677e26fd9200d56ad3d7287e8820840624def4a5067aaa70b16
 
 Package: com.modmyi.comziusungermancarrierlogos
 Name: German Carrier Logos
@@ -33074,6 +33159,7 @@ Size: 196116
 MD5sum: e49362aed50c223614035fa2400f9046
 Description: Collection of German carrier logos for use with Zeppelin.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c13a580763e2ff37141b618a328de668ad4a17ea5de120307bf2715dd4203cfe
 
 Package: com.modmyi.counterstriketeamlogosforzeppelin
 Name: Counter Strike Team Logos for Zeppelin
@@ -33089,6 +33175,7 @@ Size: 88626
 MD5sum: 2e3779b028c86ba2bd482bd53f57f52e
 Description: Counter Strike Team Logos for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 022d4e3402529cd33ae8e966751c11a191deb4bdcbfb37f7b1cb2961fd1d6fde
 
 Package: com.modmyi.daftpunkcarrierszeppelin
 Name: Daft Punk Carriers (Zeppelin)
@@ -33104,6 +33191,7 @@ Size: 100918
 MD5sum: e8984f587172d763bcabddad7535ecbd
 Description: Here's an amazing Daft Punk carriers.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9d7270a5d3a58ffc4872eb355d0206364dc409800aeeea2254f3009ae9973cba
 
 Package: com.modmyi.daftpunkforzeppelin
 Name: Daft Punk for Zeppelin
@@ -33119,6 +33207,7 @@ Size: 84022
 MD5sum: b6a6b40c9b5a5f6712c5bc858fff132e
 Description: Daft Punk pack for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 6fdb0fe22ce4c9021a57d332e917f7e56825061ff53ac069ca8441af134e2d7a
 
 Package: com.modmyi.dankzeppelinlogos
 Name: Dank Zeppelin Logos
@@ -33134,6 +33223,7 @@ Size: 28312
 MD5sum: 9bca977d7878e6edc5f4a24f8d9a117a
 Description: Dank Zeppelin Logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: beaab45bdda7c64d08ea80f67980c297e5bfbfa96893cd098e6cf3c504e13c6c
 
 Package: com.modmyi.dankzeppelinlogos2
 Name: Dank Zeppelin Logos 2
@@ -33149,6 +33239,7 @@ Size: 87720
 MD5sum: 20aba3544beabe9bc68a49b6544ff9d4
 Description: 21 more dank logos.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f9ee17c70abe57bee765fb6d86b000e2729c064690fc049fdda94196fcea6c31
 
 Package: com.modmyi.dejaripanemonefontnostalgia
 Name: Deja RiP Anemone Font (Русский Проект Nostalgia)
@@ -33164,6 +33255,7 @@ Size: 4981540
 MD5sum: a751d61eadd47bc337df273ac5a89366
 Description: Nostalgic of the 1.1.4 days? Install this font. No Copyright Infringement Intended, Personal Use Only.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 14ef7d5886d275ed7265525a52b0c32ed9979fa6fbe55f67c93f0b015cf505c9
 
 Package: com.modmyi.destinyloadinganimation
 Name: Destiny Loading Animation
@@ -33194,6 +33286,7 @@ Size: 215352
 MD5sum: 8ac1593f1ac04bc7cd9d63810581895a
 Description: Dial Up Ringtone.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 0b5d1335255b76a3ab6e39b3d3dbdc742d590d631ecf3f622fab588a4f051363
 
 Package: com.modmyi.doctorwhomb
 Name: Doctor Who - MB
@@ -33209,6 +33302,7 @@ Size: 729738
 MD5sum: 39388d0e83bb761773fc7b61c167e2d3
 Description: Some characters and props from the tv series of Doctor Who.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 748bff3c848b3190bfe52d9ff94d2409bea5f096b91fab9331521c86bf73f5d0
 
 Package: com.modmyi.dogerespringlogo
 Name: Doge Respring Logo
@@ -33224,6 +33318,7 @@ Size: 793464
 MD5sum: ed8f65020b37bb544a986fc1ad311472
 Description: Doge Respring Logo
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 4a440e57612373edbc2534561128b4846cc7663e27a3d0223235ce1d0d095fa6
 
 Package: com.modmyi.dotsforalkaline
 Name: Dots For Alkaline
@@ -33239,6 +33334,7 @@ Size: 6010
 MD5sum: 231c6d7ad3c62283f732c01470de0e86
 Description: Dots for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 04912493f1c364dfcfa3b59d59aaab764d7b9e2f1270cf6a56753251878809a3
 
 Package: com.modmyi.dotssignalampwifiios7
 Name: Dots Signal & Wi-Fi iOS 7
@@ -33254,6 +33350,7 @@ Size: 12480
 MD5sum: 08d032f98fb71e0a5c52308f94afec18
 Description: Dots Signal & Wi-Fi iOS 7
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 225ab471037a1e07c35b4b082e1a50ec6276b3d5fee31716bac710042557d015
 
 Package: com.modmyi.dotsstatusbartheme
 Name: Dots Status Bar Theme
@@ -33269,6 +33366,7 @@ Size: 15696
 MD5sum: c4f643bb2000ec3069872186c0273e58
 Description: Dots Status Bar Theme
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b808a17af295742425e0182e5e87b63955ebe52ca242d3f9f3ce14f82a89fba4
 
 Package: com.modmyi.doublecircle
 Name: Double Circle
@@ -33284,6 +33382,7 @@ Size: 317976
 MD5sum: 41d958192c1076e183b8b401b2dfa92c
 Description: Double Circle ALkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ec7124b62243218a7b767b061256f0a940a1bd0b32c12385c782093234948592
 
 Package: com.modmyi.dundeeunitedlogoforalkaline
 Name: Dundee United Logo for Alkaline
@@ -33299,6 +33398,7 @@ Size: 1021674
 MD5sum: 933ed76c93a94ee35de26af27a2d96c9
 Description: Dundee United Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9bedb78abe33dc55d787cec7db4e5aa7703a5ea2f5510dfd14c674fedb057cec
 
 Package: com.modmyi.dynaplanets
 Name: DynaPlanets
@@ -33314,6 +33414,7 @@ Size: 313444
 MD5sum: 901fdaae22bed88af2ddc65ae25cb1e8
 Description: Floating Planets on lockscreen and homescreen.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 62a16c7a34c5c6667f566a6fa2ff182cb49b812c8231bb0fdb19505b868bf0f6
 
 Package: com.modmyi.earthboundfalloutcocacolaandspidermanzeppelinlogos
 Name: Earthbound, Fallout, Coca-Cola, and Spider-Man Zeppelin logos
@@ -33329,6 +33430,7 @@ Size: 36784
 MD5sum: fd05f144921c1b6c798d8cc8412538f4
 Description: These are the Zeppelin themes I've made, will do requests
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 05472c8b9f4b1fda9f768b315593ef14faa2d9b5567da4d88f51aa7570212a81
 
 Package: com.modmyi.eastmeetswest
 Name: East Meets West
@@ -33345,6 +33447,7 @@ MD5sum: 1f22d2a920afb08455af77e498c32562
 Description: A fun combination of Western grunge & beautiful Eastern flair.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: e1362f2f3a89c97ce57f19e89e7169f5046ba49c87882c440451df5ad22b00f7
 
 Package: com.modmyi.eastmeetswestanemoneeffects
 Name: East Meets West Anemone Effects
@@ -33361,6 +33464,7 @@ MD5sum: 064d2880732e4ddf7f4423033652eaa6
 Description: East Meets West Anemone Effects
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: c274638a199005f3cef12846e83b3c2b6752f895a6a7112c8fbd58ab79df5253
 
 Package: com.modmyi.edardobianchilogoforalkaline
 Name: Edardo Bianchi Logo for Alkaline
@@ -33376,6 +33480,7 @@ Size: 107166
 MD5sum: 9aab81b89e68d9d61b077d27e6d84290
 Description: Edardo Bianchi Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 47fa249c521c2ebe1ddf38c99f70c371ee6e484fe1ea3ae06eaa05a2eb2f2dd8
 
 Package: com.modmyi.ezra2
 Name: Ezra2
@@ -33407,6 +33512,7 @@ Size: 199686
 MD5sum: 64dda117b194435d2c82c4992799827d
 Description: These are Fallout 3 and Fallout: New Vegas weapons, snowglobes, and armor for Zeppelin.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 8e45bcff73a0789fd542033fb2dcd40c7fd6805bb6d1b8a7cc8d6e5c20e2f52c
 
 Package: com.modmyi.fatbatt
 Name: FatBatt
@@ -33422,6 +33528,7 @@ Size: 168910
 MD5sum: 51ba37e8fb6cb079c7a23eae3d6119f9
 Description: his Alkaline theme is called FatBatt
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c7deaeae60fe4bfeaa9e5312a4414291857f2bb4ed7b85b418665f749ba290e5
 
 Package: com.modmyi.flipclocksiwidget
 Name: FlipClockS iWidget
@@ -33437,6 +33544,7 @@ Size: 1272300
 MD5sum: 8335862565f054899d556b285a7c11ad
 Description: real FlipClock iWidget with 12h and 24h clock formats and 5 languages.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e47954d1065eabb88a4c09317535bf2c6da3ba6d5a145a74f88fdecc211cddef
 
 Package: com.modmyi.frenchcarrierlogoszeppelin
 Name: French Carrier Logos Zeppelin
@@ -33452,6 +33560,7 @@ Size: 158704
 MD5sum: 25c012a4b33db2580b322827ae67003c
 Description: Add french carrier logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 1cd920daa6a954dce2a150f8f0cc3bbce8ea6c3fc9939dfc483c7d0ec1a8d9d1
 
 Package: com.modmyi.fullcirclecolor
 Name: Full Circle color
@@ -33467,6 +33576,7 @@ Size: 424840
 MD5sum: 522da41783636e3b68effca54c9a24e1
 Description: Full Circle color Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e41832518fafb00b12d6024f9e9067607ba0c1b86246738c488eeb362a8239f0
 
 Package: com.modmyi.galaxys8lockscreen
 Name: Galaxy S8 Lockscreen
@@ -33497,6 +33607,7 @@ Size: 1714698
 MD5sum: 24b48c6c0f18afd4b44b98a2786b99c5
 Description: Lots of different logos of game consoles
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 8eafd01806bdb4ceca269cc66011e112a7b9d3a406c6742a398f706af0730e2e
 
 Package: com.modmyi.gameofthroneszeppelinlogos
 Name: Game Of Thrones Zeppelin Logos
@@ -33512,6 +33623,7 @@ Size: 29072
 MD5sum: a912cebccae4e5142139d8bb88ff5949
 Description: Zeppelin Logos for Game of Thrones
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 28afd6bb2b1450e9517af56c35af3ece72c1aee220c25641c53ef2b6e2d7c2c4
 
 Package: com.modmyi.gamerzeppelinlogopacl
 Name: Gamer Zeppelin Logo Pack
@@ -33527,6 +33639,7 @@ Size: 25592
 MD5sum: 6ec9f3d6c5edf63786e0c9850406f2ca
 Description: This pack includes Assassin's Creed, Halo 3, Modern Warfare 3 and Gears of War
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b1cd7bbad1ccea1765b0d4c96777b6a86b388d95735b9a5ab30b5179c1b17aa4
 
 Package: com.modmyi.gifroll
 Name: GIFRoll
@@ -33557,6 +33670,7 @@ Size: 63594
 MD5sum: dbb77d6d916d70a6e94977f3710f8d79
 Description: Gingerbread battery with number
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 14963ee567a1893564c182b23ffd3271f3572e3333c17505b400b186ee9ee7c2
 
 Package: com.modmyi.glasklart2
 Name: Glasklart
@@ -33591,6 +33705,7 @@ Size: 62864546
 MD5sum: 6b627c332009e56d49f2f5da03fc2c51
 Description: Rethought and remade for retina display.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c933631869d90c1c6b547e2c4f9893b5d693d023f0263f9248f782c325aed360
 
 Package: com.modmyi.glowinggreenbattery
 Name: Glowing Green Battery
@@ -33606,6 +33721,7 @@ Size: 202136
 MD5sum: 099d985430f55d2c6be8e857aab184c6
 Description: Glowing Green Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 3c061f5665e5f683eaa1db4b62aa02c8411920fc1018ad424166f72c756ef2a6
 
 Package: com.modmyi.grandtheftautozeppelinicons
 Name: Grand Theft Auto zeppelin icons
@@ -33621,6 +33737,7 @@ Size: 138296
 MD5sum: 8d62af12e6b6ea94f7a315db57154532
 Description: GTA Zeppelin logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 22a038e71b0b8e7051fd7848226098ada6fe076e7d3555a3c3a8c37f1b696055
 
 Package: com.modmyi.gtazeppelinmegapack
 Name: GTA Zeppelin Mega Pack
@@ -33636,6 +33753,7 @@ Size: 87812
 MD5sum: be3f8ecdd7c21dc7d723d9e2683312b2
 Description: This is a set of Grand Theft Auto Logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e19020903ab520cbd2a2d82dfcd39d21a75cc7833fda8e742aa5b1143f5d5770
 
 Package: com.modmyi.halogunszeppelinpack
 Name: Halo Guns Zeppelin Pack
@@ -33651,6 +33769,7 @@ Size: 108174
 MD5sum: 4751899e67fd11c989dff42c0df29b4e
 Description: Halo Zeppelin Logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: af04fd30b40cfb3b3649e070bae67612379737bde5bfdd2be10f42ba3b3b69e8
 
 Package: com.modmyi.happyhalloweenzeppelinpack
 Name: Happy Halloween Zeppelin pack
@@ -33666,6 +33785,7 @@ Size: 14428
 MD5sum: f2710b7cd04348fc231812bc2c88f075
 Description: Happy Halloween Zeppelin pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 68f5bdfa941d9e7870fca5b8873765fd4b7e062bb6982131adcabc72b9a7dddb
 
 Package: com.modmyi.heartbattery
 Name: Heart Battery
@@ -33681,6 +33801,7 @@ Size: 25114
 MD5sum: 0122c076f75cc8aae255e92a98baea6e
 Description: Heart Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b2091a020029e1cfefa9757bfdd91fb2da3487ac2f0653af44e250cd03e713cc
 
 Package: com.modmyi.hidedeletebox
 Name: HideDeleteBox
@@ -33711,6 +33832,7 @@ Size: 120624
 MD5sum: 3bbcc0d5e1f8f358783b4b2b65767fdc
 Description: Horizontal Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d4e4ae8c243626f9bd6d03c35d9a6cb69e9c798fba588afd0a7e3a9ddcbbba0b
 
 Package: com.modmyi.houstontexanslogoforalkaline
 Name: Houston Texans Logo for Alkaline
@@ -33726,6 +33848,7 @@ Size: 271344
 MD5sum: 91167f5c1d90e89d55ff6378ba312cbe
 Description: Houston Texans Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: daa79f52cdf3e974faa36d30f434feed040eb6cb029deb8d3037549ee3d7df84
 
 Package: com.modmyi.iconmasksnoveltypack
 Name: Icon Masks Novelty Pack
@@ -33741,6 +33864,7 @@ Size: 451772
 MD5sum: d4c1787501ef23c6ce3f412b0a143041
 Description: This is the novelty masks pack for icons
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d96307477f6d638634bbae3ebd3cb6a1f86842d6667f4b5d9c7392489d6684ac
 
 Package: com.modmyi.iconshapes2
 Name: Icon Shapes
@@ -33756,6 +33880,7 @@ Size: 44874
 MD5sum: 8cc2757b4ee102225ced47c84c1a6bf6
 Description: This changes your icons to different shapes!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 3f1c654cd00ae69c59959f090c0b02022ccaa4a7090b532304a27301ec11bccd
 
 Package: com.modmyi.icsdigital
 Name: ICS Digital
@@ -33771,6 +33896,7 @@ Size: 246786
 MD5sum: f56d8154b5f952dd649d94e4ee164c08
 Description: ICS Digital
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: bb54078b28cd4a40ccedd5604b1d73bc70adfea38d540827eb10aa7b50c427a4
 
 Package: com.modmyi.ifruitgtarespringlogo
 Name: iFruit (GTA) Respring Logo
@@ -33786,6 +33912,7 @@ Size: 22788
 MD5sum: e1c4d6625ff5fa549dd2574d29e112f0
 Description: iFruit (GTA) Respring Logo
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d6d1aaee41d058fc9efe6ad38c5682a1d6bf2c243fb00f4f5db888e2efe18a74
 
 Package: com.modmyi.indiancarrierlogoforzeppelin2
 Name: Indian Carrier Logo For Zeppelin
@@ -33801,6 +33928,7 @@ Size: 242200
 MD5sum: b1e5706a73c3fd111f019f3ee35b9f17
 Description: Indian carrier logos pack for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a67c786153f356de1a661c4be4401798ce4a3a3a805282d0e00b95d17939b896
 
 Package: com.modmyi.insight
 Name: Insight
@@ -33816,6 +33944,7 @@ Size: 1918854
 MD5sum: ec689e09e83eee07acd84d966c77cae0
 Description: Simple. Not for everyone. This is Insight.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f4891c53731bbea2406ca3f2740f76022e7ee647d002e1effacda1fe31a37493
 
 Package: com.modmyi.ios5battery7
 Name: iOS5 Battery7
@@ -33831,6 +33960,7 @@ Size: 40372
 MD5sum: 80a8fdd823afec16ccf193dfed7a4930
 Description: iOS5 Battery7
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 835e2db269b94cc592c8d36c9a0a626d2a4dbf0af31310a08490829e5fbffaf5
 
 Package: com.modmyi.ios6classicbatteryalkaline
 Name: iOS6 ClassicBattery (Alkaline)
@@ -33846,6 +33976,7 @@ Size: 43132
 MD5sum: f04b00f365f9bbfbc5368e10acf995b1
 Description: iOS6 ClassicBattery (Alkaline)
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 08940008554a8f0eef2c14908af73543a61aa578a3f0797f8c355bcc0dc17cdd
 
 Package: com.modmyi.ios6themeios7
 Name: iOS 6 Theme (iOS 7)
@@ -33861,6 +33992,7 @@ Size: 1226198
 MD5sum: 59a4692b9520ee81772ec42c29e4df3e
 Description: Bring iOS 6 icons to iOS 7
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a4d72c0bad8a0c3468939f6403925d62e515f19637bad368efb7d74fc0e3500a
 
 Package: com.modmyi.iphonebatteryblue
 Name: iPhone Battery Blue
@@ -33876,6 +34008,7 @@ Size: 443638
 MD5sum: 4b6e212214fb7fdb488e612a276c1980
 Description: iPhone Battery Blue
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 1989676a979db7607f77c908415a5f4b36fc4a0ec5426c1487e3fe2d26d821fa
 
 Package: com.modmyi.iphoneios6batteryalkaline
 Name: iPhone iOS 6 Battery (Alkaline)
@@ -33891,6 +34024,7 @@ Size: 126868
 MD5sum: 941b980293efe710050e2d474e2e6201
 Description: iPhone iOS 6 Battery (Alkaline)
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 1150dc727d471d069cc75197b698f8fa6faa22ee8dd3718f98e93bbe4469a96a
 
 Package: com.modmyi.italiannationalteamlogoforalkaline
 Name: Italian National Team Logo for Alkaline
@@ -33906,6 +34040,7 @@ Size: 304120
 MD5sum: 948ab047680ed0c32f6d9fe476b8caac
 Description: Italian National Team Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 377e4227b78285aff1507ff646e6de0a8c51dc62b57b8621f831e8696ca69df2
 
 Package: com.modmyi.jellybeanbattery
 Name: Jelly Bean Battery
@@ -33921,6 +34056,7 @@ Size: 187444
 MD5sum: d8e5883c32837ac7f29705186cf5fe4c
 Description:  Jelly Bean Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 0390f29bf4bcc326a1fabdfebd72820faa5b2dfc12d9663257ba8aedae73900d
 
 Package: com.modmyi.justone
 Name: JUSTONE
@@ -33936,6 +34072,7 @@ Size: 8742
 MD5sum: 6e5fc16cf083130a893137110570ec20
 Description: JustOne
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f620eca27d37c58ed3ad84a0846584fd03d9a0e2d9c9262685f0c103deb6187b
 
 Package: com.modmyi.juventuslogoforalkaline
 Name: Juventus Logo for Alkaline
@@ -33951,6 +34088,7 @@ Size: 182630
 MD5sum: e9439936787ee1508f813344337609f0
 Description: Juventus Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 8f9fe2adee8f63ba9625f200255af81bc81f5d3bc4ac4a21fefa74c0f4f4151d
 
 Package: com.modmyi.killingjokezepplinpack
 Name: KillingJoke Zepplin Pack
@@ -33966,6 +34104,7 @@ Size: 400228
 MD5sum: d5f32d2d3576292cc5185204791177bd
 Description: Random Zeppelin Icons (Bane, Deadpool, Master chief, and more)
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a6ad2e8e24395296f765e84068759bef9bff752fd975b388028ee990314917a5
 
 Package: com.modmyi.kitkatbattery
 Name: KitKat Battery
@@ -33981,6 +34120,7 @@ Size: 129680
 MD5sum: 8d51266d8d3f20d8400216e1b9b26756
 Description: KitKat Battery ALkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c64101278378934efebbe0f2565a696918cda1398fbf39f1573746ea1cbc126c
 
 Package: com.modmyi.kurdistanflagbatterytheme
 Name: Kurdistan Flag Battery Theme
@@ -33996,6 +34136,7 @@ Size: 48482
 MD5sum: 136c197d3e0679c4e53451c981dd6281
 Description: Kurdistan Flag Battery Theme
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a8c6c5eeb58d30ed2c4398e6b967d4267ec03fed45d7c1f3b26e85940e09a485
 
 Package: com.modmyi.lalakerslogoforalkaline
 Name: LA Lakers Logo for Alkaline
@@ -34011,6 +34152,7 @@ Size: 279286
 MD5sum: bc3ad730024adcef52fb7e42975524d3
 Description: LA Lakers Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 75a3f381e409ad03f78384c0718ad429dc98485fb944c652d291003fbe08b0fc
 
 Package: com.modmyi.lennox
 Name: Lennox
@@ -34026,6 +34168,7 @@ Size: 100106
 MD5sum: 26e0a433753890f906c5524dbb19f518
 Description: Introducing Lennox c: my new Battery indicator theme&
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 307cdfa05b7ad58b018f90bbcf89eb9c8c0a63187a56f968f5be97f86ec69617
 
 Package: com.modmyi.lightningbattery
 Name: LightningBattery
@@ -34041,6 +34184,7 @@ Size: 670836
 MD5sum: dc4fdb66d099177c3ca50f78949d33c2
 Description: LightningBattery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 3316b4cdb2135191eff78971cd9618b8f0318d04556d67086b5db09d9ab9206d
 
 Package: com.modmyi.lightsaberbattery
 Name: Lightsaber Battery
@@ -34056,6 +34200,7 @@ Size: 155190
 MD5sum: 932e788b16e76733cb08642d6c764e5c
 Description: Lightsaber Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c4ef624e41c6f066d453c890a29e2b50fb015336e398b8500614686a659a584c
 
 Package: com.modmyi.liosbatteryforalkaline
 Name: LiOS Battery for Alkaline
@@ -34071,6 +34216,7 @@ Size: 332438
 MD5sum: 28cfbdd05f1b89c0d3c9d14388517272
 Description: A classic style battery but with a touch of classy style
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 09a0cea61ab33fbc549359b3e537f144a3c1b8e4235dafe8e31b2f56dc1ddfe1
 
 Package: com.modmyi.livebatteryindicatorios7
 Name: Live Battery Indicator iOS 7
@@ -34086,6 +34232,7 @@ Size: 5880474
 MD5sum: cfb80bc1b3512875009b20788526ca12
 Description: Live Battery Indicator Theme for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c806d71402157371cc70009c193ef6e03523ae5750cb7243894dd9de696f6872
 
 Package: com.modmyi.liverpoolbatteryalkaline
 Name: Liverpool Battery Alkaline
@@ -34101,6 +34248,7 @@ Size: 168006
 MD5sum: b34d60e948f97c9a2bccee73dbc24ce9
 Description: Liverpool Battery Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 63f5e41b6cfc73c4e5050c625a762a5c3aa93819ed4c1dea3aa8fdad1c5c3200
 
 Package: com.modmyi.lollipopringtones
 Name: Lollipop Ringtones
@@ -34116,6 +34264,7 @@ Size: 1664466
 MD5sum: 0f0ae07cd9d89913622968e621028ed1
 Description: Android Lollipop for your sounds
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: fa57c68de98fd98ee606d01d8ea8427058ed92b8337e6d348c9dc9278476b4ec
 
 Package: com.modmyi.lostzeppelin
 Name: LOST Zeppelin
@@ -34131,6 +34280,7 @@ Size: 91528
 MD5sum: 5d46728bd71740ee0c351113acc314da
 Description: 4 Icons for Zeppelin inspired by ABC's LOST TV Show.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: fd62bbf95e20dcdcfc8ef7591a6b8ee1244e5c1e0112e3a99c075421946d4789
 
 Package: com.modmyi.macbattery2
 Name: MacBattery
@@ -34146,6 +34296,7 @@ Size: 17658
 MD5sum: 5edbf8b0158ef9c0e1e504a3169e6e22
 Description: Make your Battery Indicator look like the one on a Mac.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ef5c17042e15e316cf76c1d9b210e7b7f76b2c844bff1c69556fa2d4bebc09ce
 
 Package: com.modmyi.manchesterunitedalkalinebattery
 Name: Manchester United Alkaline Battery
@@ -34161,6 +34312,7 @@ Size: 84062
 MD5sum: 3b103a725e9813700e77638be765dc83
 Description: Manchester United Alkaline Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e6ae0318b0183715415ddb9141c49831d99afaea2c75bd15e2c8e8a35b0092e0
 
 Package: com.modmyi.marvelampdcforzeppelin
 Name: Marvel & DC for Zeppelin
@@ -34176,6 +34328,7 @@ Size: 111366
 MD5sum: 204f1dd23b350d74892d1785a3a76c0d
 Description: Set of Marvel and DC comics characters logos to use as Carrier Bundle.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b30e6ce10844a967b9f87859bdee553be0ebd17a9e0c1514a65d57ba0c190281
 
 Package: com.modmyi.miamiheatlogoforalkaline
 Name: Miami Heat Logo for Alkaline
@@ -34191,6 +34344,7 @@ Size: 436540
 MD5sum: 36af25731c5324957b1c4959e7f70514
 Description: Miami Heat Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e66cadbe914b4550b6a7522170e2849182df592052409c56910702e53044278f
 
 Package: com.modmyi.milkshake
 Name: Milkshake
@@ -34206,6 +34360,7 @@ Size: 46290404
 MD5sum: d6e7520846e253ba1b11e5d55b5ead0a
 Description: A simple, flat theme.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 3be1ca03e6d28a37f74df20060859bbaef3c7c641b428bae835374d192ff8e2f
 
 Package: com.modmyi.minecraftzeppelinthemes
 Name: Minecraft Zeppelin themes
@@ -34221,6 +34376,7 @@ Size: 50938
 MD5sum: 32b43a9cc246e4c882141ae794f79858
 Description: Minecraft Zeppelin themes
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ec782dc1356ca233a45312345fa72384549091cf04ed64294804a41e36c9376d
 
 Package: com.modmyi.minimalbatterycs
 Name: Minimal Battery CS
@@ -34236,6 +34392,7 @@ Size: 26806
 MD5sum: e90f94590b482efa06db5d07223f3958
 Description: Minimal Battery CS
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 35b2a549ac4eb18d4d5b932ad2210ed3a850934e3a64560764cf22adf05d4c6b
 
 Package: com.modmyi.minimalbatterycs2
 Name: Minimal Battery CS
@@ -34251,6 +34408,7 @@ Size: 41986
 MD5sum: e7204ded9e3c9d89c66ef592fba23201
 Description: Minimal Battery CS
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 08e7d7c36b6d3dae9c051eac5f7e20fcbe56674b40968d3d066cd5f282bacb46
 
 Package: com.modmyi.minimalwifisignalcs
 Name: Minimal Wifi-signal CS
@@ -34266,6 +34424,7 @@ Size: 6616
 MD5sum: 5c96975360943d8ebe24b26b984b7c5e
 Description: Another set for the signal and wifi indicators
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 85ba67b28020e8e3e946ca8639a926cbd04a0c7821e559069fbf447de4731667
 
 Package: com.modmyi.minnesotawildlogoforalkaline
 Name: Minnesota Wild Logo for Alkaline
@@ -34281,6 +34440,7 @@ Size: 354084
 MD5sum: 6a3edcd5e9cffe0c3d5fad892e2a71bc
 Description: Minnesota Wild Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b262d9548f947272751e191ef2c5912429ae3a2088347caff78946e6228bb435
 
 Package: com.modmyi.mlbzeppelinlogos
 Name: MLB Zeppelin Logos
@@ -34296,6 +34456,7 @@ Size: 80748
 MD5sum: bab5b6adc250d27c0167f794af61fbe9
 Description: Zeppelin Logos for MLB teams.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 801dfcfd7a856acbb15fa2631c78aecfd14923d4bd35b65253b6bfce3698dea4
 
 Package: com.modmyi.monsterred
 Name: Monster Red
@@ -34311,6 +34472,7 @@ Size: 537286
 MD5sum: 46c1cca434c20f4afdec473a1e767dea
 Description: Monster Red Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 39101e1f7848f51bbe962399d6f50494dc4f5fb1b9dfd2a29b90e229e875d2b1
 
 Package: com.modmyi.mortalkombatlogoforalkaline
 Name: Mortal Kombat Logo for Alkaline
@@ -34326,6 +34488,7 @@ Size: 699106
 MD5sum: cfcd4d7124647a7b1d6ef3d42bc1a25e
 Description: Mortal Kombat Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e37e870dee60ba7148da2021945b8e91f8a1039e068cff25acac1b0f6c727a8f
 
 Package: com.modmyi.moviesforzeppelin
 Name: Movies+ For Zeppelin
@@ -34341,6 +34504,7 @@ Size: 261932
 MD5sum: ab9b00af3ca94739d51d470861fdb11d
 Description: Mortal Combat, Skeleton Jack, 007, Dexter, Game of Thrones, House MD++
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e23349168cb27ca9322692460b9c6a21ae2823d4f6e5060d75801dca08967f68
 
 Package: com.modmyi.myriamsecuritychallenges
 Name: Myriam Security Challenges
@@ -34371,6 +34535,7 @@ Size: 10600936
 MD5sum: 324857f594d613625a2a6836010e9209
 Description: NeptuneHD is a free iPhone4 theme
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 930067e0c02f3ba1cd513688612ef73cc5a99d9ebec3c053d956154c0f5654b3
 
 Package: com.modmyi.nerosbatteryforalkaline
 Name: NeroS Battery for Alkaline
@@ -34386,6 +34551,7 @@ Size: 796732
 MD5sum: 68675c430ecb3652706eac9fa5bf7fe7
 Description: NeroS Battery for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 7e963a66845a3e65d3213086ca93002d6ea102de266a636d59d50d31ea88e137
 
 Package: com.modmyi.newjerseydevilsforalkaline
 Name: New Jersey Devils For Alkaline
@@ -34401,6 +34567,7 @@ Size: 358164
 MD5sum: e24a6384f25878028d7b3a09f3defc3c
 Description: New Jersey Devils For Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a1fd488e7e6e467ee7392bf07e6ec52efdd83964255870cd8574ebe69e85fd94
 
 Package: com.modmyi.nfl49erssanfranciscoalkalinebattery
 Name: NFL 49ers San Francisco Alkaline Battery
@@ -34416,6 +34583,7 @@ Size: 178176
 MD5sum: 2b38f8d10b30500e03a247d221e4be8a
 Description: NFL 49ers San Francisco Alkaline Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f7193776df75fb31781ba620f8d90f3e5577b41fd741b91e148283a825f5d7ad
 
 Package: com.modmyi.nfleaglesphiladelphiaalkalinebattery
 Name: NFL Eagles Philadelphia Alkaline Battery
@@ -34431,6 +34599,7 @@ Size: 285034
 MD5sum: 3fd434ebd76063317bfd8d81f7cffce4
 Description: NFL Eagles Philadelphia Alkaline Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d29824f1f29cb9ece59bed1c216f8e904140a35b8d0d4891b95085c01722c9c7
 
 Package: com.modmyi.nflfalconsatlantaalkalinebattery
 Name: NFL Falcons Atlanta Alkaline Battery
@@ -34446,6 +34615,7 @@ Size: 153990
 MD5sum: 3e627528e29093ec3ff03511f5d1569d
 Description: NFL Falcons Atlanta Alkaline Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f2e493c409d2b0fa06ef61184510de6f2d2fb5d41176ca6316d5227f6df389a0
 
 Package: com.modmyi.nfloaklandraidersalkalinebattery
 Name: NFL Oakland Raiders Alkaline Battery
@@ -34461,6 +34631,7 @@ Size: 221758
 MD5sum: 9f3635edd33a05edff25a9ab474c1dd9
 Description: NFL Oakland Raiders Alkaline Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 5657b04a6c2a36bd5ade650b10fd589d0962ea35486ec08eee9952930b7fac8d
 
 Package: com.modmyi.nicetimeiwidgetclock
 Name: NiceTime iWidget Clock
@@ -34476,6 +34647,7 @@ Size: 3086626
 MD5sum: 0779d90a4dc15adc4826296b68e438ca
 Description: Digital clock widget for use with iWidgets.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 532bb5e0201e24f355ee69f3575aebb7dd3f4df6dd01a3f951a106f958a6ce2e
 
 Package: com.modmyi.nikelogoforalkaline
 Name: Nike Logo for Alkaline
@@ -34491,6 +34663,7 @@ Size: 443926
 MD5sum: 6133cd47c639aa38a712f64e9a34f656
 Description: A nice Nike logo battery for Alkaline.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: dfebe59c7b11713fa64cf4b9ce68c6395e14c822338d3b2f86a117326ce4bfec
 
 Package: com.modmyi.noiconlabelsanemoneonly
 Name: No Icon Labels (Anemone Only)
@@ -34506,6 +34679,7 @@ Size: 1036
 MD5sum: 2a5ea5ec326711048188b0636b2fc04d
 Description: No Icon Labels (Anemone Only)
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e871dbee678f9f76a9587a0f82692e305174f5626afa3180b5025ce0e42e6db1
 
 Package: com.modmyi.nosbattery2
 Name: Nos Battery
@@ -34521,6 +34695,7 @@ Size: 209966
 MD5sum: 6569324bcd9c564b52b6236d13cd4543
 Description: Nos battery theme for the Alkaline tweak
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ce9f0162fbfe6af9f7f4cd7e42cfb579d30887855fe06981ca6b9a9ff3d46a64
 
 Package: com.modmyi.nygiantslogoforalkaline
 Name: NY Giants Logo for Alkaline
@@ -34536,6 +34711,7 @@ Size: 197402
 MD5sum: 5481f7a3883b7594ed5ad8b9128cffeb
 Description: NY Giants Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 7e5bc1e69c1b7ad91bd07965cdfa09d23696c69780a56b243ca45319da314ca2
 
 Package: com.modmyi.nyknickslogoforalkaline
 Name: NY Knicks Logo for Alkaline
@@ -34551,6 +34727,7 @@ Size: 1021936
 MD5sum: c0383bf550ce4ba1ba3ecd5d714756a6
 Description: NY Knicks Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9a2e40fc96d1bf552ebc43f9986c820bec6c190256e9966132172a3026d13d80
 
 Package: com.modmyi.nymetslogoforalkaline
 Name: NY Mets Logo for Alkaline
@@ -34566,6 +34743,7 @@ Size: 494092
 MD5sum: 2408bdbd1e776c142d69c2b3835b9d04
 Description: NY Mets Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 1d17bd45a9eecb8863396119cd05b74f186fcec0e85003cee94b618aa7963ad0
 
 Package: com.modmyi.nyyankeeslogoforalkaline
 Name: NY Yankees Logo for Alkaline
@@ -34581,6 +34759,7 @@ Size: 203404
 MD5sum: 80d679b3eb23ee2ec44a9bb98208bb49
 Description: NY Yankees Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ba5337302727dfc555de423b46a69562cd76801211bc55ab1ea0c37283fbca5c
 
 Package: com.modmyi.offcenter
 Name: Off Center
@@ -34596,6 +34775,7 @@ Size: 187578
 MD5sum: 3413a5ceec0f18e82bbfb24bc886d7ce
 Description: Off Center ALkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 6f6e6394542dfe23d2db48a84a952d19630ed7c1966800133aa90fe43a7129bd
 
 Package: com.modmyi.oilindicatoralkaline
 Name: Oil Indicator Alkaline
@@ -34611,6 +34791,7 @@ Size: 177186
 MD5sum: 2aa3514b75a4b98065214d14873a1ef3
 Description: Oil Indicator Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 295e033ef4cba2887eca557a42ab7e0aad7b30f9789201652cc737efed6b284b
 
 Package: com.modmyi.oldfashionbatteryforalkaline
 Name: OldFashion Battery for Alkaline
@@ -34626,6 +34807,7 @@ Size: 280794
 MD5sum: 9ac7a6c8e9e4e346e05a4f5bb4087b2c
 Description: Old phones style battery for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: da39c014493a6b88680dd134b95b31e01af630669238ee4d0c7110618447bf92
 
 Package: com.modmyi.onpackageiconforopennotifier
 Name: Package Icon for OpenNotifier
@@ -34641,6 +34823,7 @@ Size: 15000
 MD5sum: 4c1d63360693eb31272d989c55ea4a7c
 Description: A package icon for Cydia or another application for OpenNotifier.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 342b134b52e210cb74984a92485ccc3c3f911d10305ecf5022f67fb12d7095c0
 
 Package: com.modmyi.opennotifierios7iconpack
 Name: OpenNotifier Flat Icon Pack
@@ -34656,6 +34839,7 @@ Size: 12661730
 MD5sum: 8c4495fbb7559eaa61add5a06c299c6b
 Description: OpenNotifier iOS7 icon pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 59c829748c711dbcf2d48084980f661310612e5e092e3cee07731392fbf966c1
 
 Package: com.modmyi.opennotifierpremiumpack
 Name: OpenNotifier Premium Pack
@@ -34673,6 +34857,7 @@ MD5sum: 2b9d1d45542a5befd99c7c7be914f8a0
 Description: The official premium pack for OpenNotifier
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 9fc05e9fd049af085ce05bd7425d0cfb71efd3f3d1f8e6239ffdb3001b84e8bd
 
 Package: com.modmyi.originaliphonebatteryiconalkaline
 Name: Original IPhone battery icon- Alkaline
@@ -34688,6 +34873,7 @@ Size: 70212
 MD5sum: d3f3f0fa6811fcc4da2bb421643acc5b
 Description: Original IPhone battery icon- Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 17451022ff1f8033171ee04720874ef61f51ac8245f67b98ef7868742d700a2f
 
 Package: com.modmyi.overwatchiconspraysforzeppelin
 Name: Overwatch Icon Sprays Add-On for Zeppelin
@@ -34704,6 +34890,7 @@ Homepage: http://twitter.com/Rockolate
 Maintainer: Rockolate
 Author: Rockolate
 Depends: com.alexzielenski.zeppelin
+SHA256: a60ab0e8f8b00fe1f33eb1297dacf7ab8bbf4d04ea9127e1cb8daab4adc3af8e
 
 Package: com.modmyi.ovodrakeforzeppelin
 Name: OvO/Drake for Zeppelin
@@ -34719,6 +34906,7 @@ Size: 80344
 MD5sum: d8223075661b02bcb5371d735c4491f5
 Description: OvO/Drake pack for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 45082ca9e2fae1a87683e8b1e7399d1261015c5ffbc13129772859f11ad8ecf6
 
 Package: com.modmyi.pacmaneatssignaldots
 Name: Pac-Man eats Signal Dots
@@ -34734,6 +34922,7 @@ Size: 97452
 MD5sum: 8ec5dffe9e45f64ddae4422ad58fc6bb
 Description: Pac-Man eats Signal Dots
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b4e0a28fd9aac9f4693351e4503a360c655f6a17def0fcc7222a757fc8b67284
 
 Package: com.modmyi.pacmanghostsforzeppelin
 Name: Pac Man Ghosts for Zeppelin
@@ -34749,6 +34938,7 @@ Size: 13420
 MD5sum: be3d5bc3a8ceaecf64ba1e1fe73a525a
 Description: This is a Zeppelin Pack. It countains 4 Pac Man ghosts. I hope you will enjoy it!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: dbbb5f94b892e42109ead4228a5dcaa456f119effbf7d0aba1ed7927dfdb693c
 
 Package: com.modmyi.patrickrespring
 Name: PatrickRespring
@@ -34764,6 +34954,7 @@ Size: 101492
 MD5sum: 8614ad7e20b565010241076a3cc44fe7
 Description: Patrick Respring
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 92890014e9b6b476c3ff214c8369358eae7d992094968e8c44aa19b7ad513613
 
 Package: com.modmyi.perforatedcirclecolorsforalkaline
 Name: Perforated Circle Colors for Alkaline
@@ -34779,6 +34970,7 @@ Size: 338758
 MD5sum: c3cd6a9b96d3f9d7124a602cf2836e1d
 Description: Perforated Circle Colors for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 7a783aa3b9a829ae8e50480eef2fe5df40b04fbb4cb6e276aee8055a21cba391
 
 Package: com.modmyi.pittsburghpenguinslogoforalkaline
 Name: Pittsburgh Penguins Logo for Alkaline
@@ -34794,6 +34986,7 @@ Size: 408292
 MD5sum: 8a8c86588425f042293dfef0948fc1cc
 Description: Pittsburgh Penguins Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9f8c68d332b3c0a367319ef4d1c96afda7a5d1251d5bb1bc5510e1e5ea24e101
 
 Package: com.modmyi.playstationlogoszeppelin
 Name: PlayStation Logos Zeppelin
@@ -34809,6 +35002,7 @@ Size: 59084
 MD5sum: 1d3fcf5f548402b54ba6f9d5594e933d
 Description: 4 different playstation logos for Zeppelin.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a9b1f783dd463efb02be8c9d303a137bd942fd781d2a82ee837bff8c72c41afc
 
 Package: com.modmyi.pokemoncrystalrequestforzeppelin
 Name: Pokemon Crystal Request for Zeppelin
@@ -34824,6 +35018,7 @@ Size: 16768
 MD5sum: 5049c80e0940972723836d5c2a594c89
 Description: Pokemon Crystal Request for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 2adbb5f99e5118000bf515ab7dd7bf97d586db30d386df080284885d764d3094
 
 Package: com.modmyi.pokemonyellowzeppelinpack
 Name: Pokemon Yellow Zeppelin Pack
@@ -34839,6 +35034,7 @@ Size: 22474
 MD5sum: d3d336d0646a063d914053d18360b557
 Description: Pokemon Yellow Zeppelin Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 5397f3749be31f20726f5a200142a35745022480dc6c6210628896b3bdf2a8d7
 
 Package: com.modmyi.pokemonzeppelin
 Name: pokemon zeppelin
@@ -34854,6 +35050,7 @@ Size: 35032
 MD5sum: 4db221d2eb3af3b2f125a6b8612866f2
 Description: Pokemon Zeppelin logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 5dcab86ac6db0129dab1b447327bb0a454ca501f80ca3b847edeecd5850d41ab
 
 Package: com.modmyi.poundsbatter
 Name: Pounds Batter
@@ -34869,6 +35066,7 @@ Size: 100416
 MD5sum: caa123371fa8bad2c50307f233cd9286
 Description: Pounds Batter alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 02898f2af59236225cb10029a1885e5dc8dab72660339eecfd27e3fbccae4a6e
 
 Package: com.modmyi.pwnapplerespringlogo
 Name: Pwn Apple Respring Logo
@@ -34884,6 +35082,7 @@ Size: 455524
 MD5sum: 2d8915d650dd21ac1bda11952c24a879
 Description: Pwn Apple Respring Logo
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 334f9ea48e6ad279645123ee48f78621814140e00077cadb54f4302e6be44d4a
 
 Package: com.modmyi.rainbowapplelogo
 Name: Rainbow Apple Logo
@@ -34899,6 +35098,7 @@ Size: 6168
 MD5sum: 0a683cc70275c7dd110bf76c2789b839
 Description: Rainbow Apple Logo
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 68e8004a0f3ba5b1be7a11172ee4c561a5082c41d434fb20e45f18546bf208f5
 
 Package: com.modmyi.rbm
 Name: Rbm
@@ -34914,6 +35114,7 @@ Size: 711948
 MD5sum: f1a610909988449d7b43ce67d39e110d
 Description: Theme of the battery on the occasion Ramadan
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: fad33e6fd2df23be260a29a5cdad0ce8cc8dca5c1996d8dcfe02f5880280c83f
 
 Package: com.modmyi.ringmasker
 Name: RingMasker
@@ -34930,6 +35131,7 @@ MD5sum: ad6c9f79e943e2a5d9b6c8c63ffc38f3
 Description: Welcome to the RingMasker!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Icon: file:///Library/RingMaskIcon.png
+SHA256: a7ae532c42609dc1a0e632042bd88dd402eb35ecd50f4d5759fd0fbfe33464dd
 
 Package: com.modmyi.robotonumberbattery
 Name: Roboto Number Battery
@@ -34945,6 +35147,7 @@ Size: 110852
 MD5sum: e60d7594ddf017b42498067572dd63e5
 Description: Roboto Number Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 600cbc2b625b44b48ee09f29be6915dca384179324ab2f66dd27e2f19caf5884
 
 Package: com.modmyi.rocketsaucehd
 Name: RocketSauce HD
@@ -34976,6 +35179,7 @@ Size: 53090
 MD5sum: 040d4953553791f9ab1585e370cf04b6
 Description: Rolling Stones 4 Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 05b41f293c362ab04d2d71f70a83e12b1679200e8d7a4ac5212caecb65c4651b
 
 Package: com.modmyi.samsunggalaxybattery
 Name: Samsung Galaxy Battery
@@ -34991,6 +35195,7 @@ Size: 51540
 MD5sum: 4709385848cfa725b552c8059fd3d3ac
 Description: Samsung Galaxy Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: dc9931103e1db01b3b3493d398188243d835f1b2a1a04c1d6929315e0e290c77
 
 Package: com.modmyi.samsunggalaxybatterygold
 Name: Samsung Galaxy Battery Gold
@@ -35006,6 +35211,7 @@ Size: 15550
 MD5sum: afe38bcfef3e68747520cb446d441d29
 Description: Samsung Galaxy Battery Gold
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 6cc03a966b45a4be56dc630fe5d4353575d6cbf23228119a62a51cdb8283f672
 
 Package: com.modmyi.samsunggalaxybatterygreen
 Name: Samsung Galaxy Battery Green
@@ -35021,6 +35227,7 @@ Size: 13398
 MD5sum: b41c533f43b2ea9d348c221b67d0b16e
 Description: Samsung Galaxy Battery Green
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 96e2ca1c9d7cb7b98f328d2773b4fd2fcfb8ab1bb42a960d52b8d412fcf6e500
 
 Package: com.modmyi.saohealthbarforalkaline
 Name: SAO Health Bar for Alkaline
@@ -35036,6 +35243,7 @@ Size: 410268
 MD5sum: 124bc486704ee554b8efc63600f24a69
 Description: SAO Health Bar for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e26ddf7072b7511e298b382a542093046b4f1d074d107c8a96ae8e1a280c5358
 
 Package: com.modmyi.secondbattery
 Name: Second Battery
@@ -35051,6 +35259,7 @@ Size: 28914
 MD5sum: bd4bab3b178b741a8758c13377bdda70
 Description: Two battery themes
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 174a42f487968e8b7ec9fd16de2bde2d9fe4550347a17954a9c56f6725c7d781
 
 Package: com.modmyi.semicircularforalkaline
 Name: SemiCircular for Alkaline
@@ -35066,6 +35275,7 @@ Size: 648258
 MD5sum: 9acffefe7a245d0d61638b654017adef
 Description: Semi Circular theme for alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: cde3eb11fd5a62c519c04e0328340ddec652fd19a289ea051d7bf8ee433d7371
 
 Package: com.modmyi.silentphoto2
 Name: Silent Photo 2
@@ -35081,6 +35291,7 @@ Size: 1080
 MD5sum: 417d68035c4bc8a6100f7f49fb47e8ce
 Description: Removes the annoying camera noises on your iOS 8+
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 6d18feeea400fac57313a925dfb4ab5dce472d7fdd9c0dda441aef06b5071621
 
 Package: com.modmyi.simpelbatt
 Name: Simpel Batt
@@ -35096,6 +35307,7 @@ Size: 19516
 MD5sum: 2966f8634a8a40fa28020a094ca97949
 Description: Simpel Batt
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 41f72d0b4bdaa7f7d50b574c00135ae2a51ef5e232c9aa2b241d3e153a81dbe6
 
 Package: com.modmyi.simplelspack
 Name: SimpleLS Pack
@@ -35110,6 +35322,7 @@ Size: 708890
 MD5sum: e933f20a2cfd071acfff761f81981350
 Description: Two simple HTML Lockscreens.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 6c9f96f330fd917531e4e137be2a1168b2b35a17dddc851bc8f5c379fc884008
 
 Package: com.modmyi.simplicitybattery
 Name: Simplicity Battery
@@ -35126,6 +35339,7 @@ MD5sum: 85ea9ca9de997af8842ef38bada89491
 Description: Simplicity Brings you a simple Battery indicator similar looking to iOS7
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Icon: file:///Library/Alkaline/Simplicity Battery/icon.png
+SHA256: eb6a899c54d90c9d6b8093fd1df79fff3e3d4e239a04888b145c04e6c76053dd
 
 Package: com.modmyi.siri2in1springyanimationbundle
 Name: Siri 2-in-1 Springy Animation Bundle
@@ -35156,6 +35370,7 @@ Size: 738988
 MD5sum: ace739f1258f217a3c310a11507e0931
 Description: Slider Battery Blue
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 6d10cb13dc4a3ddc394f0a6d227d68b759dfe8bd2c5adbae0854d6d9f702d7b1
 
 Package: com.modmyi.smilebattery
 Name: Smile Battery
@@ -35171,6 +35386,7 @@ Size: 267832
 MD5sum: 0fa32a23903205f97f2cf094e8a2ea00
 Description: Smile Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 784508b6dd8866eb92bffdb50ba3400bbd1618915483981c332dbcd0c0a465b1
 
 Package: com.modmyi.smileyandroidbattery
 Name: Smiley Android Battery
@@ -35186,6 +35402,7 @@ Size: 102498
 MD5sum: c1c422c62f76c22219401bcdb427d304
 Description: Smiley Android Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 0a9288f88a3c2fd3844c8c40dcb7fe93166f8e70e027713423e2cb6960671817
 
 Package: com.modmyi.snapchatthemeblue
 Name: Snapchat Theme Blue
@@ -35201,6 +35418,7 @@ Size: 1232306
 MD5sum: dff5460d71ab8ba54a8967f0009a8e59
 Description: Snapchat Theme Blue
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a0515530319608a367d1eca4bd22b546e52fdbd65c000cad8007eb008e6cc931
 
 Package: com.modmyi.solsticealtwifidots
 Name: Solstice alt Wi-Fi dots
@@ -35216,6 +35434,7 @@ Size: 8954
 MD5sum: ea7f6561c131bb3d28d3ea46004453dd
 Description: Alternative Wi-Fi dots
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ce126b60e5dbbbdd9cedfd901bafc14b8ae8ad3013527278be7d9369e8eb6617
 
 Package: com.modmyi.solsticebatteryforalkaline
 Name: Solstice Battery for Alkaline
@@ -35231,6 +35450,7 @@ Size: 52282
 MD5sum: 588fe343809de1f578cca9b6175c2197
 Description: Alkaline battery inspired by the theme Solstice
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: e6bf67b05fadc3546905d03b5a7a33047f93d892b18b4820f34f161113f3918e
 
 Package: com.modmyi.southparkpack
 Name: South Park Pack
@@ -35246,6 +35466,7 @@ Size: 5722
 MD5sum: 1450f2a393dbe66bfea1d8067b905db7
 Description: A South park Zeppelin pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 5ccaf24187db1dae1e3c7ca85ed672df515c12a3a5fc7ea74834b3da85b53e25
 
 Package: com.modmyi.speedbatteryforalkaline
 Name: SpeedBattery for Alkaline
@@ -35261,6 +35482,7 @@ Size: 873976
 MD5sum: f843ddbbe42e7bf98abdda05971eb894
 Description: SpeedBatteryfor alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 1424e454eefbae1ebccf8109d6ffb29a1b8373aa1011d2f4fba99e3889669eae
 
 Package: com.modmyi.speedometerbatteryforalkaline
 Name: Speedometer Battery for Alkaline
@@ -35276,6 +35498,7 @@ Size: 573646
 MD5sum: ee2a8d8a272e81fd25decdf1aea6b39a
 Description: Changed Battery theme.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 5057fe8ead85fbfb1bbb58f0a97e770f677002dca648f6be199474f2a488311a
 
 Package: com.modmyi.spidermanalkalinebattery
 Name: Spider-Man Alkaline Battery
@@ -35291,6 +35514,7 @@ Size: 42778
 MD5sum: c87d461ba7845c3f26962342695a9049
 Description: Spider-Man Alkaline Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: fb84b6c281484035a337d0adcaf4edbba2e8c7550a149c5df13aef808bf0c69c
 
 Package: com.modmyi.splat00nforzeppelin
 Name: Splat00n for Zeppelin
@@ -35306,6 +35530,7 @@ Size: 4516
 MD5sum: fc56167932a376ae6289c4fa043e154b
 Description: Splat00n for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: fca37a6bcb21e0a225a904c0a7dca2aec8dceaa8e2cf781df3b65831cca6d4fd
 
 Package: com.modmyi.squarefade
 Name: SquareFade
@@ -35335,6 +35560,7 @@ Size: 152758
 MD5sum: 8bc5ee8c459bbcb90a23e32a5227adbe
 Description: Ringtones of the Star Trek LCARS Winterboard theme.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f4d4f06d3d0b9dedce7ca385c2eb96f319077f993a1d0c1d0365a13da597b7e2
 
 Package: com.modmyi.statusbarcsbatteryforalkalinetranslated
 Name: Statusbar CS Battery for Alkaline - Translated
@@ -35350,6 +35576,7 @@ Size: 359862
 MD5sum: 0038448d285aaf2486132842f29db1ac
 Description: Statusbar CS Battery for Alkaline - Translated
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: acef68519190e77d9317b315607ede047dfa05bedd8dd7f14bfe0822c3e73416
 
 Package: com.modmyi.stockforopennotifier
 Name: Stock for OpenNotifier
@@ -35365,6 +35592,7 @@ Size: 143046
 MD5sum: 2cf72f0c8880a8aa884b38fe5a627564
 Description: Stock for OpenNotifier
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a4212b3c9b210c3bc6d878fedfeb1c8968cc6e5a21bf58634362bcd17d4e9830
 
 Package: com.modmyi.subarulogosforzeppelin
 Name: Subaru Logos for Zeppelin
@@ -35380,6 +35608,7 @@ Size: 111738
 MD5sum: 9cc611fcd0c2ec34ac959d2796a09404
 Description: Subaru Logo, WRX, 2.5RS and STi logos for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 71485bfc3f16b4adb6f6c66de3c1deaee69f3beab75d4fcfb4c460245c6b0f28
 
 Package: com.modmyi.superherozeppelinpack
 Name: Superhero Zeppelin Pack
@@ -35395,6 +35624,7 @@ Size: 19140
 MD5sum: 14da88f88ea29b3aef442dc39d6ef683
 Description: Superhero logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 82541c8c8c815918de113e920d6db6a5dbb195199c260a4ec7b20e4fb5d54dcc
 
 Package: com.modmyi.supermariosbroszeppelin
 Name: Super Marios Bros Zeppelin
@@ -35410,6 +35640,7 @@ Size: 16262
 MD5sum: f4ceb9537e5dc4592de2812d00501250
 Description: Super Mario Bros Zeppeliln logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f461e99bd3534c037f8783defd01d25803de715b3cbb4d8097e7e17a55e57d4d
 
 Package: com.modmyi.supermarioworldzeppelin
 Name: Super Mario World Zeppelin
@@ -35425,6 +35656,7 @@ Size: 77958
 MD5sum: 727f49ba2a594bf6710414b6039703db
 Description: Set of Super Mario World logos to use with Zeppelin. 
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 2c3fa82b359c2c9569aa1de01d116a4c4a2209e88d90429ffce062ef40fc13f2
 
 Package: com.modmyi.supernaturalzeppelinlogos
 Name: Supernatural Zeppelin Logos
@@ -35440,6 +35672,7 @@ Size: 67440
 MD5sum: f0de1b734790dd3383de9ca77038298c
 Description: 8 Zeppelin icons from the TV Show Supernatural
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9b3a9c0240daf3967e2b52c220c7f8126d5afe6e3cbd9f339077dddf81817494
 
 Package: com.modmyi.syrenanemone
 Name: Syren Anemone
@@ -35456,6 +35689,7 @@ MD5sum: c20cd4cb81508fbb2af28f8ee37d0faf
 Description: Here is my Syren theme all in one neat little Anemone package :)
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 45a8015cfded95fc74f4b8c023290884bbaf05ccd9e7c40e52d79e30bbace45f
 
 Package: com.modmyi.tampabaybucslogoforalkaline
 Name: Tampa Bay Bucs Logo for Alkaline
@@ -35471,6 +35705,7 @@ Size: 572516
 MD5sum: e78a5558ddeb881f224601f850d841d3
 Description: Tampa Bay Bucs Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c5e9b15b33d941426e62700a2924cc30f8a57b86f5a7cc6b340170e727ea335d
 
 Package: com.modmyi.texastechlogoforalkaline
 Name: Texas Tech Logo for Alkaline
@@ -35486,6 +35721,7 @@ Size: 180998
 MD5sum: dc4ba1c62bbe5f9b7c75b5aa28167aa7
 Description: Texas Tech Logo for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b292b2a7e06ffec0f91e965550814ec17462a5b35b74de46b1cc912e6e16cfb5
 
 Package: com.modmyi.thechivelogo
 Name: The Chive Logo
@@ -35501,6 +35737,7 @@ Size: 216840
 MD5sum: 088648f2c299851d82006c1eae535708
 Description: The Chive Logo
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d861a20959d303d51c04b0eeccbb910d9518b029f2ddea541f4009cfe95d8025
 
 Package: com.modmyi.tmobilezeppelinlogos
 Name: T-Mobile Zeppelin Logos
@@ -35516,6 +35753,7 @@ Size: 49582
 MD5sum: bdf1ca3855a78a1c3f5f5017f9eb284a
 Description: Official T-Mobile logos for use with the tweak Zeppelin.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c9e433f07dc3462fafd1b93be15bfe34bfd21dbe1c2b28208b5254df76cba76f
 
 Package: com.modmyi.umbrellacorpspinner
 Name: Umbrella Corp Spinner
@@ -35531,6 +35769,7 @@ Size: 1064388
 MD5sum: 318f22fdd3f38429c7656ffdaca3ad0b
 Description: Spinner theme for use with Winterboard
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a976496b13b94411e49267ebf5aa5f54222756c3a92ca5c0ba7ee83a68696bfb
 
 Package: com.modmyi.unitedstatesbattery
 Name: United States Battery
@@ -35546,6 +35785,7 @@ Size: 134008
 MD5sum: 416a6bc481908149876598ec9376f318
 Description: United States Battery
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c4b6567b76373087f194845afdf2b2e9fe23cfa0dce85b1b4c85239e48a98495
 
 Package: com.modmyi.valvezeppelinpack
 Name: Valve Zeppelin Pack
@@ -35561,6 +35801,7 @@ Size: 23298
 MD5sum: 5a5cf54d5b7f2e47ada2fa4b1ed09519
 Description: This is a Zeppelin Pack with Valve related icons.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: fde784d968a1f9ab47fa70338b9bc021e0d5e6881f1b12f6fd54377559a06e65
 
 Package: com.modmyi.variouszeppelinlogopack2
 Name: Various Zeppelin Logo Pack 2
@@ -35576,6 +35817,7 @@ Size: 26444
 MD5sum: 4ba4a068a654b3c2b8f5d94ed7e5c305
 Description: Various Zeppelin Logo Pack 2
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b70311eb774753c4ca3d6f151c668d453a781166ff5ad3a3f5822aebf65d9d31
 
 Package: com.modmyi.verticalios7battery
 Name: Vertical iOS7 Battery
@@ -35591,6 +35833,7 @@ Size: 12896
 MD5sum: 7c434d7d8dd8dfa3abaa54999c5a476a
 Description: Vertical iOS7 Battery for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f38aebc79ec5e86f44fe906e7ca1f0350a6f1e3b3cca439277be64080b2ed2d8
 
 Package: com.modmyi.vetobattery
 Name: VetoBattery
@@ -35606,6 +35849,7 @@ Size: 118524
 MD5sum: bc869320786db99f47322e7b8072de9b
 Description: Make your Battery Indicator look Variable
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 2439fa68a4a18c4272c2c87815492828d52cd555f35bcbc8d689d58f4e7ff97b
 
 Package: com.modmyi.vinculum
 Name: Vinculum
@@ -35637,6 +35881,7 @@ Size: 100714
 MD5sum: 55424111ed208c6c817d6729aa51544a
 Description: Watch Dogs Zeppelin Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 68fe7735c8b6b725d189736e045e268b334dad9da909d701165ab3bd81ae326d
 
 Package: com.modmyi.weedrespringlogo
 Name: Weed Respring Logo
@@ -35652,6 +35897,7 @@ Size: 130898
 MD5sum: 5d1ee584d1c7c9bd60f2f5235c4c0f8b
 Description: Weed Respring Logo
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ccc7e421c37799f22f184297177cceb52af4e460a6d7624d9a934f9ccf238f70
 
 Package: com.modmyi.whatsapptransparency7
 Name: WhatsApp Transparency7
@@ -35667,6 +35913,7 @@ Size: 102996
 MD5sum: c896692c6f29cbc165fa120b01e43b6d
 Description: Brings transparency to WhatsApp iOS 7
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 55e09d3b106dd5071300605f2ed45fada21e481dad6230fa675ca22b2240388d
 
 Package: com.modmyi.widows81theme
 Name: Windows 8.1 Theme
@@ -35682,6 +35929,7 @@ Size: 603856
 MD5sum: 318273a7b6c3e608b4b3f9a45ed5d349
 Description: Windows 8.1 Theme
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 27caed0c000acc80d2721c1a19a7b5f1bfc9d95f35cd1755d3b1393104a25e64
 
 Package: com.modmyi.windows7icons
 Name: Windows 7 Icons
@@ -35697,6 +35945,7 @@ Size: 88230
 MD5sum: e596fd9fdf87e513fe75d97589522167
 Description: Windows 7 Icons
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b4f06c8cd8a39f36091449c0adbbbf166098e4d9fdd0e9619f1a540b53f398de
 
 Package: com.modmyi.xboxoneps4andmorezeppelinlogopack
 Name: Xbox One PS4 and More Zeppelin Logo Pack
@@ -35712,6 +35961,7 @@ Size: 226698
 MD5sum: b7a9d6d0d16bf481c8860134910d690a
 Description: Ultimate Zeppelin pack for the excited next gen gamer.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 74541900ba550e467bb20988671d16b9e926cbc04ea5de542a5a180a4e7e14e5
 
 Package: com.modmyi.yosemiteloadingwheel
 Name: Yosemite Loading Wheel
@@ -35727,6 +35977,7 @@ Size: 134784
 MD5sum: fc24623a9f150b640544a13e4faab1e1
 Description: Yosemite Loading Wheel
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c9ccaa50b975a32cbe19b996ffb0c08462fac4f763bd67ba65e363e8d715ece8
 
 Package: com.modmyi.youtubezeppelinpack
 Name: Youtube Zeppelin Pack
@@ -35742,6 +35993,7 @@ Size: 72410
 MD5sum: 5312e79862637167881abbb278e47e80
 Description: Youtube Zeppelin Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: f73e1acb278ef62e47d35a13d0c30fe7b3890b95ae9dc680ba5157bd8b9a13f3
 
 Package: com.modmyi.zeldaheartsforalkaline
 Name: Zelda Hearts for Alkaline
@@ -35757,6 +36009,7 @@ Size: 25644
 MD5sum: f690c89ed822212feef30ceca5c36887
 Description: Zelda Hearts for Alkaline
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: b7ab5db8822ab59001d0e39333617cf079fe4ff2bd28b0cc85c8b510543963a5
 
 Package: com.modmyi.zeldazeppelinicons
 Name: Zelda zeppelin icons
@@ -35772,6 +36025,7 @@ Size: 65872
 MD5sum: f441c5f90fce1d273e3572267d176665
 Description: Zelda Zeppelin logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 5ce38ffe9aee21dbc1d0e1ec36549ee5551c1251841953331654dabd2cccbd60
 
 Package: com.modmyi.zenx
 Name: ZenX
@@ -35802,6 +36056,7 @@ Size: 5497382
 MD5sum: 807e80da2728d8677872045856bc05d6
 Description: Zeppelin - All Pokemon Sprites Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 84b87a57aa835a3f699565c8e7bed297420c9d523233e96e61b443b7856ee5b5
 
 Package: com.modmyi.zeppelinbarclayspremierleague
 Name: Zeppelin Barclays premier league
@@ -35817,6 +36072,7 @@ Size: 5209848
 MD5sum: 50de66a3afeb5580d49e2af1f5c8062e
 Description:  A set of all Barclay's Premier league teams for zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d792886687afc5026aeec3e7bfc43c9e9afda42e68fee753656f58768e34b32a
 
 Package: com.modmyi.zeppelinbeerlogos
 Name: Zeppelin Beer logos
@@ -35832,6 +36088,7 @@ Size: 6750392
 MD5sum: 32cbef1508d3e55db7b6a9c118ff27d4
 Description: A set of beer brand logos for zeppelin.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 7c4310bc37a1ab9dee95ce37e3794c6b618265fc4ee9402b804737e6ce4d2e4e
 
 Package: com.modmyi.zeppelincarlogos
 Name: Zeppelin Car logos
@@ -35847,6 +36104,7 @@ Size: 533860
 MD5sum: 9302465b4faf917a3118237196acf940
 Description: Zeppelin car logos for popular brands.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 0f9dfb18eeb3bb7eb291d719e367ca3111eff1388bf5f44e8dee5de8efe0dadb
 
 Package: com.modmyi.zeppelincarrierlogos
 Name: Zeppelin Carrier Logo's
@@ -35862,6 +36120,7 @@ Size: 53208
 MD5sum: 131cb808ed026303f454e1e69ca7f860
 Description: Mixed collection of zeppelin carrier logo's
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 499b7ae07ee9484ffbb674cf0d7d99808fb15fbe082cd850e46d318b6d4ef58c
 
 Package: com.modmyi.zeppelincarrierrequests
 Name: zeppelin carrier requests
@@ -35877,6 +36136,7 @@ Size: 64382
 MD5sum: 96569e42991fa70ef59bc1064c59a5bd
 Description: zeppelin carrier requests
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d0a7241bfb648214aec2269e94ff73ff89d0d7f4709fd557875f7a3d1227d500
 
 Package: com.modmyi.zeppelinclothinglogos
 Name: Zeppelin Clothing logos
@@ -35892,6 +36152,7 @@ Size: 5786756
 MD5sum: 98db458e6d1f6b3dcafb10fd56c5ff65
 Description: this set contains clothing brand logos for Zeppelin
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 3ddbac798f3a28172f7fb51d1374636f2b9ed14c1dc6114c776c4e6a00c979b5
 
 Package: com.modmyi.zeppelincollegefootball
 Name: Zeppelin College Football
@@ -35907,6 +36168,7 @@ Size: 119666
 MD5sum: eef551db4a89dc3bd022c00982e89c93
 Description: A collection of College logo's to replace carrier logo.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 4500c824074254502982668116039dee76afd9b0109a9a5342c26a0339c10c1e
 
 Package: com.modmyi.zeppelinlebanesepack
 Name: Zeppelin Lebanese Pack
@@ -35922,6 +36184,7 @@ Size: 20744
 MD5sum: 2b7aa8c10dca21b5804c9ff20de3c315
 Description: Zeppelin Lebanese Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: d4e8609790fd55ef0944f3e46b81715f4f7a9473c3ae7042536a4f4d268fab9a
 
 Package: com.modmyi.zeppelinlogopack
 Name: ZeppelinLogoPack
@@ -35937,6 +36200,7 @@ Size: 176230
 MD5sum: ccf22c3a4351bc747831f93d93996ed4
 Description: A set of custom logos for zeppelin. All created from scratch.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: da8ec6d5699385d859aad88dd4f1c80bf14b50baab7c6a83a0b812407956c74a
 
 Package: com.modmyi.zeppelinlooneytunes
 Name: Zeppelin Looney Tunes
@@ -35952,6 +36216,7 @@ Size: 85478
 MD5sum: 1bd685f91a8620dcf2591a94bf7a7045
 Description: Package of Looney Tune characters to replace carrier logo
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 53c603b0d11f12430f04463bd2151fa00f346bf30b5e8fb5acb4bb4829def78a
 
 Package: com.modmyi.zeppelinmetallicalogos
 Name: Zeppelin Metallica Logos
@@ -35967,6 +36232,7 @@ Size: 734178
 MD5sum: 0f3eb5dabfcde5a63cf8abf866022fbf
 Description: Metallica Zeppelin logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a593015f0bb954c3a5785439df5a1adc760ffcc36e594f55dc7037d6662ad58a
 
 Package: com.modmyi.zeppelinmlbamericanleague
 Name: Zeppelin MLB American League
@@ -35982,6 +36248,7 @@ Size: 3468952
 MD5sum: 5ea50e02c90a77503903c9870cb24df1
 Description: Here is a set of all the American league baseball teams.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 50e0c5c2078a2b61ddb780728be7e2689e78d9b85fe68fb732e084e130e158ea
 
 Package: com.modmyi.zeppelinmylittleponylogos
 Name: Zeppelin My Little Pony Logos
@@ -35997,6 +36264,7 @@ Size: 1052310
 MD5sum: 9dba5994ce0c1c7cf184c65ee87f24df
 Description: here is a set of my little pony logos
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: c5be396f76cc1957d7e10fa57bc29a680405a269da2a39490b3e00ba7d4aa1d7
 
 Package: com.modmyi.zeppelinpokemonlogos
 Name: Zeppelin Pokemon Logos
@@ -36012,6 +36280,7 @@ Size: 50212
 MD5sum: eef6c8d05f105568b3b0d43af1fe6a73
 Description: here is a set of pokemon Zeppelin logos (Screenshots only show some).
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: dd79f1458b2d0af9294263a607190adac5670ef50ccc9b03915ae50a5e1c1077
 
 Package: com.modmyi.zeppelinpokemonpackage
 Name: Zeppelin Pokemon Package
@@ -36027,6 +36296,7 @@ Size: 28550
 MD5sum: efb29340066b95c4fa048c1f3fc872ff
 Description: Pokemon logos for Zeppelin!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9bd92354c3b91a44f125becb9f172206a990d7c254bcc56b966dde53246b31fe
 
 Package: com.modmyi.zeppelinrockmetalbandlogos
 Name: Zeppelin Rock/Metal Band Logos
@@ -36042,6 +36312,7 @@ Size: 1082886
 MD5sum: 018007276f9607e0bf21902c9971d868
 Description: logos from Old School Rock and Metal Bands
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 6d8a4159e71e4217ee3f9ea8995b34577eb1cbc3e63f70b24461aa99bf7b4a14
 
 Package: com.modmyi.zeppelinrunthejewels
 Name: Zeppelin Run The Jewels
@@ -36072,6 +36343,7 @@ Size: 1726854
 MD5sum: 7e98214014983d5e58ca9ab052d8674a
 Description: Custom Zeppelin icons.... i willl be adding more frequently
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 4acaa4150d3345d11cab96fa89e94b0e5f3c097504f96af7b19d813ab7026537
 
 Package: com.modmyi.zeppelinsuperset
 Name: Zeppelin Super Set
@@ -36087,6 +36359,7 @@ Size: 85142506
 MD5sum: 379c18e98d10a88adcb51301f257764e
 Description: This is the best set of Zeppelin logos ever made currently containing more than 230.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 1dd4f903802bf624f7e35c9483e2f5409a4d2c0f6276d285370587701cdc806a
 
 Package: com.modmyi.zeppelinvarietypack
 Name: Zeppelin Variety Pack
@@ -36102,6 +36375,7 @@ Size: 62046
 MD5sum: d77f63e47c679704d0a657b16053ff61
 Description: Zeppelin Variety Pack
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: a91a6bb6b94400b9bf4405a45ce3838c12b2d81b9ec00832c72d059b05293ec7
 
 Package: com.modmyi.zepplinnbawesternlogos
 Name: Zepplin NBA Western Logos
@@ -36117,6 +36391,7 @@ Size: 3735434
 MD5sum: a11bac1d422711890fd0e6f46c01bcd7
 Description: This is a beautiful set containing all of the westen NBA teams.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 140a04019f9d084ffa60026f97194df8f9e573a5f442bb0ff96605f3960dbc8a
 
 Package: com.pietromessineo.moveit
 Name: MoveIt for Fingal
@@ -36132,6 +36407,7 @@ Size: 3161200
 MD5sum: a206c6fafe9d8f75521c82a4b597d1de
 Description: MoveIt brings awesome animations to your App icons
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 3fef82669a2912a4264280e082e152f044573c1571166d02ee516c3a8176851b
 
 Package: com.pw5a29.actualbattery
 Name: Actual Battery
@@ -36147,6 +36423,7 @@ Size: 16648
 MD5sum: c655e55fd4471e9fddf56f3acdb383a3
 Description: Show actual battery percentage by remaining mah and available capacity.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 5eccd543f9275487613f982228feaef26d5d1955fd035fa252c293f9ec74660b
 
 Package: com.pw5a29.speedyhomey
 Name: Speedy Homey
@@ -36162,6 +36439,7 @@ Size: 7340
 MD5sum: 38cd3428040ccce8ea94ee2117ba6e06
 Description: Speeds up home button response by disabling multiple clicks.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 9e2960d91978d820f3ec68661bde6401be4d4ea54a814d88f04f6a785e2a5bf3
 
 Package: com.rbt.useragentchanger
 Name: User Agent Changer
@@ -36177,6 +36455,7 @@ MD5sum: cc29085d77d7a54902e273d059e136f4
 Description: Change your Browser's User Agent.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, applist
+SHA256: 19772a47fca9829a32376a6f3bab9fb34da713ea4a42c06214977a964f31c4fd
 
 Package: com.skywebproductions.wifi2me
 Name: WiFi2Me
@@ -36192,6 +36471,7 @@ Size: 3345664
 MD5sum: 3e455be7b7a14cb14e6bc4178abd5c13
 Description: Check the security of your wireless network in seconds.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 8ab1fb4d709d1c1eabfc3ae3baa4bc9d840a6019057edb666f6e49f33f29676d
 
 Package: com.vxbakerxv.magiccolor
 Name: MagicColors
@@ -36207,6 +36487,7 @@ Size: 191462
 MD5sum: 87467a72c5a61dd53f3956a6aa288c93
 Description: Color Lockscreen and Springboard.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 8e2bb96e6cafa202cd2a90bcb3fc3f9ae6468cbfbde8eefae267804ec6223de0
 
 Package: com.zmaster.airplanescheduler
 Name: AirplaneScheduler
@@ -36223,6 +36504,7 @@ MD5sum: f4754559991649826d56b25619e41125
 Description: Schedule the activation and deactivation of the airplane mode!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 299c66d8669d37d27312419db91a6af89ac58ef251ad9dbca07dbb8fc0d0e1dd
 
 Package: isklikas.timerforalarm
 Name: TimeForAlarm 2
@@ -36239,6 +36521,7 @@ Size: 43686
 MD5sum: e0169441272c656b176538ddeb3693b3
 Description: TimeForAlarm 2 does what TimeForAlarm should always do!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 013643ace83607d636c879db0dc8524420e09a0439797f867919345ae9b137c0
 
 Package: jetslammed
 Name: Jetslammed
@@ -36254,6 +36537,7 @@ Filename: http://apt.modmyi.com/pool/main/j/jetslammed/jetslammed_1.2_iphoneos-a
 Size: 8500
 MD5sum: bc823301cec914ca48e84c8d3e40bc0d
 Description: Library for modifying jetsam memory limits per process
+SHA256: d6e7e43691f10d465c8c9d003dba68f99cb49c95365c6743365df64738103c09
 
 Package: lithium
 Name: Lithium
@@ -36270,6 +36554,7 @@ Size: 24572
 MD5sum: ee57d4d28b5651b79d63defc07a9c1a5
 Description: Lightweight battery icon themes
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 87a563f7069445f5effad9910b2ed132c8e5c5d9fe235fada8310f3ef1732de0
 
 Package: me.chewitt.chroma
 Name: Chroma
@@ -36286,6 +36571,7 @@ MD5sum: 5dc2d71a94290f173194bb44ea4d72cc
 Description: Simple, lightweight UI customization.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Icon: file:///Library/PreferenceBundles/ChromaPrefs.bundle/icon_large.png
+SHA256: 1f4e700a4d91d65c82b47fe9a8f651dd7fc82a9bda202357bd47e2726fd2e919
 
 Package: me.chewitt.fingal
 Name: Fingal
@@ -36302,6 +36588,7 @@ Size: 64672
 MD5sum: 61ddab0220ac532e1dc0b0eef3861247
 Description: Animated icon theming platform for iOS 8 & 9
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: ba03dd1d025c355723854da4a3cd155eaa38e5555dbfa6228067f2be8fb04258
 
 Package: net.parrotgeek.br.ipad
 Name: BetterRotate for iPad
@@ -36317,6 +36604,7 @@ Size: 44866
 MD5sum: 3c9e263b1d92fe50254089deec25dc0d
 Description: Make the icon grid the same in all orientations on iPads.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 737f2f3293f56b2dac3b4ee7d0d21fa3ee5ef4b03243fd7741c613814a30c1ac
 
 Package: net.r-ch.iconoclasm
 Name: Iconoclasm
@@ -36335,6 +36623,7 @@ Depends: firmware (>= 4.3), preferenceloader, com.chpwn.iconsupport (>> 1.7.7)
 Conflicts: net.r-ch.fcsb, com.macciti.fiveirows, com.touchmania.fiveirows, com.touchmania.fiveirowsnorm
 Depiction: https://cydia.saurik.com/info/net.r-ch.iconoclasm/
 Support: http://cydia.saurik.com/support/net.r-ch.iconoclasm
+SHA256: 25e998f3b8ea94c95b35bfc42a1c391cfe87d539b1d82039264331c87633fc23
 
 Package: ws.hbang.cds
 Name: cds
@@ -36350,6 +36639,7 @@ Size: 1162
 MD5sum: 419344ff2a97f16ca0b294a2b144b183
 Description: Improved cd command
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
+SHA256: 3520a8d7b49976348e664ccde9262205d98f545cd499ad75c72a1dea071bf943
 
 Package: com.codethemed.dragonballzhdtheme9661
 Name: Dragon Ball Z HD Theme
@@ -36365,6 +36655,7 @@ Depiction: https://cydia.saurik.com/info/com.codethemed.dragonballzhdtheme9661/
 Maintainer: ZodTTD <zodttd@zodttd.com>
 Author: Bendude24 <support@codethemed.com>
 Depends: winterboard, com.codethemed.iconbundles
+SHA256: a8559ef08ad849ebf954f4b1450f9f992a352d779bf90fc162a9e2f87c817a13
 
 Package: com.codethemed.glaskartios7darttheme6563
 Name: Glaskart iOS7 (dART) Theme
@@ -36380,6 +36671,7 @@ Depiction: https://cydia.saurik.com/info/com.codethemed.glaskartios7darttheme656
 Maintainer: ZodTTD <zodttd@zodttd.com>
 Author: dART <support@codethemed.com>
 Depends: winterboard, com.codethemed.iconbundles
+SHA256: 9707e4a6401027effe52d6193d3826a54adccc1328f68c6f4fa123389ca03bd5
 
 Package: com.codethemed.grandtheftautovicecity4985
 Name: Grand Theft Auto: Vice City
@@ -36395,6 +36687,7 @@ Depiction: https://cydia.saurik.com/info/com.codethemed.grandtheftautovicecity49
 Maintainer: ZodTTD <zodttd@zodttd.com>
 Author: Rider <itouchuserjle@gmail.com>
 Depends: winterboard
+SHA256: 0d663b7be6404b62f88616a33af63955e464a6850494aef1873a3544094d9332
 
 Package: com.codethemed.hyperdimensionneptunia6473
 Name: HyperDimension Neptunia
@@ -36410,6 +36703,7 @@ Depiction: https://cydia.saurik.com/info/com.codethemed.hyperdimensionneptunia64
 Maintainer: ZodTTD <zodttd@zodttd.com>
 Author: Groman216
 Depends: winterboard
+SHA256: a0976b974472de5d5f9e689099fd568b214ed1b662f41bc8483ec48dc19b38f1
 
 Package: com.codethemed.musetheme4253
 Name: Muse Theme
@@ -36425,6 +36719,7 @@ Depiction: https://cydia.saurik.com/info/com.codethemed.musetheme4253/
 Maintainer: ZodTTD <zodttd@zodttd.com>
 Author: RyanT
 Depends: winterboard
+SHA256: eeddde81e13f5b023f340c06532c721bba392264032127dc404f86821c24f627
 
 Package: com.codethemed.pokemonfireredtheme8280
 Name: Pokemon Fire Red Theme
@@ -39107,6 +39402,7 @@ Description: Battery to use with Alkaline for theme 69 Blue.
 Maintainer: iC <apt@macciti.com>
 Author: JunesiPhone/gumuskurt65 <street.visions@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/69blueios7alkaline/index.php
+SHA256: 4e80f195da3b30262ef10b4add52f5202e7439c7922a0ee12384d5e036344651
 
 Package: com.macciti.6god
 Name: 6God
@@ -40085,6 +40381,7 @@ Description: Alkaline theme for Carla iOS 7.
 Maintainer: iC <apt@macciti.com>
 Author: Xus Badia <contact@winfisdesign.com>
 Depiction: https://cydia.saurik.com/macciti/pages/alkalineforcarlaios7/index.php
+SHA256: 9e3472871e9bb1b35daf1aa8c444360897f38ac6e13cca02f4d22d482a046c90
 
 Package: com.macciti.allegroessenzaandorrihalloweenpack
 Name: Allegro Essenza Andorri Halloween Pack
@@ -41148,6 +41445,7 @@ Description: Yosemite icons ported in a better way Aosemite is a OSX Yosemite po
 Maintainer: iC <apt@macciti.com>
 Author: Costo Tech <costotech@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/aosemite/index.php
+SHA256: 39a44da37f08438bd48c0cafed6981cb484718bb44f9ecf32d1d4ee3091979be
 
 Package: com.macciti.apexgoldglyphs
 Name: Apex Gold Glyphs
@@ -41178,6 +41476,7 @@ Description: Apple logo history zeppelin addons.
 Maintainer: iC <apt@macciti.com>
 Author: kpap95 <nakkarannuk@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/applelogohistoryforzeppelin/index.php
+SHA256: 0fe59046bcc36c25d13880b34a2fc486ff6ac595ddde87dd50448943d3e2cf89
 
 Package: com.macciti.ar0ma9
 Name: Ar0ma9
@@ -45945,6 +46244,7 @@ Description: This package includes the iOS 6 WallPapers.
 Maintainer: iC <apt@macciti.com>
 Author: John Collins <johnnycyrus10@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/classicwallpapers/index.php
+SHA256: dc932287e7cd29a28b9fbe554f53556862c7561f7071bf4439b7b43c21e945b7
 
 Package: com.macciti.classpatch
 Name: Class Patch
@@ -47800,6 +48100,7 @@ Description: This is an nice alkaline theme for your battery to use with Era on 
 Maintainer: iC <apt@macciti.com>
 Author: cocco26 <coccolino_26@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/eraalkalinebatteryios7/index.php
+SHA256: 1e42df6f05eb0db4fec17f53662eb3211c2fd67c261afceeaa665f06cb807857
 
 Package: com.macciti.eraanemfoldersicons
 Name: Era ANEMFoldersIcons
@@ -48151,6 +48452,7 @@ Maintainer: iC <apt@macciti.com>
 Author: Steve Garwood <stevegarwood@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/flaticonsios7/index.php
 tag: cydia::commercial
+SHA256: 5a7848b60938648bd7b20d7482797748756ca8ef83ddd109368e617d8d17341a
 
 Package: com.macciti.flatishanemonedock
 Name: Flatish Anemone Dock
@@ -49806,6 +50108,7 @@ Description: Change That Boring Loading Wheel To A Google Loading Indicator Inst
 Maintainer: iC <apt@macciti.com>
 Author: JKTech <jesseknodat@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/googleloadingindicator/index.php
+SHA256: a539a9a0dd52b6d015ef47fa05d9bb30ef69da6534d019cc885c4ce44e1965c0
 
 Package: com.macciti.gran1ght8x
 Name: GraN1gHt 8X
@@ -53331,6 +53634,7 @@ Description: Motivational quotes widget.
 Maintainer: iC <apt@macciti.com>
 Author: tdmd99 <tdmd99@outlook.com>
 Depiction: https://cydia.saurik.com/macciti/pages/motivationalquotesiwidget/index.php
+SHA256: 07231097aae94f60e3f6b20c9d16133bd300ff550382d5b6b6f931ebe2b42c90
 
 Package: com.macciti.mountainlglockglyph
 Name: Mountain LG LockGlyph
@@ -55072,6 +55376,7 @@ Description: Not for animate logos work with winterboard.
 Maintainer: iC <apt@macciti.com>
 Author: Antonio <antoniocaldieri@icloud.com>
 Depiction: https://cydia.saurik.com/macciti/pages/respringlogosios7/index.php
+SHA256: 351ec3dcca7aa0db656ed05d2c1af41b21812237e9a7ea26f258ea13a32a9664
 
 Package: com.macciti.retrofitios10
 Name: Retrofit iOS10
@@ -55226,6 +55531,7 @@ Description: 270 handcrafted icons designed to feel as if they were made stock b
 Maintainer: iC <apt@macciti.com>
 Author: Zach Nussbaumer <zhnussbaumer@mail.lipscomb.edu>
 Depiction: https://cydia.saurik.com/macciti/pages/roundifyforiphone/index.php
+SHA256: 602f82db44536a025b95f25aac14e3f4368795c2ec7eb7d990db1a93b2267e60
 
 Package: com.macciti.roundpixel
 Name: Round Pixel
@@ -55539,6 +55845,7 @@ Description: Satcon7 Charge - A better looking status bar battery icon to work a
 Maintainer: iC <apt@macciti.com>
 Author: Steven Portas <stevenportas@me.com>
 Depiction: https://cydia.saurik.com/macciti/pages/satcon7charge/index.php
+SHA256: 8981f8dd41688a5bb5e801d6d9b7a20eda55ed4eb405400cccbcd37e28f44db2
 
 Package: com.macciti.sausage
 Name: Sausage
@@ -58193,6 +58500,7 @@ Depiction: https://cydia.saurik.com/macciti/pages/volumeboostx3/index.php
 Author: Matthew Miller <matthewrmmiller1111@gmail.com>
 Maintainer: iC <apt@macciti.mobi>
 Version: 1.5
+SHA256: d83a1aca53509f32535954730df148f753f2977131b5e42928f305453b184520
 
 Package: com.macciti.vue8
 Name: Vue8
@@ -58578,6 +58886,7 @@ Maintainer: iC <apt@macciti.com>
 Author: Antonio <iantonio@live.it>
 Depiction: https://cydia.saurik.com/macciti/pages/zeppelin8packios7/index.php
 tag: cydia::commercial
+SHA256: 9d9e0623befa4821e541d98630ef737a6683811e41671d449f6e062c38da68c1
 
 Package: com.macciti.zirconium
 Name: Zirconium
@@ -58805,6 +59114,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Depiction: https://cydia.saurik.com/info/com.zodttd.repoman.repomanbyzodttd.brunomarsjustthewayyouareringtone.rm-1759-7c337e9d/
 Maintainer: ZodTTD <repoman@zodttd.com>
+SHA256: ec19dad21bdca7eaac0d3d9ed7efbc0918bb1539744d8a4ba80ea7f42910b64e
 
 Name: Bruno Mars -The Lazy Song Ringtone
 Priority: standard
@@ -58819,6 +59129,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Depiction: https://cydia.saurik.com/info/com.zodttd.repoman.repomanbyzodttd.brunomarsthelazysongringtone.rm-1902-b5079e39/
 Maintainer: ZodTTD <repoman@zodttd.com>
+SHA256: 88eb7e35379987dede969b2165e19cb63c485d9dec94806ef2360769962789c4
 
 Package: mobi.macciti.jaku
 Name: Jaku
@@ -58849,4 +59160,5 @@ Maintainer: iC <apt@macciti.mobi>
 Author: jima6636 <jimandrews6636@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/nflzeppelin/index.php
 Version: 1.3
+SHA256: 9f277af5fc33758ea2c3b106057a1670eb1fccf23fc7bf3b982a059c2277fbeb
 
