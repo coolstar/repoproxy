@@ -214,6 +214,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneplusplus9Dp
 dev: r00tdvd
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phoneplusplus9Dp
+SHA256: 45c4c874ef77a4731eb2321937b04bc7ecab1b8843928475117bb5eb0933d392
 
 Package: be.quiet.phasemoon
 Version: 0.1.5
@@ -234,6 +235,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=moonphaseDp
 dev: rainwolf
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=moonphaseDp
+SHA256: 34940adb33d9f60d5c77362ea09bebfe9227447f7d01282a15cfc6dc434a7287
 
 Package: be.submanifold.weatherlock
 Version: 0.1.13
@@ -254,6 +256,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weatherlockDp
 dev: rainwolf
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weatherlockDp
+SHA256: abb0427bcf748a906321328657693eb8b6c2846f0bbe633f0c54d2f40edceca3
 
 Package: bigbosshackertools
 Version: 1.3.2-2
@@ -448,6 +451,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sinatraDp
 dev: candoizo
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sinatraDp
+SHA256: 2eca0714ac52a38e0c0790a98b16ffa21cfa23b55ef7eea092674d4ebf59c16c
 
 Package: ca.kirara.larimar
 Version: 1.0.0-1
@@ -530,6 +534,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=castroDp
 dev: candoizo
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=castroDp
+SHA256: acc4369e077ec8ac299ce18f6230ff116eafc658973cdc467a9d23f0f2b54edf
 
 Package: ca.ndoizo.fuzzy
 Version: 0.0.1
@@ -569,6 +574,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=membraneDp
 dev: candoizo
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=membraneDp
+SHA256: 0ee6057d775b7c39cf4bd00a54722edb6a7d1845704ae17dfe1280f7ab2bcb6b
 
 Package: ca.ndoizo.rotatevideos
 Version: 0.0.1-1
@@ -727,6 +733,7 @@ Tag: cydia::commercial, purpose::extension, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=acamaruiDp
 dev: acamar
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=acamaruiDp
+SHA256: dd12ba4cc2f69171a9193e2c5ae594b28bebbc2d1986ac2623fe8144627e8ae2
 
 Package: cn.tinyapps.antitracker
 Version: 1.4
@@ -1243,6 +1250,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nuntiusDp
 dev: aditkamath
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nuntiusDp
+SHA256: db06e7121f99f1d0d31c0ce7f4885fadcecffe6c1c19df68be5a865ead48b3a8
 
 Package: com.aditkamath.volt
 Version: 1.3
@@ -1263,6 +1271,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=voltDp
 dev: aditkamath
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=voltDp
+SHA256: dda2c9c5c0fd1e9f2af437190fdcdb564937909f86412428872112e4f83b39f4
 
 Package: com.aehmlo.badger
 Version: 1.1-2
@@ -1841,6 +1850,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=atmosDp
 dev: antique
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=atmosDp
+SHA256: 02bfbad713fbc2cec4e0052d5d0c257f6ce86a6ad2700d0d5be9a0b47c785925
 
 Package: com.app1efanboy.controlmycenter
 Version: 2.6-53
@@ -2138,6 +2148,7 @@ Tag: cydia::commercial, purpose::extension
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appdye2Dp
 dev: baileyseymour
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appdye2Dp
+SHA256: f2799bc88010225c0192cacfa948f5d22e56c23d5c0e769444bb00c23d4548f5
 
 Package: com.bandarhl.igghost
 Version: 3.0-1
@@ -2569,6 +2580,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=convosDp
 dev: brycedev
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=convosDp
+SHA256: 6b0a95e9c6f43f5d7051f48f73c905d8b3c3cb597edafaf1c0532c00cfde8151
 
 Package: com.brycepauken.clearthemes
 Version: 1.0.0-12
@@ -2948,6 +2960,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weatherbannersDp
 dev: ca13ra1
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weatherbannersDp
+SHA256: 7129f8e2f9f89e913bb01aa98d64e4b44dabaced2ef9314c3b0332a66fd62f9b
 
 Package: com.callumryan.smsstats2
 Version: 1.0.3-2
@@ -3575,6 +3588,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qrcforwhatsappDp
 dev: clezz
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=qrcforwhatsappDp
+SHA256: 0fa84bfd699fe9bfa3361068188ffe1ccdb9707ab7f131315fcb95c8ec4d1983
 
 Package: com.clezz.touchr
 Version: 1.0.3
@@ -3713,6 +3727,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spodinhancerDp
 dev: codeymoore
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spodinhancerDp
+SHA256: 9f9cf0a17a755245b74a3e5ebb177fdee32635a158a36fe450f566d8d340b373
 
 Package: com.cokepokes.phantom
 Version: 5.3.8-6
@@ -6956,6 +6971,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10,
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coloredvk2Dp
 dev: daniilpashin
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coloredvk2Dp
+SHA256: ca79af6d79418dee6d9f4363695f6d364037e0245a45bd8866858e42f76a0e87
 
 Package: com.darioshi.fixmyeyes
 Version: 1.0.0
@@ -7421,6 +7437,7 @@ Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
 dev: dirtybeans
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=csources2Dp
+SHA256: 1f63aede85089cdc05c3792cadff3891fcbfa5da57a6b4751988da9dc785c036
 
 Package: com.donbytyqi.highdate
 Version: 0.0.1
@@ -7839,6 +7856,7 @@ Tag: cydia::commercial, cydia::obsolete, purpose::uikit, ios7support::1, ios8sup
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wififofumproDp
 dev: dynamicallyloaded
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wififofumproDp
+SHA256: 4ad1691e57147e2b28bbf45dfe5d82c04cc8b87a96dfb8f6718ac7b1e7645d96
 
 Package: com.eason.carplay
 Version: 1.1-1
@@ -8099,6 +8117,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10,
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waautoreplyenterpriseDp
 dev: bandyqiu
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waautoreplyenterpriseDp
+SHA256: 406659d45e5270c377a0ca2959461a087dff6c25e5ec7daacc26ab357846ce50
 
 Package: com.ethan.wastatussave
 Version: 1.2
@@ -8118,6 +8137,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10,
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wastatussaveDp
 dev: bandyqiu
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wastatussaveDp
+SHA256: 20322d9f8d9b5b04f8249fbdf78ba7e15c617fa9f64678a3730babbd31d041f5
 
 Package: com.eukoalyptus.minimalisticui
 Version: 1.2
@@ -8256,6 +8276,7 @@ Tag: cydia::commercial, purpose::uikit, ios7support::1, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gbaemuDp
 dev: explusalpha
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gbaemuDp
+SHA256: ccd80c9dacd05eb7cfa72a87e33b4dc7dd5dc92a8e00ecfbce73d0df1e69ff9c
 
 Package: com.explusalpha.gbcemu
 Version: 1.5.29
@@ -8276,6 +8297,7 @@ Tag: cydia::commercial, purpose::uikit, ios7support::1, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gbcemuData
 dev: explusalpha
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gbcemuData
+SHA256: e0a082fbe3929c5446d8e9a57d0eb982a3c1627dbede71bf0b21782dfd66f5b4
 
 Package: com.explusalpha.mdemu
 Version: 1.5.29
@@ -8296,6 +8318,7 @@ Tag: cydia::commercial, purpose::uikit, ios7support::1, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mdemuData
 dev: explusalpha
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mdemuData
+SHA256: 85e960a1563112d26065e41f1d8cc77bc94421da6a26bc0970fe83cfb0d397d2
 
 Package: com.explusalpha.nesemu
 Version: 1.5.29
@@ -8316,6 +8339,7 @@ Tag: cydia::commercial, purpose::uikit, ios7support::1, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nesemuData
 dev: explusalpha
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nesemuData
+SHA256: b0bf5bd89d6e0af3f5711429cfe18cf235ca3e59ef0c36988adb28dac25a1192
 
 Package: com.explusalpha.snes9xexplus
 Version: 1.5.29
@@ -8377,6 +8401,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onlinenotifyDp
 dev: f0u4d
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onlinenotifyDp
+SHA256: 6f9df208c09d6a2c470150d085b61914e5580a35a3cd03572461fcdf72579b9a
 
 Package: com.f0u4d.stalky
 Version: 3.1.13
@@ -8769,6 +8794,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dejavuDp
 dev: frozenpenguin
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dejavuDp
+SHA256: d74b584ac694688762ec806a078ada1011195f861d3bbeea00084abb50aaae0a
 
 Package: com.fpt.photomanager
 Version: 1.3.3
@@ -8789,6 +8815,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10,
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photomanagerDp
 dev: frozenpenguin
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photomanagerDp
+SHA256: 5e18c44265f11d57f6919c48edcbd6b36fc846f57e2436b6235bd3277eccfdd4
 
 Package: com.fpt.predictionshortcuts
 Version: 1.6.1
@@ -8884,6 +8911,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=surpriseselfieDp
 dev: frozenpenguin
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=surpriseselfieDp
+SHA256: 4823a65c8325675d578c1f1764969fe8324eb11ce0488bc1980800324a386fd1
 
 Package: com.fpt.thumbtack
 Version: 1.0.0
@@ -9019,6 +9047,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fyahackfbDp
 dev: freeyourapple
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fyahackfbDp
+SHA256: c7d65fcab5156ceffd7fbda2a3e0c1a110fe0c6716e8ce60b4909a398f42794b
 
 Package: com.freeyourapple.fyahackinstagram
 Version: 1.0
@@ -9059,6 +9088,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fyawahackproDp
 dev: freeyourapple
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fyawahackproDp
+SHA256: 3b2276b07e0c05eb5515dbad6fc9a5de8fd7a1b67ec68f8676992db8da0871eb
 
 Package: com.freeyourapple.fyawhatsapphack
 Version: 1.4
@@ -9120,6 +9150,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=modernDp
 dev: fromderik
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=modernDp
+SHA256: 9d0b193116baea043493365e2d9133bb6bdb4792ba79e0e57f8418dac9483153
 
 Package: com.fromderik.transparnc
 Version: 1.0
@@ -9295,6 +9326,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=3dcolorchanger10Dp
 dev: gilshahar7
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=3dcolorchanger10Dp
+SHA256: ca22559f64cc662443fe13d285afc5096fef50798d5894d85a11be04fa46566f
 
 Package: com.gilshahar7.avlock
 Version: 1.0.2
@@ -9604,6 +9636,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbanners2Dp
 dev: goldmandavid0
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbanners2Dp
+SHA256: eed2ad2eb88e1e3e70502f82c418d4c7f5610240abe52aa0d0226e5126488f7c
 
 Package: com.golddavid.colorflow3
 Version: 1.0.5
@@ -9625,6 +9658,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorflow3Dp
 dev: goldmandavid0
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorflow3Dp
+SHA256: e61834bdd55cc632f875bfd815a9171920fd0348052d5bf2af2c52aca1199c96
 
 Package: com.golddavid.dontstoptheparty
 Version: 0.0.2
@@ -9645,6 +9679,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dontstopthepartyDp
 dev: dontstoptheparty
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dontstopthepartyDp
+SHA256: 8fd72338571fc80ae1cba6bb23aaeb5045c0c75a2ef0dd57ea79b9ec8802d32f
 
 Package: com.golddavid.dontstoptheparty.lite
 Version: 0.0.1
@@ -9706,6 +9741,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=zw1tDp
 dev: good4some1
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=zw1tDp
+SHA256: 5d55b5bc6f9ee22f029338e7531ecdcdf1335ec9fdfe600fc6afb7b72adc08c4
 
 Package: com.greeny.notracking
 Version: 1.1.2-2
@@ -10104,6 +10140,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nclink10Dp
 dev: hidan
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nclink10Dp
+SHA256: 13b8bdc549d711b8ed3f9a6cf4e8ea96df8ab34830be6ff43c23380d967ce693
 
 Package: com.hidan.openinmyemailclientplz
 Version: 1.1.1
@@ -10163,6 +10200,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weatherstatusbar10Dp
 dev: hidan
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=weatherstatusbar10Dp
+SHA256: 3df92af4e7b6f1aa1282ee827fc2d7793fa5c07b6901c4023c9da243e96025a5
 
 Package: com.hiroshit.invisiblefolders
 Version: 1.4-1
@@ -10324,6 +10362,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phonecallerDp
 dev: i0sa
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phonecallerDp
+SHA256: 9423379bf403b5673434329efca1f7c3b7d07cec73ce6979455ccb67b2ca48bf
 
 Package: com.i0stweak3r.autorotate
 Version: 1.0.2-2
@@ -10565,6 +10604,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alternatecontrols2Dp
 dev: ianb821
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alternatecontrols2Dp
+SHA256: 0694d88126edef3251fdcd24e2a51aef12b38250fdd6a55fbe29387e2c83c376
 
 Package: com.ianb821.guestmode2
 Version: 1.0.1
@@ -10586,6 +10626,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=guestmode2Dp
 dev: ianb821
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=guestmode2Dp
+SHA256: f58f53d44cc0c3d1e3750703f5a1d5443145c123c2694739c83810dcb906e906
 
 Package: com.iarrays.autosilent
 Version: 1.0
@@ -11240,6 +11281,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callplusDp
 dev: idevicelover
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callplusDp
+SHA256: c8272085954ceed4707fce471fc42f633845eb8a37346331545cedcaf7d0017d
 
 Package: com.idevicelover.confirm2proceed
 Version: 4.0
@@ -11260,6 +11302,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirm2proceedDp
 dev: idevicelover
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirm2proceedDp
+SHA256: 8add6caa353e8f31cc81bba64b39809de826349cb19dffcb296f9427b2881d3a
 
 Package: com.idevicelover.confirm2proceed2
 Version: 1.2
@@ -11322,6 +11365,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=socialdownloaderDp
 dev: idevicelover
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=socialdownloaderDp
+SHA256: b182292202cdaed8f7d2dfed973a5336398bd2691370bb4d1928e05b3c3145c5
 
 Package: com.idevicelover.socializer
 Version: 1.0-133
@@ -11628,6 +11672,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stylopowerdownDp
 dev: ikilledappl3
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stylopowerdownDp
+SHA256: 81c2dc08a7610fc9c5c7785ac07576c5090f2188f14b1dbb256ce4b24bbea7d6
 
 Package: com.ikilledappl3.unroundmymusicapp
 Version: 1.0-1
@@ -12077,6 +12122,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datedDp
 dev: insanj
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datedDp
+SHA256: ee12936cb145a742168dfb0da6cec68e7538701cbec46518801b52837661a9f3
 
 Package: com.insanj.hidehometime
 Version: 1.0-1
@@ -12836,6 +12882,7 @@ Tag: cydia::commercial, purpose::extension
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=manualcorrectproData
 dev: aerialx
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=manualcorrectproData
+SHA256: df07ea032ce31c5647ec11012ae73259fdfd3b7ae076927c74b80cc66c0f3214
 
 Package: com.jayja1lbreak.powerswipe
 Version: 1.0-2
@@ -13177,6 +13224,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=assistiveplusDp
 dev: jontelang
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=assistiveplusDp
+SHA256: 67b98f8fa8605b112bfcdf6e35ec599fb35ffefa681cd7252098aa7aee691663
 
 Package: com.jontelang.instalauncher
 Version: 1.6.3
@@ -13197,6 +13245,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instalauncherDp
 dev: jontelang
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=instalauncherDp
+SHA256: 3e65558e4dfd4898bae6eb7c5a041354eec3c8c2540b33de45a4b65989baa164
 
 Package: com.jontelang.screenlocker
 Version: 1.2-1
@@ -13238,6 +13287,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapper2Dp
 dev: jontelang
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapper2Dp
+SHA256: f4fe6ea60e2dadaf89de89c5c300ad1917cc71d02a776586d0e9a9b171736a23
 
 Package: com.joshdoctors.bannerbuddy
 Version: 0.0.1-27
@@ -13315,6 +13365,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flixenhancerDp
 dev: joshuaseltzer
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flixenhancerDp
+SHA256: 01313f4cd66f72156efce57bfbeacf71377939a054849c040c32d9b0207cc639
 
 Package: com.justinpet26.quickvolumehudplus
 Version: 2.2-3
@@ -13633,6 +13684,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios8, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=microplayerDp
 dev: indiedevkb
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=microplayerDp
+SHA256: 057bdcb6d2d41cdc02c513cac006d0096c5c9d929d5307eba194552755726428
 
 Package: com.kevll.dingtalkhelper
 Version: 1.0.0-1
@@ -14301,6 +14353,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=touchbarDp
 dev: laughingquoll
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=touchbarDp
+SHA256: 086c99267a24b1d6f612638a82193324c277dc69810558e53c98d1d4969bf134
 
 Package: com.laughingquoll.videoplayerxi
 Version: 1.0-2
@@ -14917,6 +14970,7 @@ Tag: cydia::commercial, purpose::theme, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aqueousthemeDp
 dev: creasigner
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aqueousthemeDp
+SHA256: 1ebf7a1901061027c6d8a133b9805cd49372302a5bfcd6db434bfb0af4c7a5ad
 
 Package: com.macciti.betterglyphs
 Version: 1.7
@@ -14976,6 +15030,7 @@ Tag: cydia::commercial, purpose::theme, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hermosathemeDp
 dev: antoniochavez17
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hermosathemeDp
+SHA256: acc03b9bcf661ef1c92c6071e8ce0ff36bf43db182d84ddff1cf9ba21f01f4cd
 
 Package: com.macciti.malaysianmobilenetworkforzeppelin
 Version: 1.2
@@ -15010,6 +15065,7 @@ Tag: cydia::commercial, purpose::theme, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rupithemeDp
 dev: aviorrok
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rupithemeDp
+SHA256: 56f91b829cd258ce6b9a7171b98ca07a8a9bf83d1db50ccd38e455a5ac631f84
 
 Package: com.macciti.sh1nyanemone
 Version: 1.0
@@ -15110,6 +15166,7 @@ Tag: cydia::commercial, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stencilmonothemeDp
 dev: jammytea2
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stencilmonothemeDp
+SHA256: ab6b4a55977214b51e8efc6951e4e5cab97873ad4ed44a9105d6926fb593930d
 
 Package: com.macciti.stenciltheme
 Version: 1.8
@@ -15130,6 +15187,7 @@ Tag: cydia::commercial, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stencilthemeDp
 dev: jammytea2
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stencilthemeDp
+SHA256: fd4e5b0f134c3e6eb3979641993c35ff08a9e41015ef2e9aa16663582cd46e3a
 
 Package: com.magwhiz.glacier
 Version: 0.9
@@ -15309,6 +15367,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=heraDp
 dev: maximehip
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=heraDp
+SHA256: 43f7341bea7d5a263c5258067351da4861d250de1252a59d48f6fd704096ce16
 
 Package: com.maximehip.huddyx
 Version: 1.2
@@ -15511,6 +15570,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smartvolumecontrolDp
 dev: midkin
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smartvolumecontrolDp
+SHA256: 7f37f46873f7457374eb0159b9b4abc5626cf820ff70ec5bebd6565d9542beff
 
 Package: com.midkin.wastatusvolume
 Version: 1.0
@@ -15532,6 +15592,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wastatusvolumeDp
 dev: midkin
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wastatusvolumeDp
+SHA256: ca5095e6c7c6493e1d5f67cb8a26051ed6a72683486f634edd48a383e21bd441
 
 Package: com.minahoku.stealthfolder
 Version: 0.0.1-1
@@ -15781,6 +15842,7 @@ Tag: purpose::extension, ios7support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterwebpickermenuDp
 dev: mootjeuh
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterwebpickermenuDp
+SHA256: b4576b683bd93382fefd9b80d611ce8c963610b9926d38aa2c67683f4d5a65bf
 
 Package: com.msmith.charge
 Version: 1.4.3-4
@@ -15802,6 +15864,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargeDp
 dev: msmithx
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chargeDp
+SHA256: f5c9047feeffe14681a9ade2a8b7c36a1d0b63c36d912ec103c4c5b0577dcb7a
 
 Package: com.mtac.cleanmusiccc
 Version: 1.0.3
@@ -15883,6 +15946,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vesperaDp
 dev: muris
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vesperaDp
+SHA256: 26f9f458007e89ba861d89d730a7c60dc03ca33d80ceb0254084aa8a76aba852
 
 Package: com.mvincentm.lockconversations
 Version: 1.0
@@ -16515,6 +16579,7 @@ Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fortuneDp
 dev: nin9tyfour
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=fortuneDp
+SHA256: 2d2beefa33c5a5ba94be57ba5a93a338da2c470334fdbddbc17bebb70635314a
 
 Package: com.nin9tyfour.nightmode9
 Version: 3.2.1
@@ -16536,6 +16601,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nightmode9Dp
 dev: nin9tyfour
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nightmode9Dp
+SHA256: b20dc7fd622b4ffe72e670abe08ab68f4341cd51e868e5d16d608f8652ea0c83
 
 Package: com.nin9tyfour.nobuttonshapeunderline
 Version: 1.0-1
@@ -16576,6 +16642,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=profluenceDp
 dev: nin9tyfour
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=profluenceDp
+SHA256: 7f206e9cad9295d96823373d2a2515ccc60bd59e5e39961f7bbfe1e66abe3517
 
 Package: com.nnfyrbsnss.applocker
 Version: 2.5-1
@@ -16596,6 +16663,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applockerDp
 dev: orikad
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applockerDp
+SHA256: b7bef64c5dddf16783514407693cfc8bb6098a5a091c5a97cd99f738e5bf584b
 
 Package: com.noeliel.statuspeek2
 Version: 2.0b
@@ -16617,6 +16685,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statuspeek2Dp
 dev: noeliel
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statuspeek2Dp
+SHA256: 0b472472fd040f3fd3c6a3f834814b00f2c5058d7ccc2f7099cfa5bc804d7304
 
 Package: com.noisyflake.nolspowerdown
 Version: 1.0.0
@@ -16678,6 +16747,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=edgifyDp
 dev: fl00d
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=edgifyDp
+SHA256: e4affa4dba35cc159d06b16dc05c36010bc404b0c5e5faee2d8c289feb6a1091
 
 Package: com.nosskirneh.cdc
 Version: 1.0
@@ -17100,6 +17170,7 @@ Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audicyDp
 dev: ouraigua
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audicyDp
+SHA256: e9d71af23727988aed53458ebc7c6c114ec6566ae258efdab09d65693e578563
 
 Package: com.ouraigua.chromedownloaderplus
 Version: 4.3.4
@@ -17122,6 +17193,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromedownloaderplusDp
 dev: ouraigua
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chromedownloaderplusDp
+SHA256: 05afed991361cfb0a833c33047a22ed96d4cf428abdf1774bbcbb3abade6df9b
 
 Package: com.ouraigua.jodebox
 Version: 3.0.7
@@ -17164,6 +17236,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
 dev: ouraigua
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safaridownloaderplusDp
+SHA256: 6fd668c9bd46fdf8e33902dacd37e9b264cb8920d60be762175d3f0d1eef1536
 
 Package: com.pa1nproductions.autopause11
 Version: 1.0
@@ -17592,6 +17665,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aerialDp
 dev: surenix
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aerialDp
+SHA256: 99ef04e2c48c65212a3def9d88f52b7c028509006d958448234f150c7c923453
 
 Package: com.posdorfer.noliveclock
 Version: 0.0.2
@@ -17649,6 +17723,7 @@ Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pkgbackupDp
 dev: jibril
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=pkgbackupDp
+SHA256: ad51a771edc858e22635588943612fe2f6c45be625821b0c562e8a5e8875e627
 
 Package: com.pxcex.bannercopied
 Version: 0.0.2
@@ -17937,6 +18012,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=zealDp
 dev: rabihmteyrek
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=zealDp
+SHA256: 74b17374aa107bde525f01aa33d44ffb800dc49ca0b4271e34291b3ace126167
 
 Package: com.rain.colorstatusbar
 Version: 0.0.1-3
@@ -18433,6 +18509,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=airplaneenhancerplusDp
 dev: rjtweaks
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=airplaneenhancerplusDp
+SHA256: cad41ddfdb953e81cc76b1047e095e96bea8e1c0f31bdfa09036654eb0055f16
 
 Package: com.rkoktarianto.nostorebutton7
 Version: 1.0-2
@@ -18597,6 +18674,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stopccinappDp
 dev: rob311
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stopccinappDp
+SHA256: 528267d6af0994b5b9260798cdf583ca910aa53b9880fcae9eb20c1fd15f3ff1
 
 Package: com.robottom.bettervolume
 Version: 2.2.0-1
@@ -18658,6 +18736,7 @@ Tag: cydia::commercial
 Depiction: http://rpetrich.com/cydia/colorprofiles/
 dev: ryanpetrich
 homepage: http://rpetrich.com/cydia/colorprofiles/
+SHA256: 00ad5752bea54492c12ef89118c7c7c359cbf11e37d319cab9ccc777639742b1
 
 Package: com.rpetrich.rocketbootstrap
 Version: 1.0.6
@@ -18791,6 +18870,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=seekerDp
 dev: rthakrardev
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=seekerDp
+SHA256: b299ff999260308eee55abad00403fdd3754663a9d62bdbf73cc860252527594
 
 Package: com.rthakrar.taptoscrollforactivator
 Version: 1.2
@@ -19695,6 +19775,7 @@ Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
 Depiction: http://www.iwebboost.com/cydia/webboost/
 dev: spiritoflogic
 homepage: http://www.iwebboost.com/
+SHA256: 2a2c03961d3453fe27c48428922ba0b18000c090bdcfac1a6d6dce56486c9679
 
 Package: com.spiritoflogic.unifyx
 Version: 1.0.0.0
@@ -19716,6 +19797,7 @@ Tag: purpose::extension, purpose::commercial, cydia::commercial, role::enduser
 Depiction: http://www.unify-tweak.com/cydia/unifyx/
 dev: spiritoflogic
 homepage: http://www.unify-tweak.com/
+SHA256: dd26aa1149c56c768e00f56067a3a691f7c3fd2927202b1217705d4f274be033
 
 Package: com.springtomize.st4
 Version: 3
@@ -19737,6 +19819,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize4Dp
 dev: sharedroutine
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize4Dp
+SHA256: 0ea93b6d16f582d427161ab81405ff622e8d6906bb4ad386ef0c09129d63087a
 
 Package: com.squ1dd13.adaptlbl
 Version: 1.2
@@ -20339,6 +20422,7 @@ Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backupaz2Dp
 dev: synnyg
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=backupaz2Dp
+SHA256: cb672a1f6af5c3f9cbc7fd8b6a67ea21a637e6110715ff24ebcbbacbb1dcc02f
 
 Package: com.synnyg.floatydock
 Version: 1.5
@@ -20835,6 +20919,7 @@ Tag: cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9, co
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=groupringerDp
 dev: thiagoconti
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=groupringerDp
+SHA256: 967cb13f347b49bfd925e6902e3a4586ec3780078ffe66565213de7cbde99f36
 
 Package: com.thiagoconti.groupringer2lite
 Version: 2.0-1
@@ -20996,6 +21081,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=getmehomeDp
 dev: tomeffects
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=getmehomeDp
+SHA256: 3706f8ade0af0b55378af95a4755b1ad284eca6c599dc2440ba75ee62a4e96e3
 
 Package: com.tomeffects.redditenhanced
 Version: 3.0.0-63
@@ -21155,6 +21241,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lock4glteDp
 dev: doratown
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lock4glteDp
+SHA256: 7b49daf895aaedbb7fb8469462d75e2d783d2db83e73324fce4c6cf226308a10
 
 Package: com.touhao1995.only3g
 Version: 1.0.0-1
@@ -21175,6 +21262,7 @@ Tag: purpose::extension, cydia::commercial, ios7support::1, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=only3gDp
 dev: doratown
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=only3gDp
+SHA256: 35bc6abe99c5104777581869aa82fed0bf289b832cea1f529669fc09ef834789
 
 Package: com.tushaoye.noicondot8
 Version: 0.1-1
@@ -21254,6 +21342,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=musessionsDp
 dev: tweakingsdev
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=musessionsDp
+SHA256: aaae2ff52b7b512e2f8ea15a16004d206b36e098d60af4e7e460eac02c55a02a
 
 Package: com.tweakingsdev.musessionsimporter
 Version: 0.9-1
@@ -23257,6 +23346,7 @@ Tag: cydia::commercial, purpose::uikit, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyhookDp
 dev: finngaida
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyhookDp
+SHA256: 76f8d7625751c014e3ddf0e9b8d90ec84b83c8159f584136f3c5f425cd5834ae
 
 Package: de.ingmarstein.overachiever
 Version: 1.0.23-1
@@ -23337,6 +23427,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waveflowDp
 dev: teggers
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=waveflowDp
+SHA256: cf130b9b2e17736fb9d1029abd348870b10eb9a5a478646d29cc3a20f93db9dd
 
 Package: fr.coupaings.nobannername
 Version: 0.1
@@ -23578,6 +23669,7 @@ Tag: purpose::extension, cydia::commercial
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=attachmentmanagerDp
 dev: timperin
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=attachmentmanagerDp
+SHA256: 82802dd217a97a42462235aab2b1b144a4add26806b6030e9677f7b36dfa83b2
 
 Package: info.adolfoi.rapidfiretap
 Version: 1.2.0-3
@@ -23598,6 +23690,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rapidfiretapDp
 dev: adolfoi
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rapidfiretapDp
+SHA256: 5be25cd29167b462c23b072e2a148e9223853abf3468cf0a96245e3e1c4019c3
 
 Package: info.rpdev.betterfivecolumnhomescreen
 Version: 1.0.1
@@ -23757,6 +23850,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=amaltheaDp
 dev: ijapija00
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=amaltheaDp
+SHA256: 94632aec5415ebe698fc434adaf2fa2a16faf817a14631b6df2733b8274b6dc8
 
 Package: io.ijapija00.callisto
 Version: 1.4.7
@@ -23778,6 +23872,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callistoDp
 dev: ijapija00
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callistoDp
+SHA256: c6a363902fc2a14d9d0ce24d5e9c4bde890003997c3a9e22bd3118e58195711e
 
 Package: io.ijapija00.callistopro
 Version: 1.2.2
@@ -23799,6 +23894,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callistoproios10Dp
 dev: ijapija00
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callistoproios10Dp
+SHA256: 024701318660833cf0d7a081ab4d77c3786f30877be631f1233fadf8b4ce16e5
 
 Package: io.ijapija00.cardate
 Version: 1.0
@@ -23883,6 +23979,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customtimeplusDp
 dev: ijapija00
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customtimeplusDp
+SHA256: 94a717338d8e6435b25d0e5aee914b70844418e7b8a32a8a0e823d2100fb1e38
 
 Package: io.ijapija00.dragmedown
 Version: 1.1.3
@@ -23904,6 +24001,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dragmedownDp
 dev: ijapija00
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dragmedownDp
+SHA256: 5d1bff67283e746af5ffe04308e3719b3fdb0399947162cd00f571334d987b5b
 
 Package: io.ijapija00.lasttimeunlocked
 Version: 1.0.1
@@ -23946,6 +24044,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lysitheaDp
 dev: ijapija00
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=lysitheaDp
+SHA256: bec4657fc658f5ad0293c6a828e79f1efc04b5755220acefa3971159f2015c68
 
 Package: io.ijapija00.quitewhileplaying
 Version: 1.0
@@ -24269,6 +24368,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cloakyDp
 dev: rplus
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cloakyDp
+SHA256: 203035f4cdce90256d3e1b5ee26a409b2a999c4796e3b73072b0e27c9446000f
 
 Package: jp.r-plus.deletecut
 Version: 0.1-1
@@ -24368,6 +24468,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10,
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleipnizer3Dp
 dev: rplus
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleipnizer3Dp
+SHA256: 925491b094727a1d5554ce89b33470e8f39b44c72d0c75d2471033f9b836894e
 
 Package: jp.r-plus.slidecut
 Version: 0.4
@@ -24507,6 +24608,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotapDp
 dev: kylelu
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotapDp
+SHA256: 366b418926cfe1b1db18da7185a25285f05d6ca420c013029e3446114634e5f3
 
 Package: me.alfhaily.adblockforyoutube
 Version: 1.0.7
@@ -24807,6 +24909,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=advancedstatustimeDp
 dev: virulent
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=advancedstatustimeDp
+SHA256: 9a2a31bc11235f01eca878f8d5dcd1fb6bf37cb87b6689c29b27d527051eb73d
 
 Package: me.virulent.ios.tweaks.ifwr
 Version: 2.0
@@ -25142,6 +25245,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chooseboardDp
 dev: chooseboard
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=chooseboardDp
+SHA256: 784290da4a9a5576e5f4dd31bd0df700ef107f72e9be28c01c6ca7ba095de4a8
 
 Package: net.erike.audioexplorerplus
 Version: 2.7.1-2
@@ -25381,6 +25485,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=revelationDp
 dev: joejordan
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=revelationDp
+SHA256: 80ceb2698ba9c597d77820f36c247a844de715b42c17a5a796e81d0bf0154453
 
 Package: net.kister.apttimeout
 Version: 1.0-2
@@ -25422,6 +25527,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachineDp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=answeringmachineDp
+SHA256: 22420bd6e920360c3cbcf239de52a9341a05da8cc56dcf4b9925d42a95412c5c
 
 Package: net.limneos.answeringmachinex
 Version: 1.0-6
@@ -25464,6 +25570,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aquaboard8Dp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=aquaboard8Dp
+SHA256: cc9615d91adf60d9879966b77e169c79482ff347437dc4e7e1a43fa135f02667
 
 Package: net.limneos.autoanswer8
 Version: 0.1-26
@@ -25485,6 +25592,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autoanswer8Dp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autoanswer8Dp
+SHA256: a42692840f322607702414101652b11f95ad09b24a06ed620881ddeec12038d2
 
 Package: net.limneos.autoanswerx
 Version: 0.1-3
@@ -25526,6 +25634,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bioprotectDp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bioprotectDp
+SHA256: 30ef18e59b5967f3dc1df994e4dcc9745b2e55d2f79cca5a334ebccd9ea8fd93
 
 Package: net.limneos.bioprotectx
 Version: 3.1-41
@@ -25707,6 +25816,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nfcwriterDp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nfcwriterDp
+SHA256: d2bd47ce19a13b68cdbbf3da8da967897233363b810b8f842026687cacaa6373
 
 Package: net.limneos.nfcwriterx
 Version: 2.0-7
@@ -25767,6 +25877,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbrotator8Dp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sbrotator8Dp
+SHA256: 836cb758f1e2287c1328996269304172b1b930511c3d2b8a2d021b368b1d5956
 
 Package: net.limneos.selfietime
 Version: 0.0.1-39
@@ -25787,6 +25898,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=selfietimeDp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=selfietimeDp
+SHA256: a1ecfcab9425e9ef4fc43a62306db3cd16037fd0b091ae150e10899705a921ef
 
 Package: net.limneos.smarttapx
 Version: 0.1-251
@@ -25827,6 +25939,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=visionDp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=visionDp
+SHA256: 5de288628558fde915d8bdcf43fc0566b777b90cc5b490898de8af6cd5dbe246
 
 Package: net.limneos.vocoder
 Version: 1.1-28
@@ -25847,6 +25960,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=voicechangerDp
 dev: limneos
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=voicechangerDp
+SHA256: a139396f279ec7a4bc11e62bfd687d5aa3139067cb00e04b3aa6fddf3254539e
 
 Package: net.limneos.voicechangerx
 Version: 0.1-41
@@ -26009,6 +26123,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
 dev: tetherme
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tetherme8Dp
+SHA256: 1078366be5bc986084ec99af95aae47239538cc89db01684d5bc6a6474d657d5
 
 Package: net.tottech.banktouch
 Version: 1.1
@@ -26181,6 +26296,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios9, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=3dswitcher2Dp
 dev: coolstar
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=3dswitcher2Dp
+SHA256: b122e1f1b2993a5f8cb79b213ed58cd647929cccddd6a2e72b1d168d2be5928b
 
 Package: org.coolstar.betterpowerdown
 Version: 1.4.0
@@ -26203,6 +26319,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpowerdownDp
 dev: coolstar
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=betterpowerdownDp
+SHA256: 3ed47e15c938f55454b95ff707d2419ed8deffbbc5082d92fd3999fa14191f82
 
 Package: org.coolstar.cctools
 Version: 895
@@ -26306,6 +26423,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockscreenDp
 dev: coolstar
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=classiclockscreenDp
+SHA256: cdbf362bf3600c68aa3aafb73bca66a8cfa5f8ff0637213b6ae056f3e1aab82b
 
 Package: org.coolstar.iostoolchain
 Version: 6.1-1
@@ -26471,6 +26589,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sonusDp
 dev: ubik
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sonusDp
+SHA256: a89d411433dfbc3afb0e234f0bcb9a0e1939d9625d258700348b8c24589d4eac
 
 Package: org.hacx.hacxdaemon
 Version: 3.4
@@ -26530,6 +26649,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
 dev: ioshack
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+SHA256: 9cbd0386a1c9c1fbdeebd2cf3492f32384c64f0211504887ef6e05a8a5b50bdd
 
 Package: org.midey.basebadges
 Version: 1.0.0
@@ -26631,6 +26751,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=australianbomweatherplusDp
 dev: rjharris
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=australianbomweatherplusDp
+SHA256: 385e6bcabe4abc90fb119340ceff1db4ee7ba396d8c67dfcae29c3febda05756
 
 Package: org.rdharris.wakewithweather
 Version: 4.0.4-1
@@ -26651,6 +26772,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wakewithweatherDp
 dev: rjharris
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wakewithweatherDp
+SHA256: 7a60329217e6b3ca06a6a80c1a06c85de6a3b691bdd3c76195ecd8de173fa453
 
 Package: org.swift.libswift
 Version: 5.0
@@ -26709,6 +26831,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=acapella3Dp
 dev: patsluth
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=acapella3Dp
+SHA256: 323655609349a11e47d09a260b2b7cc1b01d78219c14138e0841233c7662d7d1
 
 Package: org.thebigboss.actif2
 Version: 1.2
@@ -26752,6 +26875,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=adiutorDp
 dev: greeny
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=adiutorDp
+SHA256: ac5134c69b9de691232df778844b5d1ec65b13d2a0ce60325b39b7a9efba89e4
 
 Package: org.thebigboss.afaker
 Version: 2.0
@@ -26990,6 +27114,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appdrawerDp
 dev: gmoran
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appdrawerDp
+SHA256: fdf94d42a73d0247b2dba2060eddc807b44231f9f97b9b2312a5a395bbff40f2
 
 Package: org.thebigboss.applanguageswitcher
 Version: 1.1-6
@@ -27010,6 +27135,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applanguageswitcherDp
 dev: ganbold
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=applanguageswitcherDp
+SHA256: 2454a73dfe7a96a24891fd4153712c6642e96c7850ac4d541d775eb9a8c19860
 
 Package: org.thebigboss.applemacspinnertheme
 Version: 1.0.0
@@ -27088,6 +27214,7 @@ Tag: purpose::extension, cydia::commercial, ios7support::1, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audiooutDp
 dev: vibez
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audiooutDp
+SHA256: 787512ac0d8f7d0b6af4a8a3af709a1d2261659e1da8bf39a6adc4cc6f71ea57
 
 Package: org.thebigboss.badgomizer
 Version: 1.6.8-1
@@ -27485,6 +27612,7 @@ Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickproxDp
 dev: cunstuck
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickproxDp
+SHA256: 85f14e269c05401e44d2070573204e7399bbf16e5e38b66f0bbddaadc4a9553d
 
 Package: org.thebigboss.centereddate
 Version: 0.0.1
@@ -27583,6 +27711,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbadgesDp
 dev: goldmandavid0
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorbadgesDp
+SHA256: 2acc88b8bf5fdb15f47051a9ab238bd89cf39c91523df94bde6185d635235c41
 
 Package: org.thebigboss.comicbookzeppelin
 Version: 1.0
@@ -27622,6 +27751,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=conferoDp
 dev: atomdevteam
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=conferoDp
+SHA256: 4189304c465333ffd684db67325740b3cde2b52628bd187909516455a5db7b8c
 
 Package: org.thebigboss.confero2
 Version: 1.3
@@ -27643,6 +27773,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confero2Dp
 dev: atomdevteam
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confero2Dp
+SHA256: 3c5456526e942a7a7f62cd966001757b4126174812851d8a3d2518d3f66d6e8c
 
 Package: org.thebigboss.darkmoduleccxi
 Version: 1.0
@@ -27682,6 +27813,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
 dev: minuit
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
+SHA256: 9b4546fa6effe8af7307a70e477851a71d1e7c8a003145245f8f36faa63e8c16
 
 Package: org.thebigboss.dimme
 Version: 2.0.0-2
@@ -27743,6 +27875,7 @@ Tag: cydia::commercial, purpose::uikit, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=diskpieDp
 dev: liji32
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=diskpieDp
+SHA256: 2b700ab2c5f353590bb3542eb5a5b6ec17fbf9c052821d11d2c68906c7a54bd8
 
 Package: org.thebigboss.dismissprogress
 Version: 1.0.3
@@ -27782,6 +27915,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dissidentDp
 dev: shinvou
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dissidentDp
+SHA256: 150bea3ec279b6be7507a86ebbb0e91a3394b9f12f99640585f6c3f9e082e060
 
 Package: org.thebigboss.dockbar
 Version: 1.0.1-30
@@ -27802,6 +27936,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockbarforiphoneDp
 dev: coleschaefer1
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dockbarforiphoneDp
+SHA256: 748ed294d065a731d1a134e2c0b604fb3877c7647e636573139123c267026828
 
 Package: org.thebigboss.dockcolor
 Version: 1.1-4
@@ -27841,6 +27976,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dwnldrDp
 dev: stilldabomb
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dwnldrDp
+SHA256: 7475835eedf7167218994fa3ce8d71357f37f9f54a6702712032bb9ce8d1c9b8
 
 Package: org.thebigboss.eclipse
 Version: 1.4.6-5
@@ -28002,6 +28138,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=favoriteemojisDp
 dev: adeemm
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=favoriteemojisDp
+SHA256: 8bb2d71598fabb51a059c4248abda5472a24b0844371519c29c3a2a4fc7cd1a6
 
 Package: org.thebigboss.flashalert
 Version: 2.3.0
@@ -28022,6 +28159,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flashalertDp
 dev: kostic
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flashalertDp
+SHA256: dbe198be126c5943e014e01c24c0ab18f58d0fba0803bb61cb87f0943ecda35a
 
 Package: org.thebigboss.flashorama
 Version: 1.6.1
@@ -28140,6 +28278,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpscheatDp
 dev: minuit
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpscheatDp
+SHA256: 9d0bd11bda6d7cf26702fac61d8e6bcabc1f4166b4aaa45cba1eca7c96f80517
 
 Package: org.thebigboss.grayscaleflipswitch
 Version: 0.0.1-2
@@ -28180,6 +28319,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=groupmeDp
 dev: alexandrulaurus
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=groupmeDp
+SHA256: 5a6158300a9f71594792ed9d39631749659f72388ef0701bb3b33638503aae9b
 
 Package: org.thebigboss.hapticscroll
 Version: 2.3.0-1
@@ -28200,6 +28340,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10,
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hapticscrollDp
 dev: kostic
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hapticscrollDp
+SHA256: 081ffeb5f5fe0fa64a4a74ba870a70e585365c76b3681e97794bb3057b357fbc
 
 Package: org.thebigboss.harrypotterzeppelin
 Version: 1.1
@@ -28317,6 +28458,7 @@ Tag: cydia::commercial, purpose::extension, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ibatteryinfopro2Dp
 dev: davidedj10
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ibatteryinfopro2Dp
+SHA256: 0c6dfcbd423596374485b07d776f2efa8bd427cebe9b4602d7b17d1f0754650d
 
 Package: org.thebigboss.iconizer
 Version: 1.2.2-1
@@ -28456,6 +28598,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipicarDp
 dev: renettejeda
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipicarDp
+SHA256: ae43a1ea1490362e7e6bf686cb9f226c79952b49e4ce5026d7cb07139377f255
 
 Package: org.thebigboss.juweltheme
 Version: 1.1
@@ -28536,6 +28679,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyswipeDp
 dev: delewhopper
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyswipeDp
+SHA256: 689062fb32459ea6c4a7ff4df31fb5bc3cbc0d9d442434886e94fa83eb7a495c
 
 Package: org.thebigboss.kidsecure
 Version: 1.0.6-1
@@ -28735,6 +28879,7 @@ Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios8, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationfaker8Dp
 dev: cunstuck
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationfaker8Dp
+SHA256: 7aeecc6389bf8efaee346b17b60e3fa01062a5f1bc1911a22598bfcfb9f6a736
 
 Package: org.thebigboss.locksoundfs
 Version: 0.0.3
@@ -28851,6 +28996,7 @@ Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=masqDp
 dev: candoizo
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=masqDp
+SHA256: 646111c1b89fed5bf98ddaebc7a3a3390d52c525bad83db470d90f8394fa8792
 
 Package: org.thebigboss.melancholytheme
 Version: 1.0
@@ -28912,6 +29058,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minotifier2Dp
 dev: kostic
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minotifier2Dp
+SHA256: d48cde4f292241104f301a6ead72d73dd95900221ca5b7ec1bf9cda3657f464f
 
 Package: org.thebigboss.morepredict
 Version: 1.3
@@ -29128,6 +29275,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomojiDp
 dev: poomst
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomojiDp
+SHA256: e7c5c273b027ecd8f0f2738c29cca0ee001f42f141811f96c37536ae532dd21f
 
 Package: org.thebigboss.nomoremissed
 Version: 1.1.5
@@ -29149,6 +29297,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoremissedDp
 dev: packetfahrer
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoremissedDp
+SHA256: 3a262955cdeab857088dd11bd2198df69da82d66b1754ef92a581d0846c50535
 
 Package: org.thebigboss.nouppercasetable
 Version: 1.0-4
@@ -29246,6 +29395,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=palertDp
 dev: integeritis
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=palertDp
+SHA256: 259669f90d224ffe1bfff52b7a1dfa63f29fafb1f1e3461a043e7d4432c7d8e0
 
 Package: org.thebigboss.photores
 Version: 1.3
@@ -29342,6 +29492,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10,
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=premiumplayDp
 dev: ktony3985
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=premiumplayDp
+SHA256: fcb8274dd9f66ac1e5b50e086ba1fbb54e592c83d98e498cc4a477f6a7edcd5b
 
 Package: org.thebigboss.protube
 Version: 1.12.5
@@ -29361,6 +29512,7 @@ Tag: cydia::commercial, compatible::ios6, compatible::ios7, compatible::ios8, co
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protubeDp
 dev: maxner
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protubeDp
+SHA256: e02a5d4fc026358b3587948871243088d72f027b84bfdc07d0fcd142f3fd5108
 
 Package: org.thebigboss.protubehd
 Version: 1.12.5
@@ -29380,6 +29532,7 @@ Tag: cydia::commercial, compatible::ios6, compatible::ios7, compatible::ios8, co
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protubehdDp
 dev: maxner
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protubehdDp
+SHA256: eca4e157033bc04d51bf8aefc5cb4bd0e51bef16afce4072a5a82cbb878ec62e
 
 Package: org.thebigboss.qq635
 Version: 7.1.1.440-34
@@ -29613,6 +29766,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=selectmojiDp
 dev: ca13ra1
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=selectmojiDp
+SHA256: 9412f804414602dc38e717ea9f6e57a17c4affaf4a3fa4867297efb473285458
 
 Package: org.thebigboss.slalommod
 Version: 1.5.4
@@ -29654,6 +29808,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleeperDp
 dev: joshuaseltzer
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sleeperDp
+SHA256: c6704c2a739217139e5bbe7e9c5554029ad9b11535c37ea5e14e5e5556673238
 
 Package: org.thebigboss.smoothcursor
 Version: 1.1.2
@@ -30048,6 +30203,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=userscriptsloaderDp
 dev: shichangone
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=userscriptsloaderDp
+SHA256: 2a58a7da3dfddcab0f1d2d2ee124da6f2acc4d20bd56147fa36a7a85933fb0bd
 
 Package: org.thebigboss.vehiclenotifierlite
 Version: 1.4.0-1
@@ -30090,6 +30246,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vehiclenotifierproDp
 dev: kostic
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vehiclenotifierproDp
+SHA256: d37b35c6ee2549fea83632f739b8d52fde510d3120219e100260c95bc414e7f0
 
 Package: org.thebigboss.vigor
 Version: 1.0-2
@@ -30110,6 +30267,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vigorDp
 dev: atomdevteam
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=vigorDp
+SHA256: 53731c74fc1a890e16b27d749f01d5cf8014bd9b1298c571a75f6d530a73bddb
 
 Package: org.thebigboss.vivoapexiconsettheme
 Version: 1.1
@@ -31139,6 +31297,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ikeywi3Dp
 dev: hiraku
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ikeywi3Dp
+SHA256: bfb5ac1ad0a5668c4a7d4165bd430e60883f7d212f51359d1d582152444dfb1e
 
 Package: tw.yuripe-dev.folderautoclose10
 Version: 12.0
