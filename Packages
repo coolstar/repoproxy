@@ -202,6 +202,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=messagesplusplusDp
 dev: r00tdvd
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=messagesplusplusDp
+SHA256: 1622bb9ea4f74678d1c4e6920d69495afd20475a9b59378d841f759e754c6718
 
 Package: au.com.nettrinity.phonepp2
 Version: 3.1.0
@@ -1745,6 +1746,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios8, compatible::ios9, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyutilitiesDp
 dev: alexk
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=keyutilitiesDp
+SHA256: 7d4c351f4979707d4149bb241cda0a166043677ef16113913836c142cec96548
 
 Package: com.alexk.nolsscreenshot
 Version: 0.0.1
@@ -4681,6 +4683,7 @@ Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=toothDp
 dev: creaturecoding
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=toothDp
+SHA256: 2150fbc3bd6fd40555378b4537ac1294eedb101ff49c28eefae47b3c72797d75
 
 Package: com.creaturecoding.tooth-free
 Version: 1.1.2
@@ -14038,26 +14041,6 @@ dev: justinpet26
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorstatusbarDp
 SHA256: 8f08440845a3b89861d17b6a208fb64e7ea27eedd612c244095fcd4ef4ef8709
 
-Package: com.justinpetkovic.colorgram
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.justinpetkovic.colorgram_v1.0.1.deb
-Size: 44320
-Installed-Size: 312
-MD5sum: 6b5d3b5c0cd80af42923342b16bc4d7c
-Name: ColorGram
-Icon: file:///Library/PreferenceBundles/ic.bundle/ic@2x.png
-Description: Full color customization for Instagram.
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: Justin Petkovic <justin.petkovic@hotmail.com>
-Tag: cydia::commercial, purpose::extension, compatible::ios10
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorgramDp
-dev: justinpet26
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=colorgramDp
-
 Package: com.justinpetkovic.nd
 Version: 0.0.1
 Section: Tweaks
@@ -14795,6 +14778,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=oledificationDp
 dev: ladshyam
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=oledificationDp
+SHA256: 67a42271a4a5963cc4697ede9798c1d7994d5f3774a115a188ec6670d0b235ed
 
 Package: com.lalapetizoo.iostv
 Version: 1.0
@@ -15754,44 +15738,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rupithemeD
 dev: aviorrok
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=rupithemeDp
 SHA256: 56f91b829cd258ce6b9a7171b98ca07a8a9bf83d1db50ccd38e455a5ac631f84
-
-Package: com.macciti.sh1nyanemone
-Version: 1.0
-Section: Themes
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.anemonetheming.anemone
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.macciti.sh1nyanemone_v1.0.deb
-Size: 12819618
-Installed-Size: 20118
-MD5sum: de231909cd28f5c68e449ae0ce661c28
-Name: Sh1ny
-Description: Sh1ny a beautiful white theme.
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: Ni3ls82 <niels82@hotmail.de>
-Tag: cydia::commercial, purpose::extension, compatible::ios10
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sh1nyanemonethemeDp
-dev: niels82
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sh1nyanemonethemeDp
-
-Package: com.macciti.sh1nysbhtml
-Version: 1.0
-Section: Widgets
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.groovycarrot.sbhtml
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.macciti.sh1nysbhtml_v1.0.deb
-Size: 18307468
-Installed-Size: 30118
-MD5sum: 38964f447c8b14983bd1fed5bed17fe4
-Name: Sh1ny SBHTML Widget
-Description: SBHTML Widget for Sh1ny theme
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: Ni3ls82 <niels82@hotmail.de>
-Tag: cydia::commercial, purpose::extension, compatible::ios10
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sh1nysbhtmlwidgetDp
-dev: niels82
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sh1nysbhtmlwidgetDp
 
 Package: com.macciti.shadows
 Version: 2.6
@@ -21432,6 +21378,7 @@ Tag: purpose::extension, cydia::commercial, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truebackgroundDp
 dev: tangxianhai
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=truebackgroundDp
+SHA256: aa568cb09abdd6b427297cef6b82ed4a047daf93c7deb3471cb579d4d3a3b81e
 
 Package: com.tapps.ballevasion
 Version: 1.0
@@ -28101,6 +28048,7 @@ Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios9, com
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afakerDp
 dev: cunstuck
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afakerDp
+SHA256: ef9606af12d57eed7a90f783170122f4e12cf3715dce841ece75c732a38d29c2
 
 Package: org.thebigboss.afvideo
 Version: 1.0-8
@@ -30305,6 +30253,7 @@ Tag: cydia::commercial, purpose::theme, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=melancholythemeDp
 dev: tdmd
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=melancholythemeDp
+SHA256: 61f88cd930d1a5a6117e7e2376f961f7a5336d44053f958cd753ecce29401297
 
 Package: org.thebigboss.messengerplus
 Version: 1.3.4-2
@@ -39786,182 +39735,6 @@ Author: MelanuraDesign <melanura.design@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/0neticios9foldericon/index.php
 SHA256: 2b02ffd5a9cd326426fa753b6b1238067c1145b82a7531de145de0b64477a992
 
-Package: com.macciti.0o0fireplacesb
-Name: 0o0 Fireplace SB
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.matchstic.xenhtml
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0o0fireplacesb/com.macciti.0o0fireplacesb_1.1_iphoneos-arm.deb
-Size: 4777532
-MD5sum: e9abd639dc324128e34c8767c4060bf8
-Description: Here is a Spring board (or Lockscreen) for 0ut of 0rder theme
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0o0fireplacesb/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0o0ikeys
-Name: 0o0 iKeys
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: org.thebigboss.ikeys
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0o0ikeys/com.macciti.0o0ikeys_1.1_iphoneos-arm.deb
-Size: 28744
-MD5sum: 1b327fc105138178c652b4ceb8d2c177
-Description: The IKeys theme for 0ut of 0rder
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0o0ikeys/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rder
-Name: 0ut of 0rder
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rder/com.macciti.0utof0rder_1.2_iphoneos-arm.deb
-Size: 34610852
-MD5sum: 7d8e35db0eab435beed95fe7cc579f12
-Description: A nice grey theme to cover your icons plus aLOT more! I hope you enjoy!
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rder/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rderanemoneiconeffects
-Name: 0ut of 0rder Anemone Icon Effects
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rderanemoneiconeffects/com.macciti.0utof0rderanemoneiconeffects_1.1_iphoneos-arm.deb
-Size: 429134
-MD5sum: 14e77f9701b0fcb67e26c5707c26679f
-Description: Icon Effects to use with 0ut of 0rder
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rderanemoneiconeffects/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rderfoldericons
-Name: 0ut of 0rder FolderIcons
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rderfoldericons/com.macciti.0utof0rderfoldericons_1.1_iphoneos-arm.deb
-Size: 4864962
-MD5sum: 72f7d58bd19b8412f096148c6cc8a9cc
-Description: Folder Icons to go with 0ut of 0rder
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rderfoldericons/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rdermovingfractalsmulticlock
-Name: 0ut of 0rder Moving Fractals Multi clock
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: com.eldwin.iwidgets
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rdermovingfractalsmulticlock/com.macciti.0utof0rdermovingfractalsmulticlock_1.2_iphoneos-arm.deb
-Size: 123700678
-MD5sum: 80937cf9c5b81a090f7f9b007c6dfacc
-Description: Clock Iwidgets
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rdermovingfractalsmulticlock/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rdermulticlocks
-Name: 0ut of 0rder Multi Clocks
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: com.eldwin.iwidgets
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rdermulticlocks/com.macciti.0utof0rdermulticlocks_1.2_iphoneos-arm.deb
-Size: 2947376
-MD5sum: f9f74ac0fdca21f3999a61f70da63e78
-Description: 0ut of 0rder Iwidget Clocks
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rdermulticlocks/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rderui
-Name: 0ut of 0rder UI
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rderui/com.macciti.0utof0rderui_1.1_iphoneos-arm.deb
-Size: 20029454
-MD5sum: b3479baf102e531bce64d35ce0409e0e
-Description: Here is the UI package to go with the 0ut of 0rder theme
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rderui/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rderuniaw7
-Name: 0ut of 0rder UniAW7
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.macciti.0utof0rder
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rderuniaw7/com.macciti.0utof0rderuniaw7_1.1_iphoneos-arm.deb
-Size: 100249180
-MD5sum: 53a8f7caf38ba1c9bc9727d6a83de72d
-Description: A wonderful self sizing springboard for your device! 
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rderuniaw7/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rdervex
-Name: 0ut of 0rder Vex
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: org.thebigboss.vex
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rdervex/com.macciti.0utof0rdervex_1.2_iphoneos-arm.deb
-Size: 4854144
-MD5sum: 319995c10e53f2d33a68a6479acb9e5a
-Description: The Vex theme to go with 0ut of 0rder
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rdervex/index.php
-tag: cydia::commercial
-
-Package: com.macciti.0utof0rderweatheriwidget
-Name: 0ut of 0rder Weather iWidget
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.0utof0rder
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.0utof0rderweatheriwidget/com.macciti.0utof0rderweatheriwidget_1.0_iphoneos-arm.deb
-Size: 4707990
-MD5sum: 3ad2639e304442ef0a3e8529c50d48e2
-Description: A simple little iWidget that uses the weather icons I made for 0ut of 0rder
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/0utof0rderweatheriwidget/index.php
-tag: cydia::commercial
-
 Package: com.macciti.0x5id39
 Name: 0x5iD3 9
 Version: 1.0
@@ -41128,22 +40901,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/3vo/index.php
 tag: cydia::commercial
 SHA256: 3dc641b352c87730644594d3171a09e487feb539d9b9ab08503bfd1ab4e04dc0
 
-Package: com.macciti.451packforlockplus
-Name: 451Pack for LockPlus
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.lockplusforlockhtml
-Priority: standard
-Section: Themes (Lock +)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.451packforlockplus/com.macciti.451packforlockplus_1.0_iphoneos-arm.deb
-Size: 27521376
-MD5sum: 8a6253f465a539c76ed036518ca74bc6
-Description: 26 amazing lock screens for LockPlus
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/451packforlockplus/index.php
-tag: cydia::commercial
-
 Package: com.macciti.69blueios7alkaline
 Name: 69 Blue iOS7 Alkaline
 Version: 1.0
@@ -41192,22 +40949,6 @@ Author: Bludocs <ludovic.boquelet@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/abbozzo/index.php
 tag: cydia::commercial
 SHA256: c9e82c752a0e2be6ef8c77b5fc5d19502e563f9d741b31413cd73ff2bbe0a92c
-
-Package: com.macciti.abstracticons3pack
-Name: AbstractIcons 3 Pack
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.evilgoldfish.lockglyph
-Priority: standard
-Section: Themes (LockScreen)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.abstracticons3pack/com.macciti.abstracticons3pack_1.0_iphoneos-arm.deb
-Size: 66090
-MD5sum: 87c0f62d81ea869678cca6931b67839d
-Description: 3 Abstract Circular Icons
-Maintainer: iC <apt@macciti.com>
-Author: Jamshush <hastepsd@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/abstracticons3pack/index.php
-tag: cydia::commercial
 
 Package: com.macciti.ac2
 Name: AC2
@@ -41428,22 +41169,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/acew2/index.php
 tag: cydia::commercial
 SHA256: e4e4ca96c8df2564b2c966cd38dbc9b035080311c62b73f62f38a85bfd74206f
 
-Package: com.macciti.acexforipad
-Name: Ace X for iPad
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.acexforipad/com.macciti.acexforipad_1.0_iphoneos-arm.deb
-Size: 2724682
-MD5sum: 953e1142e1ebd5ea39b832006870ee36
-Description: Ace X for iPad
-Maintainer: iC <apt@macciti.com>
-Author: anasgaberali <e.anasgaber@ymail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/acexforipad/index.php
-tag: cydia::commercial
-
 Package: com.macciti.acexios10
 Name: Ace X iOS 10
 Version: 1.0
@@ -41495,22 +41220,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/acheronticgold/index.php
 tag: cydia::commercial
 SHA256: c24c6d52aa4e1c33d91f7b3ad591b6de1a469cd8aca75fa2525fdb3b099c7455
 
-Package: com.macciti.aday
-Name: aday
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.aday/com.macciti.aday_1.0_iphoneos-arm.deb
-Size: 4148314
-MD5sum: 91228bcb39ca251035cdd68d877d50b8
-Description: a vibrant, happy theme with nice, soothing colors
-Maintainer: iC <apt@macciti.com>
-Author: SkyThemes <SkyThemes007@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/aday/index.php
-tag: cydia::commercial
-
 Package: com.macciti.addo10
 Name: ADDO10
 Version: 1.0
@@ -41558,21 +41267,6 @@ Maintainer: iC <apt@macciti.com>
 Author: VIC3 <bmpski13@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/adidaslogolockglyph/index.php
 SHA256: 54df3afab2b096616eb453a5935c401e8aee644186f9b045fd0315db037cba29
-
-Package: com.macciti.aero
-Name: Aero
-Version: 1.1
-Architecture: iphoneos-arm
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.aero/com.macciti.aero_1.1_iphoneos-arm.deb
-Size: 8042368
-MD5sum: 8e8c3dd9a56e68625c74cc47766504bf
-Description: Well here i go again with another theme this one's called 'Aero'
-Maintainer: iC <apt@macciti.com>
-Author: KrisJayOnline <krisjaymusic@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/aero/index.php
-tag: cydia::commercial
 
 Package: com.macciti.afteros8iwidgets
 Name: AfterOS 8 iWidgets
@@ -41670,38 +41364,6 @@ Maintainer: iC <apt@macciti.com>
 Author: RenDaniel3 <danii191992@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/afteros8wallpapersip6/index.php
 SHA256: 260c38de0c3f72d86522d10a146258c7a8388a5ae31ffb97402dc34a1a853a1b
-
-Package: com.macciti.agleam
-Name: Agleam
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.agleam/com.macciti.agleam_1.0_iphoneos-arm.deb
-Size: 11443768
-MD5sum: dad333b68bff984fa67f10a173c89b84
-Description: A moonlit Somber was beckoned; Agleam.
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/agleam/index.php
-tag: cydia::commercial
-
-Package: com.macciti.agoa10
-Name: Agoa 10
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.agoa10/com.macciti.agoa10_1.0_iphoneos-arm.deb
-Size: 16946590
-MD5sum: b3e5462d8660681d634972d1f6d29311
-Description: Agoa 10 for iOS 7/8/9/10
-Maintainer: iC <apt@macciti.com>
-Author: Chris59 <titof59112@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/agoa10/index.php
-tag: cydia::commercial
 
 Package: com.macciti.airt10
 Name: Airt 10
@@ -42999,102 +42661,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/amuryforipad/index.php
 tag: cydia::commercial
 SHA256: 93cad1b2bc014d707dbafdfb739091ac034ef5caf9c755a0f27bd8dd3887087d
 
-Package: com.macciti.amuse
-Name: AmuSe
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.amuse/com.macciti.amuse_1.0_iphoneos-arm.deb
-Size: 4719190
-MD5sum: 9d2a564aa74fab042a1a01b77d95a934
-Description: AmuSe is very clean and beautiful theme for iOS7 up to 10.xx comes with zeppelin,UI,lot of icons and more add-ons soon.
-Maintainer: iC <apt@macciti.com>
-Author: 2honi <tonyzantos@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/amuse/index.php
-tag: cydia::commercial
-
-Package: com.macciti.amuse10brown
-Name: AmuSe 10 Brown
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.amuse10brown/com.macciti.amuse10brown_1.0_iphoneos-arm.deb
-Size: 4567974
-MD5sum: c8f990af36312fc11d63d7b8a8dbb300
-Description: AmuSe is very clean and beautiful theme for iOS7 up to 10.xx comes with zeppelin,UI,lot of icons and more add-ons soon.
-Maintainer: iC <apt@macciti.com>
-Author: 2honi <tonyzantos@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/amuse10brown/index.php
-tag: cydia::commercial
-
-Package: com.macciti.amuse10green
-Name: AmuSe 10 Green
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.amuse10green/com.macciti.amuse10green_1.0_iphoneos-arm.deb
-Size: 5131942
-MD5sum: 6630afa0ded5095e7a202d692894ea56
-Description: AmuSe is very clean and beautiful theme for iOS7 up to 10.xx comes with zeppelin,UI,lot of icons and more add-ons soon.
-Maintainer: iC <apt@macciti.com>
-Author: 2honi <tonyzantos@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/amuse10green/index.php
-tag: cydia::commercial
-
-Package: com.macciti.amuse10lem0n
-Name: AmuSe 10 Lem0n
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.amuse10lem0n/com.macciti.amuse10lem0n_1.0_iphoneos-arm.deb
-Size: 4912910
-MD5sum: 0e69f402fdfcd645c0359a2fad88f805
-Description: AmuSe is very clean and beautiful theme for iOS7 up to 10.xx comes with zeppelin,UI,lot of icons and more add-ons soon.
-Maintainer: iC <apt@macciti.com>
-Author: 2honi <tonyzantos@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/amuse10lem0n/index.php
-tag: cydia::commercial
-
-Package: com.macciti.amuse10red
-Name: AmuSe 10 Red
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.amuse10red/com.macciti.amuse10red_1.0_iphoneos-arm.deb
-Size: 5692800
-MD5sum: e89db186b956382f779ff2a4f32e96a1
-Description: AmuSe is very clean and beautiful theme for iOS7 up to 10.xx comes with zeppelin,UI,lot of icons and more add-ons soon.
-Maintainer: iC <apt@macciti.com>
-Author: 2honi <tonyzantos@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/amuse10red/index.php
-tag: cydia::commercial
-
-Package: com.macciti.amusealt10
-Name: AmuSe Alt 10
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.amusealt10/com.macciti.amusealt10_1.0_iphoneos-arm.deb
-Size: 6124168
-MD5sum: 675bc63cb9cc6edf339ab3365528436f
-Description: AmuSe Alt is very clean and beautiful theme for iOS7 up to 10.xx comes with zeppelin,UI,lot of icons and more add-ons soon.
-Maintainer: iC <apt@macciti.com>
-Author: 2honi <tonyzantos@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/amusealt10/index.php
-tag: cydia::commercial
-
 Package: com.macciti.andoios10
 Name: Ando iOS10
 Version: 1.0
@@ -44364,22 +43930,6 @@ Author: SkyThemes <SkyThemes007@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/ascensionzeppelinlogo/index.php
 SHA256: 99d9c0fb47694fd13ad0f0e909ba0bf53d7fcfec847aa055e1909459cad99e9e
 
-Package: com.macciti.asimovmusicwidget
-Name: Asimov Music Widget
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: none
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.asimovmusicwidget/com.macciti.asimovmusicwidget_1.0_iphoneos-arm.deb
-Size: 3881618
-MD5sum: fcada0d116fba4e3867a854099eb406a
-Description: Touch Enabled Music Widget
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/asimovmusicwidget/index.php
-tag: cydia::commercial
-
 Package: com.macciti.aspect
 Name: Aspect
 Version: 1.9
@@ -44411,22 +43961,6 @@ Maintainer: iC <apt@macciti.com>
 Author: UnixDesign <unixdesignios@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/aspectforipad/index.php
 SHA256: 57225cb56847b465c6f0c83a272b7c8ee8544243316f9dfbafe7a7d32e719d85
-
-Package: com.macciti.aspire
-Name: Aspire
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.aspire/com.macciti.aspire_1.2_iphoneos-arm.deb
-Size: 3236122
-MD5sum: cf637fd760b0f403866dafebab74f0c2
-Description: Aspire is a circular theme
-Maintainer: iC <apt@macciti.com>
-Author: Connor <Connor_Engholm@hotmail.com46>
-Depiction: https://cydia.saurik.com/macciti/pages/aspire/index.php
-tag: cydia::commercial
 
 Package: com.macciti.assassinscreedcollection
 Name: Assassins Creed Collection
@@ -44784,22 +44318,6 @@ Maintainer: iC <apt@macciti.com>
 Author: RenDaniel3 <danii191992@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/avalos8wallpapers/index.php
 SHA256: a13d099d6c5838d476084ce3845df3e12b0227998a309cf5a4deee96d4809756
-
-Package: com.macciti.ax1um10
-Name: Ax1um 10
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.ax1um10/com.macciti.ax1um10_1.0_iphoneos-arm.deb
-Size: 20016374
-MD5sum: 45c77c24606756f83da7c816f7c3951f
-Description: Ax1um for iOS 7/8/9/10x
-Maintainer: iC <apt@macciti.com>
-Author: Chris59 <titof59112@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/ax1um10/index.php
-tag: cydia::commercial
 
 Package: com.macciti.axla3
 Name: Axla 3
@@ -45350,22 +44868,6 @@ Author: Friguros <cevacomic@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/azpack/index.php
 SHA256: cd605b0455d8c445fb90ff3924c5cb3e226383f17e0d53f4265e3298be1c5f63
 
-Package: com.macciti.b7acknb7u3
-Name: b7acknb7u3
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.b7acknb7u3/com.macciti.b7acknb7u3_1.2_iphoneos-arm.deb
-Size: 21819024
-MD5sum: 21248534d59ac87b5fe3bbd02d08ccb6
-Description: Very nice black and blue theme with more than 200 icons. 
-Maintainer: iC <apt@macciti.com>
-Author: Ni3ls82 <niels82@hotmail.de>
-Depiction: https://cydia.saurik.com/macciti/pages/b7acknb7u3/index.php
-tag: cydia::commercial
-
 Package: com.macciti.backgroundfixforstenciltheme
 Name: Background fix for Stencil theme
 Version: 1.0
@@ -45591,22 +45093,6 @@ Author: arandompackage <arandompackage@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/banded/index.php
 tag: cydia::commercial
 SHA256: 6be044206f34ae4a08119b09bc5fe2f33c204a8d25155d4538115128f00d1a84
-
-Package: com.macciti.bandedls
-Name: BandedLS
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.bushe.lockhtml4
-Priority: standard
-Section: Themes (LockScreen)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.bandedls/com.macciti.bandedls_1.0_iphoneos-arm.deb
-Size: 256088
-MD5sum: 99d91bca6f32b06838ed95e17c789120
-Description: Banded lockscreen widget featuring local weather, time, and date.
-Maintainer: iC <apt@macciti.com>
-Author: arandompackage <arandompackage@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/bandedls/index.php
-tag: cydia::commercial
 
 Package: com.macciti.bandlogoslockglyph
 Name: Band Logos LockGlyph
@@ -45851,22 +45337,6 @@ Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/blackeditionios9vexmod/index.php
 SHA256: ad3d666caa5716a6490ea8e2e75621d0c610d02220a6ba6cbb409e49144c3006
 
-Package: com.macciti.blackice9
-Name: Black Ice 9
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.matchstic.infostats2
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.blackice9/com.macciti.blackice9_1.1_iphoneos-arm.deb
-Size: 19204594
-MD5sum: c0e416e2cafd9f168c60f4904dcfd166
-Description: Style meets elegance in its darkest form.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/blackice9/index.php
-tag: cydia::commercial
-
 Package: com.macciti.blackie
 Name: Blackie
 Version: 1.3
@@ -46062,22 +45532,6 @@ Author: SkyThemes <SkyThemes007@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/blaztic/index.php
 tag: cydia::commercial
 SHA256: 7634e5bc89f3bdbcb4d07db55ceaf7c9cf31b7a3543935db409a7fdceda1e553
-
-Package: com.macciti.blight
-Name: Blight
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.paleblood
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.blight/com.macciti.blight_1.0_iphoneos-arm.deb
-Size: 14145278
-MD5sum: 0a77bd6fe318d2137866917327765d22
-Description: The plague is upon us.
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/blight/index.php
-tag: cydia::commercial
 
 Package: com.macciti.blueyaluicon
 Name: BlueYalu Icon
@@ -47616,22 +47070,6 @@ Author: BuufJuiced <buufjuiced@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/buufjuicedzeppelin/index.php
 SHA256: da24c1152de7311863194fe0e027c16e47cbd83a0357e1aa204fed1928ff3412
 
-Package: com.macciti.calling
-Name: Calling
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.matchstic.infostats
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.calling/com.macciti.calling_1.0_iphoneos-arm.deb
-Size: 33514
-MD5sum: 85f59a497421dde60c7cbd42c5b43952
-Description: Adds the "current call" view to your lock screen as a widget!
-Maintainer: iC <apt@macciti.com>
-Author: emilavara <emilavara@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/calling/index.php
-tag: cydia::commercial
-
 Package: com.macciti.candycane
 Name: CandyCane
 Version: 1.0
@@ -48177,22 +47615,6 @@ Author: coccco28 <coccolino_26@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/cappuccinowallsi6plusios10/index.php
 SHA256: a468babc7bd50ee74b722e6d4ae115dc148b107143c2835887bb88d48e99555b
 
-Package: com.macciti.cardinalflame
-Name: Cardinal Flame
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.cardinalflame/com.macciti.cardinalflame_1.2_iphoneos-arm.deb
-Size: 10740194
-MD5sum: 460eedad3a5bf167aed75f4aaa2bb6f9
-Description: Alas, the flame has risen
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/cardinalflame/index.php
-tag: cydia::commercial
-
 Package: com.macciti.castios
 Name: Cast iOS
 Version: 1.0
@@ -48225,22 +47647,6 @@ Maintainer: iC <apt@macciti.com>
 Author: Axel4 <axel.new46@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/cat/index.php
 SHA256: 228700bd94420cafbbcb0d09f12bed8347192158365f95b360eda218e5d588a8
-
-Package: com.macciti.centauricardinal
-Name: Centauri
-Version: 1.3
-Architecture: iphoneos-arm
-Depends: com.macciti.cardinalflame
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.centauricardinal/com.macciti.centauricardinal_1.3_iphoneos-arm.deb
-Size: 13635316
-MD5sum: b27de87fd8c15d118be914ba77bf8003
-Description: Do not go gentle into that good night...
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/centauricardinal/index.php
-tag: cydia::commercial
 
 Package: com.macciti.ceresduskios10
 Name: CeresDusk iOS 10
@@ -48542,22 +47948,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/clifesettingsiconstheme/index.
 tag: cydia::commercial
 SHA256: b4cb01b8ef859f4e33992ff4553a943efe5acb4caad06e0ec99f0a03f3db746a
 
-Package: com.macciti.coblack
-Name: coblack
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.coblack/com.macciti.coblack_1.0_iphoneos-arm.deb
-Size: 1297332
-MD5sum: 98567fa17bdea77e92e192491a2bf70d
-Description: Coblack theme.
-Maintainer: iC <apt@macciti.com>
-Author: SAMIF_18 <zxcvbnm77877@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/coblack/index.php
-tag: cydia::commercial
-
 Package: com.macciti.coherence
 Name: Coherence
 Version: 1.1
@@ -48574,21 +47964,6 @@ Author: @xtrendence <xtrendence@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/coherence/index.php
 tag: cydia::commercial
 SHA256: c511c66868edad4e9b7f02345e55ec2d0425e5420d687ef89e421c61c2b63ff0
-
-Package: com.macciti.colorcons
-Name: Colorcons
-Version: 1.1
-Architecture: iphoneos-arm
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.colorcons/com.macciti.colorcons_1.1_iphoneos-arm.deb
-Size: 240932
-MD5sum: ea724744fbba3af8816886b23be00d06
-Description: Flatcons, with color!
-Maintainer: iC <apt@macciti.com>
-Author: Olix <oboudet95@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/colorcons/index.php
-tag: cydia::commercial
 
 Package: com.macciti.colorfulbars
 Name: Colorful Bars 
@@ -48654,54 +48029,6 @@ Maintainer: iC <apt@macciti.com>
 Author: dem0 <contact@dem0-design.com>
 Depiction: https://cydia.saurik.com/macciti/pages/colort/index.php
 SHA256: 44942691b542a3bf7b42aedd9e82e00575e10a82329f07ff0bd312c27325b94f
-
-Package: com.macciti.colortpremium
-Name: ColorT Premium
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.colortpremium/com.macciti.colortpremium_1.1_iphoneos-arm.deb
-Size: 13749464
-MD5sum: 2224298e192a9c2ad553fe27622f78be
-Description: Anemone only
-Maintainer: iC <apt@macciti.com>
-Author: dem0 <contact@dem0-design.com>
-Depiction: https://cydia.saurik.com/macciti/pages/colortpremium/index.php
-tag: cydia::commercial
-
-Package: com.macciti.cooly
-Name: Cooly
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.cooly/com.macciti.cooly_1.0_iphoneos-arm.deb
-Size: 2388408
-MD5sum: 89ad4bec70cd2be6f121c74f0423d0b0
-Description: Awesome Theme for iOS 
-Maintainer: iC <apt@macciti.com>
-Author: tykology <ticosalinas1@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/cooly/index.php
-tag: cydia::commercial
-
-Package: com.macciti.corporeal
-Name: Corporeal
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.paleblood
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.corporeal/com.macciti.corporeal_1.0_iphoneos-arm.deb
-Size: 8313454
-MD5sum: 61425a2165cbd00abe7a3e94da10bf5d
-Description: Vibrant Material Design 
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/corporeal/index.php
-tag: cydia::commercial
 
 Package: com.macciti.crtios10
 Name: CRT iOS10
@@ -48804,22 +48131,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/crystallineeclipse/index.php
 tag: cydia::commercial
 SHA256: 36eadb5ba8b5ee5214f424cb923e7071282197da586d640eebe43fb2bd2f47b0
 
-Package: com.macciti.cubewidget
-Name: Cube
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.eldwin.iwidgets, com.matchstic.infostats2
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.cubewidget/com.macciti.cubewidget_1.0_iphoneos-arm.deb
-Size: 2455056
-MD5sum: 7e46dfebedc0aebd36299ad84dbaf189
-Description: iWidget Interactive Cube
-Maintainer: iC <apt@macciti.com>
-Author: Friguros <cevacomic@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/cubewidget/index.php
-tag: cydia::commercial
-
 Package: com.macciti.cubic
 Name: Cubic
 Version: 1.0
@@ -48869,22 +48180,6 @@ Maintainer: iC <apt@macciti.com>
 Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/darkmatterios9ipadprofix/index.php
 SHA256: 75120d02d8ef0a710b038b2559869443674aa1759c7e02d7c47c022404700d62
-
-Package: com.macciti.deergodforlockplus
-Name: deerGod for LockPlus
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.lockplusforlockhtml
-Priority: standard
-Section: Themes (Lock +)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.deergodforlockplus/com.macciti.deergodforlockplus_1.0_iphoneos-arm.deb
-Size: 285742
-MD5sum: 6393ca4d31c9fe75503cffe3d515d612
-Description: Bold lines and strong colors will set your phone apart.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/deergodforlockplus/index.php
-tag: cydia::commercial
 
 Package: com.macciti.delphisearchlauncher
 Name: Delphi Search Launcher
@@ -49644,22 +48939,6 @@ Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/dominionios9ipadprofix/index.php
 SHA256: 2c116ea468d8eb8acb8edfd27d24e178b928aebb6ba7a41f530ebb30a4440b31
 
-Package: com.macciti.dots
-Name: Dots
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.dots/com.macciti.dots_1.0_iphoneos-arm.deb
-Size: 6024
-MD5sum: 0bfd3ffc50bf0567e83fe45a400733e4
-Description: Simple, Minimal.
-Maintainer: iC <apt@macciti.com>
-Author: bren <brandonmsaldan@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/dots/index.php
-tag: cydia::commercial
-
 Package: com.macciti.dragonballios10
 Name: Dragon Ball iOS 10
 Version: 1.1
@@ -50030,53 +49309,6 @@ Author: @xtrendence <xtrendence@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/ecstaticvibrance/index.php
 tag: cydia::commercial
 SHA256: eb6b687112f54ac6edab0aab02ab75b9e25afd72b33cb74674fd661ea0f37e3a
-
-Package: com.macciti.editionios10
-Name: Edition iOS 10
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.editionios10/com.macciti.editionios10_1.0_iphoneos-arm.deb
-Size: 8957482
-MD5sum: 1fa03d04b82f6b61aa1d49381515be3e
-Description: Great Transparent Theme to revolutionize iOS 10
-Maintainer: iC <apt@macciti.com>
-Author: tykology <ticosalinas1@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/editionios10/index.php
-tag: cydia::commercial
-
-Package: com.macciti.electricboogalooforlockhtml4
-Name: electricBoogaloo for LockHTML4
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.bushe.lockhtml4
-Priority: standard
-Section: Themes (Lock +)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.electricboogalooforlockhtml4/com.macciti.electricboogalooforlockhtml4_1.0_iphoneos-arm.deb
-Size: 521026
-MD5sum: e4e915e1e1bc5ff9b7629d07c7dc85ba
-Description: Live gauges with animated clock.  Completely unique.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/electricboogalooforlockhtml4/index.php
-tag: cydia::commercial
-
-Package: com.macciti.elegancelockglyphtheme
-Name: Elegance Lockglyph Theme
-Version: 1.0
-Architecture: iphoneos-arm
-Priority: standard
-Section: Themes (LockScreen)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.elegancelockglyphtheme/com.macciti.elegancelockglyphtheme_1.0_iphoneos-arm.deb
-Size: 34310
-MD5sum: 23eb2189348232a7932788f47cfe1f44
-Description: Super Clean Minimal Finger Print LockGlyph Theme
-Maintainer: iC <apt@macciti.com>
-Author: Jamshush <hastepsd@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/elegancelockglyphtheme/index.php
-tag: cydia::commercial
 
 Package: com.macciti.elementoforios9
 Name: Elemento for iOS9
@@ -50563,22 +49795,6 @@ Maintainer: iC <apt@macciti.com>
 Author: cocco26 <coccolino_26@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/erawhiteflaticonsios7/index.php
 SHA256: 29abff6a0184fcee1871b2522da08b3e7a5552d35df04c095f6151b457db7f93
-
-Package: com.macciti.escapevelocityforlockplus
-Name: escapeVelocity for LockPlus
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.lockplusforlockhtml
-Priority: standard
-Section: Themes (Lock +)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.escapevelocityforlockplus/com.macciti.escapevelocityforlockplus_1.0_iphoneos-arm.deb
-Size: 1325012
-MD5sum: 7a379d65c68fe18bd80f098d80824280
-Description: escapeVelocity is all that matters when leaving the atmosphere.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/escapevelocityforlockplus/index.php
-tag: cydia::commercial
 
 Package: com.macciti.espiro
 Name: Espiro
@@ -51235,22 +50451,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/fuji/index.php
 tag: cydia::commercial
 SHA256: 84454362a0f47cf28839b72ddc9c730ac9e2efba36a08ddd3e6593e38ecf9afa
 
-Package: com.macciti.fullscreenagendaforlockplus
-Name: Full Screen Agenda For LockPlus
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.macciti.lockplusforlockhtml
-Priority: standard
-Section: Themes (Lock +)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.fullscreenagendaforlockplus/com.macciti.fullscreenagendaforlockplus_1.1_iphoneos-arm.deb
-Size: 7406716
-MD5sum: 5520412cf9033f342383dcc262ffe5aa
-Description: Full Screen Agenda Lock Screen Pack with Widgets
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/fullscreenagendaforlockplus/index.php
-tag: cydia::commercial
-
 Package: com.macciti.furatto
 Name: Furatto
 Version: 1.2
@@ -51335,22 +50535,6 @@ Author: junesiphone <street.visions@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/futuristic9cydget/index.php
 tag: cydia::commercial
 SHA256: 9c6b15fad5e54737591d5d4024ccd229c4d9b2b10627e47fe27e2b3297929a4f
-
-Package: com.macciti.galvanizedsapphire
-Name: Galvanized Sapphire
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.galvanizedsapphire/com.macciti.galvanizedsapphire_1.1_iphoneos-arm.deb
-Size: 11521268
-MD5sum: ba00443fb5392b291df55af19d064e4f
-Description: A unique sapphire glyph theme
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/galvanizedsapphire/index.php
-tag: cydia::commercial
 
 Package: com.macciti.gentlemananemoneaebrillant
 Name: Gentleman Anemone AE Brillant
@@ -52217,22 +51401,6 @@ Author: jedeye81 <bareknucklegraphics757@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/ghost/index.php
 SHA256: b0071c01358642c4b18f68d22d60f0722832c7bb86bac88567bb68070a48099a
 
-Package: com.macciti.glitz
-Name: Glitz
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.glitz/com.macciti.glitz_1.0_iphoneos-arm.deb
-Size: 4850872
-MD5sum: a3fe9e6a30547c86aeab6b9a82686f4c
-Description: A theme with rich gradient background and sharp minimal icon images.
-Maintainer: iC <apt@macciti.com>
-Author: Krishh <daredevil.gkc@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/glitz/index.php
-tag: cydia::commercial
-
 Package: com.macciti.goldenanemonebadges
 Name: Golden Anemone Badges
 Version: 1.1
@@ -52740,38 +51908,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/halcyon/index.php
 tag: cydia::commercial
 SHA256: bb946c779d337f91c31775302c7ed63e45402aa95caf199b91df35c37ce651ac
 
-Package: com.macciti.halloweenaphoticnightmare
-Name: Halloween Aphotic Nightmare
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.halloweenaphoticnightmare/com.macciti.halloweenaphoticnightmare_1.0_iphoneos-arm.deb
-Size: 12617256
-MD5sum: cd37ddbddf8ff79492307bb03ffae762
-Description: The eve of all hallows beckons, prithee welcome it
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/halloweenaphoticnightmare/index.php
-tag: cydia::commercial
-
-Package: com.macciti.halloweenphoticdream
-Name: Halloween Photic Dream
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.halloweenaphoticnightmare
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.halloweenphoticdream/com.macciti.halloweenphoticdream_1.0_iphoneos-arm.deb
-Size: 12071418
-MD5sum: b8845392992b709f20d6680ccc47678b
-Description: A nightmare is a dream if you welcome it...
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/halloweenphoticdream/index.php
-tag: cydia::commercial
-
 Package: com.macciti.harmonypatch
 Name: Harmony Patch 
 Version: 1.0
@@ -53066,22 +52202,6 @@ Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/hollowios9ipadprofix/index.php
 SHA256: 6b64799fb7dbf67789d2cd7c84f188f39a196792a29a17e66617f327ee5d7d75
 
-Package: com.macciti.home
-Name: Home 
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.home/com.macciti.home_1.1_iphoneos-arm.deb
-Size: 3717172
-MD5sum: 8c36a9a2aa602481e8af086350c0e20c
-Description: Home is a super-clean Anemone Theme
-Maintainer: iC <apt@macciti.com>
-Author: @kimasf <kimasf3@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/home/index.php
-tag: cydia::commercial
-
 Package: com.macciti.htcanimatedsbhtml
 Name: HTC Animated SBHTML
 Version: 1.2
@@ -53114,22 +52234,6 @@ Author: ihkltc <ihkltc@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/hylicforios9/index.php
 tag: cydia::commercial
 SHA256: b13fe83a16c4e9575ec512322ee7e7ad3e408fdfdd6a7efa1adc4c55f313fb14
-
-Package: com.macciti.ice9
-Name: Ice 9
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.matchstic.infostats2
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.ice9/com.macciti.ice9_1.0_iphoneos-arm.deb
-Size: 19205184
-MD5sum: fa2a179c815928c1d6fc338b1bc0e0d6
-Description: Deck your iPhone out in style without breaking the bank
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/ice9/index.php
-tag: cydia::commercial
 
 Package: com.macciti.iceappleios10
 Name: Ice Apple iOS10
@@ -53329,21 +52433,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/il0neios10/index.php
 tag: cydia::commercial
 SHA256: ca7bfa99b45686444da11fda1324fc8a3e9d4b7d96fa25ea78d9d816f9101435
 
-Package: com.macciti.illustratedresprings
-Name: Illustrated Resprings
-Version: 1.0
-Architecture: iphoneos-arm
-Priority: standard
-Section: Themes (System)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.illustratedresprings/com.macciti.illustratedresprings_1.0_iphoneos-arm.deb
-Size: 2103460
-MD5sum: 0992063c2b11e35e3a360bb0f20babab
-Description: 8 illustrated respring logos
-Maintainer: iC <apt@macciti.com>
-Author: Jamshush <hastepsd@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/illustratedresprings/index.php
-tag: cydia::commercial
-
 Package: com.macciti.ils
 Name: iLS
 Version: 1.0
@@ -53505,22 +52594,6 @@ Author: @xtrendence <xtrendence@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/iridescent/index.php
 tag: cydia::commercial
 SHA256: 406a3d0c8881c391b00bbbf7d883f16c43d2b37b7f64b2289a1edd124836196a
-
-Package: com.macciti.iris
-Name: Iris
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.iris/com.macciti.iris_1.1_iphoneos-arm.deb
-Size: 6802832
-MD5sum: a449ce2de91e722d7e13a82ebc32fc43
-Description: Iris Based Concept Theme
-Maintainer: iC <apt@macciti.com>
-Author: Krishh <daredevil.gkc@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/iris/index.php
-tag: cydia::commercial
 
 Package: com.macciti.irysdeluxe
 Name: Irys Deluxe
@@ -53704,21 +52777,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/jellywidgets/index.php
 tag: cydia::commercial
 SHA256: d2c6ab455f15ac5046261c9e210ce89e73930a1d7520cb433f6389d16276b34b
 
-Package: com.macciti.joyelectricone
-Name: Joy Electric One
-Version: 1.0
-Architecture: iphoneos-arm
-Priority: standard
-Section: Themes (LockScreen)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.joyelectricone/com.macciti.joyelectricone_1.0_iphoneos-arm.deb
-Size: 2137330
-MD5sum: 5360b840e39788f78179ae999413c833
-Description: Simple Elegance for your Lock Screen or Home Screen
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/joyelectricone/index.php
-tag: cydia::commercial
-
 Package: com.macciti.jules
 Name: jules
 Version: 1.0
@@ -53750,22 +52808,6 @@ Maintainer: iC <apt@macciti.com>
 Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/julestwo/index.php
 SHA256: 494032797afa7aba485117ddfaaa1627fd973c5af8dcd0580487ba3646d3f9fb
-
-Package: com.macciti.kandy
-Name: Kandy
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.kandy/com.macciti.kandy_1.0_iphoneos-arm.deb
-Size: 4517230
-MD5sum: e6849854db53838f4c6ffcc628876c4c
-Description: Newest instalment from me
-Maintainer: iC <apt@macciti.com>
-Author: KrisJayOnline <krisjaymusic@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/kandy/index.php
-tag: cydia::commercial
 
 Package: com.macciti.karma
 Name: Karma
@@ -53801,22 +52843,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/kep1erios10/index.php
 tag: cydia::commercial
 SHA256: 2326f79bf70de32c44ee180a90d22791d76bbe9e0324c8b88959c959aadf0da0
 
-Package: com.macciti.kikkali
-Name: Kikkali
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.kikkali/com.macciti.kikkali_1.0_iphoneos-arm.deb
-Size: 3764304
-MD5sum: 9a388eead8c661fe582491d8d7ec77c3
-Description: A beautiful and simple theme for your iPhone
-Maintainer: iC <apt@macciti.com>
-Author: nerialberto6 <Alberto.neri1900@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/kikkali/index.php
-tag: cydia::commercial
-
 Package: com.macciti.kimasf
 Name: Kimasf
 Version: 1.1
@@ -53832,22 +52858,6 @@ Maintainer: iC <apt@macciti.com>
 Author: @kimasf <kimasf3@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/kimasf/index.php
 SHA256: f81c86712f5fd612fc3214ad601415a130c0e4edce6e4b009d56210be57859e6
-
-Package: com.macciti.lacuna
-Name: Lacuna
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.lacuna/com.macciti.lacuna_1.1_iphoneos-arm.deb
-Size: 23967084
-MD5sum: 6c58ae307cbecb074170b0e60bde64c3
-Description: White but with a Twist of Colours.
-Maintainer: iC <apt@macciti.com>
-Author: Zabir <zpaypal08@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/lacuna/index.php
-tag: cydia::commercial
 
 Package: com.macciti.lbevothemebad8dockicons
 Name: LBEvoTheme bAd8DockIcons
@@ -53945,69 +52955,6 @@ Author: Juanillo62gm <juangomezm97@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/lightboard/index.php
 tag: cydia::commercial
 SHA256: dd71b134d11845a3ca01d86d666bff498b05969ddb50c4687a343a9bfb3761bd
-
-Package: com.macciti.line
-Name: Line
-Version: 1.0
-Architecture: iphoneos-arm
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.line/com.macciti.line_1.0_iphoneos-arm.deb
-Size: 665986
-MD5sum: 7852d4102445ab810c7fb2b6890f6dc8
-Description: The world is a Line.
-Maintainer: iC <apt@macciti.com>
-Author: elouan-bgr <elouan.beguer@hotmail.fr>
-Depiction: https://cydia.saurik.com/macciti/pages/line/index.php
-tag: cydia::commercial
-
-Package: com.macciti.linear
-Name: Linear
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.linear/com.macciti.linear_1.1_iphoneos-arm.deb
-Size: 2012774
-MD5sum: 1f6e1e988a23876c08dffa60cd7b1b60
-Description: Vibrant Colors & Fine Lines
-Maintainer: iC <apt@macciti.com>
-Author: AhmadNagy <ahmad.ios.tweaks@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/linear/index.php
-tag: cydia::commercial
-
-Package: com.macciti.linearglyphs
-Name: Linear Glyphs
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.linearglyphs/com.macciti.linearglyphs_1.1_iphoneos-arm.deb
-Size: 2407578
-MD5sum: 5df3d8535d3999015de961b8da566726
-Description: Vibrant Colors & Fine Lines
-Maintainer: iC <apt@macciti.com>
-Author: AhmadNagy <ahmad.ios.tweaks@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/linearglyphs/index.php
-tag: cydia::commercial
-
-Package: com.macciti.lines
-Name: Lines
-Version: 1.4
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.lines/com.macciti.lines_1.4_iphoneos-arm.deb
-Size: 19421138
-MD5sum: 5c17edf54142208a65d4334f4d3f89e5
-Description: Elegant Lines Theme
-Maintainer: iC <apt@macciti.com>
-Author: Friguros <cevacomic@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/lines/index.php
-tag: cydia::commercial
 
 Package: com.macciti.lockbuilderevoios8cydget
 Name: LockBuilder Evo iOS8 Cydget
@@ -55403,22 +54350,6 @@ Author: amirsardari <amirsardari@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/lurgrey/index.php
 SHA256: a344ca7dff229642b0af4873056badec873bc73032883b10d42bdcb2ca1663f9
 
-Package: com.macciti.luxa
-Name: Luxa
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.luxa/com.macciti.luxa_1.0_iphoneos-arm.deb
-Size: 706860
-MD5sum: 191d941a32b98a00430f5cf1d17b73b8
-Description: An amazing theme for your springboard
-Maintainer: iC <apt@macciti.com>
-Author: GUPILUAN <misterio-4000@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/luxa/index.php
-tag: cydia::commercial
-
 Package: com.macciti.magme
 Name: Magme
 Version: 1.1
@@ -55650,22 +54581,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/meldock/index.php
 tag: cydia::commercial
 SHA256: 39808ef77629b6abad575ddd95d9cf85b45e1966ae7f361adb5ce276b1007f12
 
-Package: com.macciti.melonui
-Name: MelonUI
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.melonui/com.macciti.melonui_1.0_iphoneos-arm.deb
-Size: 19333974
-MD5sum: 0648040387d6da7e7aaea4e042fe186b
-Description: Wonderful design in a juice shape!
-Maintainer: iC <apt@macciti.com>
-Author: Fraom Design <dev.fraom@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/melonui/index.php
-tag: cydia::commercial
-
 Package: com.macciti.melui
 Name: Mel UI
 Version: 1.0
@@ -55682,22 +54597,6 @@ Author: Chris59 <titof59112@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/melui/index.php
 tag: cydia::commercial
 SHA256: b38258462ba6d850162be84e8db403d9e0eaa144feff9d781a48ac443ea81a33
-
-Package: com.macciti.meraki
-Name: Meraki
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.meraki/com.macciti.meraki_1.0_iphoneos-arm.deb
-Size: 966806
-MD5sum: 6e4100b4cc613ebfb007f67b0df06a19
-Description: Meraki is a theme meant for devices looking for a vivid, colorful, semi-minimal setup. New icons are being added all the time.
-Maintainer: iC <apt@macciti.com>
-Author: SciencyScience <Ryder679@live.com>
-Depiction: https://cydia.saurik.com/macciti/pages/meraki/index.php
-tag: cydia::commercial
 
 Package: com.macciti.mi972
 Name: MI97 2
@@ -56178,22 +55077,6 @@ Author: bellis1000 <billyellis2015@icloud.com>
 Depiction: https://cydia.saurik.com/macciti/pages/minutiaforipad/index.php
 SHA256: c32d6d406a2f907a53448191ec9d5e84f1a71461d5da8f0e84f463e84be61fa7
 
-Package: com.macciti.missionaccomplishedforlockplus
-Name: missionAccomplished for LockPlus
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.lockplusforlockhtml
-Priority: standard
-Section: Themes (Lock +)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.missionaccomplishedforlockplus/com.macciti.missionaccomplishedforlockplus_1.0_iphoneos-arm.deb
-Size: 675280
-MD5sum: ebc0218c9a30a14d52c072351f3f69fa
-Description: State your intentions clearly with this lock screen.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/missionaccomplishedforlockplus/index.php
-tag: cydia::commercial
-
 Package: com.macciti.miui8
 Name: MIUI 8
 Version: 1.0
@@ -56569,22 +55452,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/naxosios9/index.php
 tag: cydia::commercial
 SHA256: 87f1f4c1fb214d32c9076273e68f9096d8f9b3f7fd46c0fa0a6254c5d32ed9ce
 
-Package: com.macciti.neongoddessforlockplus
-Name: neonGoddess for LockPlus
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.lockplusforlockhtml
-Priority: standard
-Section: Themes (Lock +)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.neongoddessforlockplus/com.macciti.neongoddessforlockplus_1.0_iphoneos-arm.deb
-Size: 234854
-MD5sum: a52be829349f7ce2ff5f1f8883642802
-Description: This is a gorgeous animated neon lock screen.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/neongoddessforlockplus/index.php
-tag: cydia::commercial
-
 Package: com.macciti.newerano
 Name: NewErano
 Version: 1.1
@@ -56667,38 +55534,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/nflixios9/index.php
 tag: cydia::commercial
 SHA256: d50afa4373bd9bffeaf66d54e3f806507e2be1b1af911bbf3e406da846f24a60
 
-Package: com.macciti.nicflow
-Name: NicFlow
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.nicflow/com.macciti.nicflow_1.0_iphoneos-arm.deb
-Size: 5687686
-MD5sum: ad90d17244a78049b764f4f191a93237
-Description: awesome beautiful  theme with 300+ icons
-Maintainer: iC <apt@macciti.com>
-Author: infinitiwoods12 <infinitiwoods12@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/nicflow/index.php
-tag: cydia::commercial
-
-Package: com.macciti.nightfall
-Name: NightFall
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.nightfall/com.macciti.nightfall_1.0_iphoneos-arm.deb
-Size: 1317402
-MD5sum: 8a5fe3287b707c5d7106921946c0be19
-Description: A cool and new dark experience for iOS
-Maintainer: iC <apt@macciti.com>
-Author: Zabir <zpaypal08@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/nightfall/index.php
-tag: cydia::commercial
-
 Package: com.macciti.nntendoswitchlockglyphpack
 Name: Nntendo Switch LockGlyph Pack 
 Version: 1.1
@@ -56747,22 +55582,6 @@ Maintainer: iC <apt@macciti.com>
 Author: b___Ro <giantwaffle@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/nomnomios10theme/index.php
 SHA256: 0951704c3e64ad12f787a739dce804b72c1d01ad743edad17c4514aa5076dfbc
-
-Package: com.macciti.novellas
-Name: Novellas
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.matchstic.infostats2
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.novellas/com.macciti.novellas_1.1_iphoneos-arm.deb
-Size: 34872596
-MD5sum: bfbb65e7f2dbb837389f29b1654cc0b0
-Description: You will be amazed.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/novellas/index.php
-tag: cydia::commercial
 
 Package: com.macciti.nucleoios
 Name: NucleoIOS 
@@ -56832,22 +55651,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/nuvo/index.php
 tag: cydia::commercial
 SHA256: f69fc1b5aa353a2d365fbad125e00d410ef4306655e79b6ffbffbbb45e88138a
 
-Package: com.macciti.nuxblack
-Name: Nux Black
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.nuxblack/com.macciti.nuxblack_1.0_iphoneos-arm.deb
-Size: 11475826
-MD5sum: b01c08952f202ea0d472277d594224f7
-Description: Nux is back in black on your idevice
-Maintainer: iC <apt@macciti.com>
-Author: ChrisGraphiX <webmaster@chrisgraphix.fr>
-Depiction: https://cydia.saurik.com/macciti/pages/nuxblack/index.php
-tag: cydia::commercial
-
 Package: com.macciti.obeylockglyph
 Name: OBEY LockGlyph
 Version: 1.0
@@ -56897,22 +55700,6 @@ Depiction: https://cydia.saurik.com/macciti/pages/odelia2/index.php
 tag: cydia::commercial
 SHA256: 44d8e36f6dee2c90f35b856eacbe57f33d939e72abb9e8e94e860243b4ead920
 
-Package: com.macciti.odeliared
-Name: Odelia RED
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.odeliared/com.macciti.odeliared_1.1_iphoneos-arm.deb
-Size: 13572384
-MD5sum: 3ab4c2020fdcd9e8c89ab1dfddf6d1f4
-Description: Red version of Odelia
-Maintainer: iC <apt@macciti.com>
-Author: Axinen <julian.javier95@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/odeliared/index.php
-tag: cydia::commercial
-
 Package: com.macciti.odeszalockglyphtheme
 Name: Odesza LockGlyph Theme
 Version: 1.0
@@ -56961,22 +55748,6 @@ Maintainer: iC <apt@macciti.com>
 Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/omegaios9ipadprofix/index.php
 SHA256: 5ce79ce43133c2627abb073e3423249ce36b2934fde60cf9030cd2f53432d9b9
-
-Package: com.macciti.onix
-Name: Onix
-Version: 1.3
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.onix/com.macciti.onix_1.3_iphoneos-arm.deb
-Size: 46744504
-MD5sum: ddd204ea2ff23fe6b4505bd480d9c783
-Description: Onix is clean theme that redefines your iOS experience.
-Maintainer: iC <apt@macciti.com>
-Author: tailorvishal <vdtailor@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/onix/index.php
-tag: cydia::commercial
 
 Package: com.macciti.onyx
 Name: Onyx
@@ -57043,22 +55814,6 @@ Author: junesiphone <street.visions@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/opwgreenbay/index.php
 tag: cydia::commercial
 SHA256: e1cfbec0ade1b56ea2783238e70295d3ba7125da360c6d7cb48e13394a777393
-
-Package: com.macciti.opwmeta
-Name: OPW Meta
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.matchstic.infostats2, com.macciti.opwclear, com.eldwin.iwidgets
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.opwmeta/com.macciti.opwmeta_1.0_iphoneos-arm.deb
-Size: 471864
-MD5sum: 48e0dde4ad2a53196b9c9abf2b0c5f92
-Description: Completely change the look of your home screen with this one page widget.
-Maintainer: iC <apt@macciti.com>
-Author: junesiphone <street.visions@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/opwmeta/index.php
-tag: cydia::commercial
 
 Package: com.macciti.opww10
 Name: OPW W10
@@ -57238,22 +55993,6 @@ Maintainer: iC <apt@macciti.com>
 Author: AkdM <anthonyk.damota@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/padlockforlockglyph/index.php
 SHA256: 4b60610f047c87b66650f92fb11ed46fad7606b504d0be400a045852fc455c61
-
-Package: com.macciti.paleblood
-Name: Paleblood
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.paleblood/com.macciti.paleblood_1.0_iphoneos-arm.deb
-Size: 23317630
-MD5sum: e380771d5ea86c7e9bf56c5b5b949f6e
-Description: Evolution without courage will be the ruin of our race.
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/paleblood/index.php
-tag: cydia::commercial
 
 Package: com.macciti.patience8ightlastiospack
 Name: Patience 8ight last iOS  pack
@@ -57436,22 +56175,6 @@ Author: Fraom Design <dev.fraom@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/pixxoui/index.php
 tag: cydia::commercial
 SHA256: 181da566b0ae7ab9da68a261ac623b7e9184c2ffb116f7cfe7175b3e6d8edd05
-
-Package: com.macciti.plana
-Name: Plana
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.plana/com.macciti.plana_1.0_iphoneos-arm.deb
-Size: 6566516
-MD5sum: b6a3a6d7216f124a763fddd9682ef7d6
-Description: This is Plana, Latin for Flat
-Maintainer: iC <apt@macciti.com>
-Author: KrisJayOnline <krisjaymusic@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/plana/index.php
-tag: cydia::commercial
 
 Package: com.macciti.pogbadab
 Name: Pogba DAB 
@@ -57869,22 +56592,6 @@ Author: drippnvvs <drippnvvs@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/quartzylite/index.php
 SHA256: eef418da84d98a0775da7c35394442252b5fb0e080149fc4627de359fd0994bd
 
-Package: com.macciti.rainbowflyerforlockplus
-Name: rainbowFlyer for LockPlus
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.macciti.lockplusforlockhtml
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.rainbowflyerforlockplus/com.macciti.rainbowflyerforlockplus_1.1_iphoneos-arm.deb
-Size: 4629396
-MD5sum: 07641713b9b3660312248a8a4c95b1bc
-Description: Striking design on your lock screen.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/rainbowflyerforlockplus/index.php
-tag: cydia::commercial
-
 Package: com.macciti.rasypine
 Name: RasyPine 
 Version: 1.3
@@ -57917,70 +56624,6 @@ Author: WolfTonix <Wolftonix@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/rasypineipad/index.php
 SHA256: d4f26652ec88b44598813ef7872a90b8b6e1af6022ef2848b9223c936665bce5
 
-Package: com.macciti.redgold
-Name: Red Gold
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.redgold/com.macciti.redgold_1.0_iphoneos-arm.deb
-Size: 34818994
-MD5sum: bf045c74fd81f0f97d799d9310404d2e
-Description: A nice Zeppelin to go with the Red Gold Theme
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/redgold/index.php
-tag: cydia::commercial
-
-Package: com.macciti.redgoldikeys
-Name: Red Gold iKeys
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: org.thebigboss.ikeys
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.redgoldikeys/com.macciti.redgoldikeys_1.0_iphoneos-arm.deb
-Size: 32862
-MD5sum: 506f35e6a3a3de49417ce4582cf10b84
-Description: A nice Zeppelin to go with the Red Gold Theme
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/redgoldikeys/index.php
-tag: cydia::commercial
-
-Package: com.macciti.redgoldvex
-Name: Red Gold Vex
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: org.thebigboss.vex
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.redgoldvex/com.macciti.redgoldvex_1.0_iphoneos-arm.deb
-Size: 190696
-MD5sum: 97f6ac972a3c3c5b832bceda80e45d1b
-Description: A nice Zeppelin to go with the Red Gold Theme
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/redgoldvex/index.php
-tag: cydia::commercial
-
-Package: com.macciti.redgoldzeppelin
-Name: Red Gold Zeppelin
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.alexzielenski.zeppelin
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.redgoldzeppelin/com.macciti.redgoldzeppelin_1.0_iphoneos-arm.deb
-Size: 4090
-MD5sum: 8591ebf2f92f5bf6ec6cbdb6fb94b826
-Description: A nice Zeppelin to go with the Red Gold Theme
-Maintainer: iC <apt@macciti.com>
-Author: Heidi3126 <ravenleigh@cox.net>
-Depiction: https://cydia.saurik.com/macciti/pages/redgoldzeppelin/index.php
-tag: cydia::commercial
-
 Package: com.macciti.reemanimatedicons
 Name: Reem animated icons
 Version: 1.1
@@ -57996,38 +56639,6 @@ Maintainer: iC <apt@macciti.com>
 Author: AhmadNagy <ahmad.ios.tweaks@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/reemanimatedicons/index.php
 SHA256: 22ea774214d858aa1736354dc9aa4fac3e4abd0380df203c6c9775266c339307
-
-Package: com.macciti.reflescentls
-Name: Reflescent LS
-Version: 1.4
-Architecture: iphoneos-arm
-Depends: com.matchstic.infostats2
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.reflescentls/com.macciti.reflescentls_1.4_iphoneos-arm.deb
-Size: 2763142
-MD5sum: fb571f6823d6b2f91e15656f0c489a92
-Description: Simply perfect for your lock screen
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/reflescentls/index.php
-tag: cydia::commercial
-
-Package: com.macciti.reflescentsb
-Name: Reflescent SB
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.matchstic.infostats2
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.reflescentsb/com.macciti.reflescentsb_1.1_iphoneos-arm.deb
-Size: 3507922
-MD5sum: 3be5b4d74d1108a6a79b96eff01f46cd
-Description: The perfect home screen widget
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/reflescentsb/index.php
-tag: cydia::commercial
 
 Package: com.macciti.ren
 Name: Ren
@@ -58159,22 +56770,6 @@ Author: @xtrendence <xtrendence@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/revertigo/index.php
 tag: cydia::commercial
 SHA256: 0df4c61e5a2e3450d9640dcf7dafce68f02321c278a61530d26c2ff2f0a20127
-
-Package: com.macciti.rosegold
-Name: Rose Gold
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.rosegold/com.macciti.rosegold_1.0_iphoneos-arm.deb
-Size: 8337726
-MD5sum: 9cd5b80ecac55976574165108496df46
-Description: A white and rose gold color theme specifically custom tailored to the iPhone 6S Rose Gold color palette
-Maintainer: iC <apt@macciti.com>
-Author: @xtrendence <xtrendence@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/rosegold/index.php
-tag: cydia::commercial
 
 Package: com.macciti.roundedios10
 Name: Rounded iOS10
@@ -58591,22 +57186,6 @@ Author: Steven Portas <stevenportas@me.com>
 Depiction: https://cydia.saurik.com/macciti/pages/satcon7charge/index.php
 SHA256: 8981f8dd41688a5bb5e801d6d9b7a20eda55ed4eb405400cccbcd37e28f44db2
 
-Package: com.macciti.sausage
-Name: Sausage
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.sausage/com.macciti.sausage_1.0_iphoneos-arm.deb
-Size: 4009160
-MD5sum: ef782010aab42d74fa0bc271aeead6a8
-Description: Flat and Colorful
-Maintainer: iC <apt@macciti.com>
-Author: ArkLotif <arklotif@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/sausage/index.php
-tag: cydia::commercial
-
 Package: com.macciti.sblur
 Name: Sblur
 Version: 1.0
@@ -58623,22 +57202,6 @@ Author: sam6i <zxcvbnm1234512@msn.com>
 Depiction: https://cydia.saurik.com/macciti/pages/sblur/index.php
 tag: cydia::commercial
 SHA256: db99682cbadfb80b0792ab2ee8952131a32a1af053cf3e3797439abcbd0e60b5
-
-Package: com.macciti.sculpt
-Name: Sculpt
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.sculpt/com.macciti.sculpt_1.0_iphoneos-arm.deb
-Size: 12103046
-MD5sum: 51e3ec23b53f4198d1d9a83002cbf7fa
-Description: A theme that looks like the icons carved onto the background.
-Maintainer: iC <apt@macciti.com>
-Author: Krishh <daredevil.gkc@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/sculpt/index.php
-tag: cydia::commercial
 
 Package: com.macciti.serena
 Name: Serena
@@ -58768,22 +57331,6 @@ Author: AhmadNagy <ahmad.ios.tweaks@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/shakeitplus/index.php
 SHA256: 9ae599b2bceb6f7ec851144a9554a29c2529d34b0a025176c5b6409c033a7aa4
 
-Package: com.macciti.shinji9
-Name: Shinji 9
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.matchstic.infostats2
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.shinji9/com.macciti.shinji9_1.0_iphoneos-arm.deb
-Size: 2464044
-MD5sum: 015dfb51d4afb0521a2c301a4b76591b
-Description: Black.  Minimal.  Perfect.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/shinji9/index.php
-tag: cydia::commercial
-
 Package: com.macciti.silkyxms
 Name: silkyxms
 Version: 1.0
@@ -58860,36 +57407,6 @@ Author: amirsardari <amirsardari@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/simplate4/index.php
 SHA256: c8946c3def62d645c60a26fe73abc6ae6a50e634703549cac14234bc681cd370
 
-Package: com.macciti.simplemailwidget
-Name: Simple Mail Widget
-Version: 1.0
-Architecture: iphoneos-arm
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.simplemailwidget/com.macciti.simplemailwidget_1.0_iphoneos-arm.deb
-Size: 2055312
-MD5sum: 37968198407ecd920b73e15a75869530
-Description: Simple, perfect mail widget.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/simplemailwidget/index.php
-tag: cydia::commercial
-
-Package: com.macciti.simplemessageswidget
-Name: Simple Messages Widget
-Version: 1.0
-Architecture: iphoneos-arm
-Priority: standard
-Section: Widgets
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.simplemessageswidget/com.macciti.simplemessageswidget_1.0_iphoneos-arm.deb
-Size: 2055172
-MD5sum: 60114f2ce0f476d1c0e5b1b3cb7b02b0
-Description: Simple, perfect, messages widget.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/simplemessageswidget/index.php
-tag: cydia::commercial
-
 Package: com.macciti.simplicioscrystal
 Name: Simplicios Crystal
 Version: 1.2
@@ -58939,22 +57456,6 @@ Maintainer: iC <apt@macciti.com>
 Author: Jafu <rumerjavier@hotmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/simpliciosnighticonpack/index.php
 SHA256: dbf06b5eed7e0cbdbb88f69a404acee0cc5ca1180a54a63753398b29dbd39a1e
-
-Package: com.macciti.simplicitous
-Name: Simplicitous
-Version: 1.2
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.simplicitous/com.macciti.simplicitous_1.2_iphoneos-arm.deb
-Size: 3411626
-MD5sum: 16ffe62433e58a4e2eeacffc6613fda8
-Description: Crisp, clean, round with a dark edge
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/simplicitous/index.php
-tag: cydia::commercial
 
 Package: com.macciti.simproreloadedalticons
 Name: SiMPRO Reloaded Alt Icons
@@ -59421,22 +57922,6 @@ Author: coccco28 <coccolino_26@yahoo.com>
 Depiction: https://cydia.saurik.com/macciti/pages/skyfallzeppelini6plus/index.php
 SHA256: cd97ba9eef8d1665b29c0b5f56609f25f068cf25ac697f80a3d643ad0058287c
 
-Package: com.macciti.sl3in
-Name: Sl3in
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.sl3in/com.macciti.sl3in_1.1_iphoneos-arm.deb
-Size: 7432120
-MD5sum: 0a272faca0318b7f376430417a399db5
-Description: a very nice colored theme, with over 300 Icons 
-Maintainer: iC <apt@macciti.com>
-Author: Ni3ls82 <niels82@hotmail.de>
-Depiction: https://cydia.saurik.com/macciti/pages/sl3in/index.php
-tag: cydia::commercial
-
 Package: com.macciti.smokeandglassios10
 Name: SmokeAndGlass iOS10
 Version: 1.0
@@ -59470,22 +57955,6 @@ Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/smokeandglassios9ipadprofix/index.php
 SHA256: 607303316fe5a48671e084965c31bdf60754d5db2c0e95cadb80a64e3f60a4de
 
-Package: com.macciti.snature
-Name: Snature
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.snature/com.macciti.snature_1.0_iphoneos-arm.deb
-Size: 268482
-MD5sum: fafea1bca5babfe09ae2089882f9a3cf
-Description: Snature ios10/9/8
-Maintainer: iC <apt@macciti.com>
-Author: sam6i <zxcvbnm1234512@msn.com>
-Depiction: https://cydia.saurik.com/macciti/pages/snature/index.php
-tag: cydia::commercial
-
 Package: com.macciti.snslogosforzeppelin
 Name: SNS Logos for Zeppelin
 Version: 1.0
@@ -59517,54 +57986,6 @@ Maintainer: iC <apt@macciti.com>
 Author: jejovif <jejoviftheming@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/solsticex/index.php
 SHA256: fb801684ec6ab0e3aed2caec848e2851483928cf78ab366193b786f05f91e350
-
-Package: com.macciti.solux9
-Name: Solux9
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.solux9/com.macciti.solux9_1.0_iphoneos-arm.deb
-Size: 5020392
-MD5sum: 02e9f629e2ff1ef876482b7508c0cdbc
-Description: Simply illuminating...
-Maintainer: iC <apt@macciti.com>
-Author: vec1phyr <team_vec1phyr@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/solux9/index.php
-tag: cydia::commercial
-
-Package: com.macciti.solux9iphonewallpapers
-Name: Solux9 iPhone Wallpapers
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (Addons)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.solux9iphonewallpapers/com.macciti.solux9iphonewallpapers_1.0_iphoneos-arm.deb
-Size: 4042432
-MD5sum: 80f95e635a65c3a374afc028da60e505
-Description: Simply illuminating...
-Maintainer: iC <apt@macciti.com>
-Author: vec1phyr <team_vec1phyr@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/solux9iphonewallpapers/index.php
-tag: cydia::commercial
-
-Package: com.macciti.solux9ui
-Name: Solux9 UI
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.solux9ui/com.macciti.solux9ui_1.0_iphoneos-arm.deb
-Size: 140686
-MD5sum: 715d9cfde18331c303a63352b6692936
-Description: Simply illuminating...
-Maintainer: iC <apt@macciti.com>
-Author: vec1phyr <team_vec1phyr@yahoo.com>
-Depiction: https://cydia.saurik.com/macciti/pages/solux9ui/index.php
-tag: cydia::commercial
 
 Package: com.macciti.somber
 Name: Somber
@@ -59629,22 +58050,6 @@ Maintainer: iC <apt@macciti.com>
 Author: tykology <ticosalinas1@hotmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/spinwillios9/index.php
 SHA256: 201ab7e4203d0bbe337e92179a38ff24a14c186cdb3d3b6fc9feeb011ba0d8d9
-
-Package: com.macciti.sploosh
-Name: Sploosh
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.sploosh/com.macciti.sploosh_1.0_iphoneos-arm.deb
-Size: 7381886
-MD5sum: 93a88f0a516d9f26e4cac35114db7439
-Description: My latest theme
-Maintainer: iC <apt@macciti.com>
-Author: KrisJayOnline <krisjaymusic@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/sploosh/index.php
-tag: cydia::commercial
 
 Package: com.macciti.starflyer
 Name: Starflyer
@@ -59891,22 +58296,6 @@ Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/sunshineios9ipadprofix/index.php
 SHA256: 1bf12823436ece08f7ee2d01cd68b5e586d4fc1c092403a8cf7f69722366e2e9
 
-Package: com.macciti.swantom
-Name: Swantom
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.swantom/com.macciti.swantom_1.0_iphoneos-arm.deb
-Size: 1027812
-MD5sum: 67518096fbfb8d92e9e53932be93b310
-Description: Here is my second theme SWANTOM.
-Maintainer: iC <apt@macciti.com>
-Author: Punjabi <punjabimaharaja1999@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/swantom/index.php
-tag: cydia::commercial
-
 Package: com.macciti.swee10
 Name: Swee10
 Version: 1.4
@@ -60039,22 +58428,6 @@ Author: Chris59 <titof59112@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/swee10xenhtml/index.php
 tag: cydia::commercial
 SHA256: c764d658ad3c686625ca55d1881bfaddc55bd57542f9e305f13b9304cd4b1d11
-
-Package: com.macciti.swhite
-Name: Swhite
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.swhite/com.macciti.swhite_1.0_iphoneos-arm.deb
-Size: 199138
-MD5sum: 3e1a43adc3846e99114c032489f51915
-Description: Swhite theme iOS 10/9/8
-Maintainer: iC <apt@macciti.com>
-Author: SAMIF_18 <zxcvbnm77877@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/swhite/index.php
-tag: cydia::commercial
 
 Package: com.macciti.switchknobcrazypack
 Name: Switch Knob Crazy Pack
@@ -60353,38 +58726,6 @@ Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/thacardboardios9ipadprofix/index.php
 SHA256: f3302bbd44e122a995984248bfe49edda9d828f0fec9c4fdcd46b7d938fb9e66
 
-Package: com.macciti.thacastironios10
-Name: Tha Cast Iron iOS10
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.thacastironios10/com.macciti.thacastironios10_1.0_iphoneos-arm.deb
-Size: 88619380
-MD5sum: ea2c27e27b45e763ca831d55483bea19
-Description: Inspired by a type of cast iron that has a graphitic microstructure.
-Maintainer: iC <apt@macciti.com>
-Author: frenchitouch <luledu30@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/thacastironios10/index.php
-tag: cydia::commercial
-
-Package: com.macciti.thacastironios9
-Name: Tha Cast Iron iOS9
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.thacastironios9/com.macciti.thacastironios9_1.0_iphoneos-arm.deb
-Size: 88290896
-MD5sum: 8c777ef619593a90e859fae8ff330aae
-Description: Inspired by a type of cast iron that has a graphitic microstructure.
-Maintainer: iC <apt@macciti.com>
-Author: frenchitouch <luledu30@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/thacastironios9/index.php
-tag: cydia::commercial
-
 Package: com.macciti.thaiallcarriersforzeppelin
 Name: Thai All Carriers for Zeppelin
 Version: 1.1
@@ -60500,22 +58841,6 @@ Author: frenchitouch <luledu30@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/tharaiseios9ipadprofix/index.php
 SHA256: 2c8ad4ca9bf31af2bfc3de48a52d2f7692927450c92702a816565d8edb6ec717
 
-Package: com.macciti.thedark
-Name: The Dark
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.thedark/com.macciti.thedark_1.0_iphoneos-arm.deb
-Size: 5323008
-MD5sum: 0eda60d187a3cbbe854b9cec462bec52
-Description: Dark theme
-Maintainer: iC <apt@macciti.com>
-Author: SynchronizerD <brunodesign92@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/thedark/index.php
-tag: cydia::commercial
-
 Package: com.macciti.theflashminimal
 Name: theFlashMinimal
 Version: 1.0
@@ -60564,38 +58889,6 @@ Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/timelordagenda/index.php
 tag: cydia::commercial
 SHA256: d25cb543b9085fafada070b2a950906c187bc8840c17754ccf04a4b2111edb1a
-
-Package: com.macciti.timelordforlockplus
-Name: Timelord for LockPlus
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.macciti.lockplusforlockhtml
-Priority: standard
-Section: Themes (Lock +)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.timelordforlockplus/com.macciti.timelordforlockplus_1.0_iphoneos-arm.deb
-Size: 1349908
-MD5sum: e7cbe2c1d8a6e509cb9788f4a200d5f8
-Description: A refined lock screen experience.
-Maintainer: iC <apt@macciti.com>
-Author: SPQRGuyMontag <gaitherstephens@hotmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/timelordforlockplus/index.php
-tag: cydia::commercial
-
-Package: com.macciti.tinker
-Name: Tinker
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.tinker/com.macciti.tinker_1.0_iphoneos-arm.deb
-Size: 5234628
-MD5sum: 49989fdca5bacd7a67883cc3de97074e
-Description: A Flat colourful Theme
-Maintainer: iC <apt@macciti.com>
-Author: KrisJayOnline <krisjaymusic@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/tinker/index.php
-tag: cydia::commercial
 
 Package: com.macciti.translucencypack3
 Name: Translucency Pack 3
@@ -60993,22 +59286,6 @@ Author: SnNijjar <S.SN.Themes@gmail.com>
 Depiction: https://cydia.saurik.com/macciti/pages/velour/index.php
 tag: cydia::commercial
 SHA256: 78e556ac83ded151f7663dd25176d7932df92929b56c8a51ce62f47bc35f9305
-
-Package: com.macciti.velvety
-Name: velvety
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: com.anemonetheming.anemone
-Priority: standard
-Section: Themes (SpringBoard)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.velvety/com.macciti.velvety_1.0_iphoneos-arm.deb
-Size: 2525554
-MD5sum: 5c956b84e0bf9b03c265364ea24a2f40
-Description: A soft and smooth theme for your iPhone.
-Maintainer: iC <apt@macciti.com>
-Author: Krishh <daredevil.gkc@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/velvety/index.php
-tag: cydia::commercial
 
 Package: com.macciti.vendettasignalbarsandwifi
 Name: Vendetta Signalbars And Wifi
@@ -61497,21 +59774,6 @@ Author: thetjlo <cydia2012@icloud.com>
 Depiction: https://cydia.saurik.com/macciti/pages/wonderproforios10/index.php
 tag: cydia::commercial
 SHA256: a2e10004ed99633c4f0b7c9872325903562a5dc8dc3c90e495024976850cd578
-
-Package: com.macciti.worldlandmarkspack
-Name: World LandMarks Pack
-Version: 1.0
-Architecture: iphoneos-arm
-Priority: standard
-Section: Themes (LockScreen)
-Filename: http://cydia.zodttd.com/repo/cydia/pool/main/c/com.macciti.worldlandmarkspack/com.macciti.worldlandmarkspack_1.0_iphoneos-arm.deb
-Size: 190880
-MD5sum: ef62c8e8ac53de65d3f8982a68a94c41
-Description: World LandMarks Pack - of icons for lockglyph
-Maintainer: iC <apt@macciti.com>
-Author: Jamshush <hastepsd@gmail.com>
-Depiction: https://cydia.saurik.com/macciti/pages/worldlandmarkspack/index.php
-tag: cydia::commercial
 
 Package: com.macciti.wtfinstagram
 Name: WTFinstagram
