@@ -32396,6 +32396,7 @@ MD5sum: d2c7550d0c733f395055612838aabd68
 Description: Applocker is a locking solution to your device! You can lock apps, folders, home screen layout and even more with Applocker Lock apps directly from your home screen, just enter jiggle mode and tap the lock button.
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 08ad7342e404913e2cf13eb6ec6651180ecf1ce32af6766ccc52cc518aa0707e
 
 Package: com.modmyi.atarizeppelinpack2
 Name: Atari Zeppelin Pack
@@ -32784,6 +32785,7 @@ MD5sum: ab0818419f338cc743cb2b830146c91d
 Description: Fully customize your icon layout! Have you ever run into an issue with space in your SpringBoard or are you just bored with the default layout of icons? Well, Boxy can fix both of those issues. Your icon layout is fully customizable with the variety of options configurable in the settings pane. You can adjust how far each icon is from each edge of the screen and how far each icon is from one another. These combinations can provide some pretty cool layouts. If you aren't the creative type or don't want to be bothered with testing each setting, there are presets available for you to choose from. You can align you icons in the the top half of the screen or the bottom half or even the top corners of the screen. Anything is really possible.Boxy also allows for more space for Dashboard X widgets. You no longer have to compromise with which apps you want on the home page of your SpringBoard, you can now have all of them on the screen plus your favorite widgets! Use it however you like, if you find a use for it that I didn't mention please don't hesitate to contact me and let me know, I love hearing feedback about my tweaks. Boxy is fully compatible with all current devices!
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: aed8556fcf31d6e39dd074a8dfe9fa17cd1dcac97e736a492fedcf43c4c27e80
 
 Package: com.modmyi.brandsonicwebmobile
 Name: Brandsonic Web mobile
@@ -33506,6 +33508,7 @@ MD5sum: 3a268dccfb8867e353c33cff4897dd04
 Description:E is for Ezra
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: f2779477b806b7c1b091030c55d98c17731b54a5ef7fab1a440806fb13fefaba
 
 Package: com.modmyi.falloutforzeppelin
 Name: Fallout for Zeppelin
@@ -33698,6 +33701,7 @@ MD5sum: f9c59c3988b463078e5b963c62a56efd
 Description:Glasklart is swedish, it means clear as glass
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 3986da731fd18dfd5bdf15451f1a03f4dca00aa2353f589abf8e5d71f183960a
 
 Package: com.modmyi.glasklarthd
 Name: Glasklart
@@ -35177,6 +35181,7 @@ MD5sum: 107af58894d87513d2fe507e5d2d9084
 Description: From the creator of 1Derland, 1derful HD and co-creator of the E is for Ezra charity themes comes RocketSauce
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 849c51ccc4d767f7c898ff86f81457e316bbd1b0e924612e3387c37290a04b94
 
 Package: com.modmyi.rollingstones4alkaline
 Name: Rolling Stones 4 Alkaline
@@ -35881,6 +35886,7 @@ MD5sum: 50ba8d67abbf23940fd3e2f1078eb005
 Description: &lt;p&gt;&lt;span&gt;Vinculum is heavily inspired by the new Google Nexus 7.0&lt;/span&gt;&lt;br /&gt;&lt;span&gt;Nougat app drawer. A simple swipe up on the dock and you have access&lt;/span&gt;&lt;br /&gt;&lt;span&gt;to all of your installed applications. You can hold down on any&lt;/span&gt;&lt;br /&gt;&lt;span&gt;application on the SpringBoard and hide it immediately, no respring&lt;/span&gt;&lt;br /&gt;&lt;span&gt;required. You can even hide/unhide any application from within the&lt;/span&gt;&lt;br /&gt;&lt;span&gt;settings as well. Vinculum is highly configurable and super easy to&lt;/span&gt;&lt;br /&gt;&lt;span&gt;use&lt;/span&gt;&lt;/p&gt;
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 tag: cydia::commercial
+SHA256: 6cf29e378897e80e5c601db3e717dd8fce94be416eb70947fe38d9ba3bcd9e18
 
 Package: com.modmyi.watchdogszeppelinpack
 Name: Watch Dogs Zeppelin Pack
