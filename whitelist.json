@@ -183,5 +183,6 @@
 	"com.modmyi.libswift4",
 	"org.coolstar.llvm-clang64",
 	"ws.hbang.common",
-	"jp.ashikase.techsupport"
+	"jp.ashikase.techsupport",
+	"org.theos.dependencies"
 ]
