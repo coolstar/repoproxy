@@ -680,8 +680,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Matthias Ringwald <tickets@btstack.uservoice.com>
 Tag: role::developer, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=btstackData
-dev: mringwald
 breaks: co.cocoanuts.celeste (<= 0.90)
+dev: mringwald
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=btstackData
 SHA256: 2f2f03f3e36047167c18cdf6d6c62dc8affc6b7b2237719ce592a5311b833c5b
 
@@ -6426,25 +6426,25 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=noblurfront
 SHA256: f2db09c1bb696404310fc84ddaed8b1c27fd189c6f3348c2dc26679b425b08a2
 
 Package: com.cydiageek.nomoredisabled
-Version: 1.0.0
+Version: 1.0.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nomoredisabled_1.0.0.deb
-Size: 3906
-Installed-Size: 167
-MD5sum: 2ce4cd832c68a1cac0596b894d20d87d
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nomoredisabled_1.0.1.deb
+Size: 7910
+Installed-Size: 180
+MD5sum: cec2a94d2d093a643f77e403cc3ca3e5
 Name: NoMoreDisabled
 Description: Prevent Permanent Passcode Locking by Mistake!
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CydiaGeek <lucaluca86@aol.com>
-Tag: purpose::extension, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
 dev: lucaluca86
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nomoredisabledDp
-SHA256: d880df1f57ec92b89dc0678f3575549baffb98a29c90a1fea5a3a0b6ebbe53f5
+SHA256: 74300487d37e72a6eba869eccec4dcced10d1813709402d0d938df112a0b9c67
 
 Package: com.cydiageek.nomusiclabel
 Version: 1.0.3
@@ -7145,6 +7145,27 @@ dev: lucaluca86
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentweatherDp
 SHA256: 7a145b2b2529d64a0580db8df6bd815b8828f9009e4c19ec697504d067be672c
 
+Package: com.cydiageek.unblurstatusbarmaps
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 10.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/unblurstatusbarmaps_1.0.0.deb
+Size: 7602
+Installed-Size: 190
+MD5sum: d525d7ebd76cd71018fe6861a23eea37
+Name: UnblurStatusBarMaps
+Description: Unblurred Maps StatusBar!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unblurstatusbarmapsDp
+dev: lucaluca86
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unblurstatusbarmapsDp
+SHA256: fe60d3fee1fd0490d170cf30199bf878df107b354bc66a99fcd62d124dda7586
+
 Package: com.cydiageek.viewbatterybold
 Version: 0.0.1-2
 Priority: optional
@@ -7523,15 +7544,15 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smooth3dDp
 SHA256: 60e9916d98bf818565337d27b662005ca957e7d7a2aae211f605d01f4950ccb3
 
 Package: com.deniu.daniutweak
-Version: 2.1.7.2
+Version: 2.1.8
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/daniu_2.1.7.2.deb
-Size: 9380358
-Installed-Size: 35923
-MD5sum: 6075dda341185e6393cbc43c9bb6fea2
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/daniu_2.1.8.deb
+Size: 9378810
+Installed-Size: 35913
+MD5sum: 7aa32e287687fe45868804faa04ebfb5
 Name: Daniu大牛
 Icon: file:///Applications/DNCube.app/AppIcon60x60@2x.png
 Description: Daniu大牛，让你的手机应用更有趣。以模拟位置为核心功能，附加了运动模拟、拍照模拟、WiFi模拟、WiFi密码查看等功能，帮助用户发现手机更多有趣的功能，官方网站：www.daniu.net。
@@ -7541,7 +7562,7 @@ Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, c
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daniuDp
 dev: daniu
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=daniuDp
-SHA256: 3bf3583c7c91cdfc601ee394dad4f8c32ec41b1b932a5b8c913b4a33d5fee2b8
+SHA256: f90e59d8cc70681d596fbec6a3a4994fec8c44b0dd87392ce1f19bd8dbda8a05
 
 Package: com.devastator234.airplanemodenotif
 Version: 1.0.1
@@ -9024,6 +9045,28 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ytcopydesc
 dev: fahadaljuwausri
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ytcopydescriptionDp
 SHA256: 306852837626d79637f084c7f6c947199f88ad5bb7c89be1fd5ed168f5e38e23
+
+Package: com.fahlnbg.minixs
+Version: 1.5
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/minixs_1.5.deb
+Size: 214264
+Installed-Size: 618
+MD5sum: ae7c37d7a25166ebaab704184a008fa4
+Name: MiniXS
+Icon: file:///Library/PreferenceBundles/MiniXSpref.bundle/icon@3x.png
+Description: simulate iPhone X status on non-iphone X.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: @fahlnbg <fahlnbg@gmail.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minixsDp
+dev: fahlnbg
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=minixsDp
+SHA256: 0d9e572c59c757f0d61eab85c449e245d8748b2635a606aba5680dcf33ad5fda
 
 Package: com.fakeloca.app
 Version: 2.0
@@ -11052,42 +11095,42 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=notrendingD
 SHA256: 5fd0907dcdcaf00a2f22221ddc640ea0518b7bf2e85cd10f3210af0b71fbedce
 
 Package: com.iadam1n.statusfolder
-Version: 1.0.1
+Version: 1.0.2
 Section: Tweaks
 Maintainer: thebigboss.org <http://thebigboss.org>
 Depends: firmware (>= 9.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/statusfolder_1.0.1.deb
-Size: 3138
-Installed-Size: 115
-MD5sum: 23856ae94dd401a9392732782f7969b8
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/statusfolder_1.0.2.deb
+Size: 3658
+Installed-Size: 171
+MD5sum: bc537e831f0b508f5d288019f28452a9
 Name: StatusFolder
 Description: Show status bar in folders.
 Author: iAdam1n <adaminsull@me.com>
-Tag: purpose::extension, compatible::ios9, compatible::ios10
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statusfolderDp
 dev: iadam1n
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statusfolderDp
-SHA256: d3674e3c6fa94e5ea098451a2c81180cae17b0c4f1c9ee5ce92ad2a1a4e22968
+SHA256: 617c16bc455f1edf7fec3d740a1a98fcae549292e1767d13e8923c5145d549aa
 
 Package: com.iadam1n.statusswitcher
-Version: 1.1-1
+Version: 1.1.1
 Section: Tweaks
 Maintainer: thebigboss.org <http://thebigboss.org>
 Depends: firmware (>= 9.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/statusswitcher_1.1-1.deb
-Size: 3526
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/statusswitcher_1.1.1.deb
+Size: 4012
 Installed-Size: 132
-MD5sum: 3746ac26dbff775f7f27aabd6c11099e
+MD5sum: 4cda068823f8193d1c74cea7b46ecd77
 Name: StatusSwitcher
 Description: Show status bar in app switcher.
 Author: iAdam1n and andywiik <adaminsull@me.com>
-Tag: purpose::extension, compatible::ios9, compatible::ios10
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statusswitcherDp
 dev: iadam1n
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=statusswitcherDp
-SHA256: 7c1ed0d4b4cb3bfc559b64ed1380a36e16b8ef409d930010492464b80e4071fe
+SHA256: 67086d9aacb61cea269f7da472af7eb1ccd6364cbab81c3a8ce670d0dec7d0c2
 
 Package: com.iakd.hapticmusic
 Version: 0.1-24
@@ -13144,8 +13187,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: iTheGentle <v70@hotmail.com>
 Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nophamiforwhatsappDp
-dev: ithegentle
 conflict: com.ithegentle.phLoader
+dev: ithegentle
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nophamiforwhatsappDp
 SHA256: 9709bdb63727ad157ba173b9976916de3590948af2f7b224fbd0395acbab0aa5
 
@@ -13187,8 +13230,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: iTheGentle <v70@hotmail.com>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapcheckDp
-dev: ithegentle
 conflict: com.ithegentle.phLoader
+dev: ithegentle
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapcheckDp
 SHA256: 5f9ea8afca6d68f3c552610878a622307782f5c6e424d5eefef60cfb784b0a70
 
@@ -14665,22 +14708,22 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Karwan BK <Karwanbk@yahoo.com>
 Tag: purpose::extension, role::enduser, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapfrogiDp
-dev: karwanbk
 conflict: com.ithegentle.phLoader
+dev: karwanbk
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snapfrogiDp
 SHA256: 2ccdf27b84f00469031cc5d5b0884b88e255145bd04990f45af949fc8c3c0e64
 
 Package: com.kurrt.messagebubbles
-Version: 0.2.2
+Version: 0.2.4
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), jp.ashikase.libpackageinfo, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Depends: mobilesubstrate, firmware (>= 11.0), org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), jp.ashikase.libpackageinfo, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/messagebubbles_0.2.2.deb
-Size: 76724
-Installed-Size: 521
-MD5sum: 458424f96fb4daacc559c8a727f0790a
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/messagebubbles_0.2.4.deb
+Size: 87244
+Installed-Size: 684
+MD5sum: 5c65dad7807798fdb9034f97eb17a409
 Name: MessageBubbles
 Icon: file:///Library/PreferenceBundles/MessageBubblesPrefs.bundle/icons/icon@2x.png
 Description: Chat bubbles notification animation.
@@ -14690,19 +14733,19 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=messagebubblesDp
 dev: kurrt
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=messagebubblesDp
-SHA256: 3eb77f6b1c5af5a066221e57fa2ff2b5e509835f75950bb091f51116630e2a8b
+SHA256: f71ee88b8d579e1d957de24b7ec8a08d74ac4dcf142ce8f2e4c52df95b725f71
 
 Package: com.kurrt.safeshutdown
-Version: 1.40
+Version: 1.41
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11), jp.ashikase.libpackageinfo
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/safeshutdown_1.40.deb
-Size: 316078
-Installed-Size: 850
-MD5sum: 1ed3f64b34d3eb0e956eef0cc6e3854c
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/safeshutdown_1.41.deb
+Size: 329362
+Installed-Size: 1050
+MD5sum: ca3b4a767b564a55f0ee1e76eb457ac3
 Name: SafeShutdown
 Icon: file:///Library/PreferenceBundles/SafeShutdownPrefs.bundle/icons/safeshutdown@2x.png
 Description: Avoid re-jailbreaking when battery runs out.
@@ -14712,7 +14755,7 @@ Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
 dev: kurrt
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safeshutdownDp
-SHA256: f36010f3df05fa03d9e554921e1ba2e17e216c9c21b03c8f89a4b47d8c212f5f
+SHA256: 2cbffec1158bce8219465a71de31753ffe3667484d4839b4b88d8958b3221ac5
 
 Package: com.kushy.firstaid
 Version: 1.0.3
@@ -15578,17 +15621,17 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=photostimel
 SHA256: 2a8e05ea3248b0058e435352cf37baecea1fa7451598f1d948d1f1fccec8c54e
 
 Package: com.locaspriti.app
-Version: 4.56
+Version: 4.59
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: app.weiphone.locaspriti.app, com.locaspriti.app, cn.tinyapps.xgps, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.xgpslite, cn.tinyapps.xgpsfree, app.weiphone.txyapp85.lib, app.weiphone.txyapp.app, com.txyapp.app, app.weiphone.locationholic.rwx, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, rwx.appvv, app.weiphone.sxtb.rwx, com.sxtb.rwx.armv6, com.txyapp.new, app.weiphone.txyapp.new, com.txyapp.gaode, app.weiphone.txyapp.gaode, com.yinlian.txytweak, com.skywalk.skywalkerbasetweak, app.weiphone.skywalk.skywalkerbasetweak, app.weiphone.lj.anylocation, com.lj.anylocation, net.85819.ios.otrlocation, app.weiphone.locaspritiag.app, com.locaspritiag.app, app.weiphone.abc.txyapp.gaode, app.weiphone.fakeloca.app, app.weiphone.locaspriti.register, apt.locaspriti.app, aptag.locaspriti.app, com.fakeloca.app
 Replaces: app.weiphone.locaspriti.app, com.locaspriti.app, cn.tinyapps.xgps, cn.tinyapps.location360, cn.tinyapps.location360pro, cn.tinyapps.location360proex, cn.tinyapps.xgpslite, cn.tinyapps.xgpsfree,app.weiphone.txyapp85.lib, app.weiphone.txyapp.app, com.txyapp.app, app.weiphone.locationholic.rwx, com.locationholic.locationholic.googlemaps, app.weiphone.locationholic.googlemaps, app.weiphone.locationholic.locationholicsaojie.baidu, com.locationholic.locationholicsaojie.baidu, com.sxtb.rwx, app.weiphone.sxtb.rwx,rwx.appvv, com.sxtb.rwx.armv6, com.txyapp.new, app.weiphone.txyapp.new, com.txyapp.gaode, app.weiphone.txyapp.gaode, com.yinlian.txytweak, com.skywalk.skywalkerbasetweak, app.weiphone.skywalk.skywalkerbasetweak, app.weiphone.lj.anylocation, com.lj.anylocation, net.85819.ios.otrlocation, app.weiphone.locaspritiag.app, com.locaspritiag.app, app.weiphone.abc.txyapp.gaode, app.weiphone.fakeloca.app, app.weiphone.locaspriti.register, apt.locaspriti.app, aptag.locaspriti.app, com.fakeloca.app
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locaspriti_4.56.deb
-Size: 11030538
-Installed-Size: 32612
-MD5sum: 92d7e232cb545bc384dd407621e7ec01
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locaspriti_4.59.deb
+Size: 11201592
+Installed-Size: 33711
+MD5sum: b5af27008b6f6e38c3fd710a5cab2f0a
 Name: 位置随心行(虚拟定位专用)世界任我行,天下游不停,易天行,神行者,Fake GPS,筋斗云
 Icon: file:///Applications/locaspriti.app/AppIcon29x29@2x.png
 Description: 心行是一款虚拟定位软件支持伪装地理位置。免费试用,支持导航和直线双扫街核心，
@@ -15598,7 +15641,7 @@ Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locaspritiDp
 dev: tinyapps
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locaspritiDp
-SHA256: 85298aa1c5ebc1c8d05f4fbbfdd5f435eba925db08d281da02af8817ecc50dbe
+SHA256: 005b8452b25108ddd13f47faf049c2feaba52402ea4bd336bcef6b081459fb00
 
 Package: com.ludvigeriksson.twitterthemetoggler
 Version: 1.0
@@ -21247,8 +21290,8 @@ Description: Mod Manager for World of Tanks Blitz
 Author: subdiox <subdiox@gmail.com>
 Tag: purpose::uikit
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blitzmodderDp
-dev: subdiox
 breaks: org.coolstar.stash933
+dev: subdiox
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blitzmodderDp
 SHA256: 934599a68176a7f9f0f2c99f49a14374c74d6f45103da6697f31200c5c83ca3b
 
@@ -21581,6 +21624,49 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxviptweak
 dev: wxviporg
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wxviptweakDp
 SHA256: 39a50dc3f81836cfd4b7516fde504cc8d38c58c15f0f8ef75172f1de7d4fdf2a
+
+Package: com.teunstrik.inotificate
+Version: 0.0.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), preferenceloader, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/inotificate_0.0.2.deb
+Size: 32770
+Installed-Size: 333
+MD5sum: f687ca82bbda2daf7f1b27a01358b056
+Name: iNotificate
+Icon: file:///Library/PreferenceBundles/iNotificate.bundle/Icon@3x.png
+Description: web notifications API port for Safari
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Teun Strik <teunstrik@yahoo.nl>
+Tag: purpose::extension, compatible::ios10
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=inotificateDp
+dev: teunstrik
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=inotificateDp
+SHA256: 2e5f97403408d86610a5be42d45e667e540fc81c036053c22ea959f478a504be
+
+Package: com.teunstrik.remaining-charge-time
+Version: 0.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/remainingchargetime_0.0.4.deb
+Size: 4796
+Installed-Size: 116
+MD5sum: e3d09f131f89e01cfedf9f54fbf8c44a
+Name: Remaining Charge Time
+Description: Displays charge time estimate in lock screen
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Teun Strik <teunstrik@yahoo.nl>
+Tag: purpose::extension, compatible::ios10
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=remainingchargetimeDp
+dev: teunstrik
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=remainingchargetimeDp
+SHA256: fde64bd48a583ab59eeb61a84351c99f752dd85bb1065335762e84821a48ce18
 
 Package: com.thebigboss.kurdjokertheme
 Version: 1.0
@@ -25902,16 +25988,16 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
 SHA256: ec0c4588103cb8137acb753775749ed90396ad1f6b6c3c0ff2150bc10a08cf27
 
 Package: me.liuming.locationexpert
-Version: 2.5.2
+Version: 2.5.3
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locationexpert_2.5.2.deb
-Size: 2736064
-Installed-Size: 10114
-MD5sum: 42ceed13cd0cd4b849a2b6ad9bb191e8
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locationexpert_2.5.3.deb
+Size: 2820080
+Installed-Size: 10414
+MD5sum: 0b0837be39a304c209f98678b0fc27d4
 Name: 虚拟定位专家(GPS Faker Expert)-模拟导航，扫街
 Icon: file:///Applications/LocationExpert.app/AppIcon29x29@2x.png
 Description: 虚拟定位专家，模拟导航和GPS定位，微信吸粉和查找附近好友神器，Uber、滴滴虚拟驾驶导航。
@@ -25921,7 +26007,7 @@ Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, comp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationexpertDp
 dev: liuming
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationexpertDp
-SHA256: 482d885e490c21dbe52e69b3a1efed4a4d821a71dfbd5cd18bb6aaca3af48406
+SHA256: 6b3d0bba3f820f91a01d557a30408286fb63e3a50e7ecbc3cc41a313a1759858
 
 Package: me.liuming.locationhelper
 Version: 5.3.6
@@ -27745,8 +27831,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 Tag: purpose::console, cydia::obsolete
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
-dev: coolstar
 breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
+dev: coolstar
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 SHA256: 5039cdce59d916fd7d1072ea96d16344962dfbe52f008d8b7cd4e8ccc3c71bf0
 
@@ -27768,8 +27854,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
 Tag: purpose::console, cydia::obsolete
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
-dev: coolstar
 breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
+dev: coolstar
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 SHA256: 3f8ca53ff4cc6ddf7a621d67780dd4b348c1d4eee6455a729b1ac52524716689
 
@@ -28315,8 +28401,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: PoomSmart <poomst@hotmail.com>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appcolorcloseDp
-dev: poomst
 http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=appcolorcloseDp
+dev: poomst
 SHA256: 60f9206a159ed64f6d43f481df6912f132b57a7d53ed5ae0c27f16932faf9278
 
 Package: org.thebigboss.appcon
@@ -28438,8 +28524,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: PoomSmart <poomst@hotmail.com>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchassistivetouchDp
-dev: poomst
 http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=flipswitchassistivetouchDp
+dev: poomst
 SHA256: f692cfdf9592a7f2ff98669690a62d4d421de4d9953537185cb01a17efc49e4f
 
 Package: org.thebigboss.audioout
@@ -30645,8 +30731,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: PoomSmart <poomst@hotmail.com>
 Tag: purpose::extension, role::enduser, ios7support::1, ios8support::1
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nouppercasetableDp
-dev: poomst
 http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=nouppercasetableDp
+dev: poomst
 SHA256: 6782856c46f714b8c601d1b3bbfe70ce96c3c7ef9f011f3115b03554a583d47e
 
 Package: org.thebigboss.novolumehud
@@ -30769,8 +30855,8 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: PoomSmart <poomst@hotmail.com>
 Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phototorchDp
-dev: poomst
 http: //moreinfo.thebigboss.org/moreinfo/depiction.php?file=phototorchDp
+dev: poomst
 SHA256: e73d0f3b78a7f44ed5fe6c372b2313abe271a819bcf8af6b32d1f21592e2c237
 
 Package: org.thebigboss.pmreally
