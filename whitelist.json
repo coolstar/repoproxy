@@ -185,5 +185,6 @@
 	"ws.hbang.common",
 	"jp.ashikase.techsupport",
 	"org.theos.dependencies",
-	"jp.ashikase.libcrashreport"
+	"jp.ashikase.libcrashreport",
+	"jp.ashikase.libsymbolicate"
 ]

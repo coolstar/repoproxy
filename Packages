@@ -25483,6 +25483,27 @@ dev: ashikase
 homepage: http://github.com/ashikase/libpackageinfo
 SHA256: 4ad8e1e5995e13d94ed110d9af48dbeb7be51f674173678fabac07f7df4fb548
 
+Package: jp.ashikase.libsymbolicate
+Version: 1.9.0-1
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>=4.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/jp.ashikase.libsymbolicate_1.9.0-1_iphoneos-arm.deb
+Size: 25232
+Installed-Size: 200
+MD5sum: 132bba9ec88bed1e9c286af6e0a9dbee
+Name: libsymbolicate
+Description: Library to symbolicate memory addresses.
+    This library is based upon CrashReporter by kennytm.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Tag: role::developer
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsymbolicateData
+dev: ashikase
+homepage: http://github.com/ashikase/libsymbolicate
+SHA256: b59c2b7b14c8f0939899f8043195890b66d092c9a5778543ca7c9c6ab2bd1519
+
 Package: jp.ashikase.mousesupport
 Version: 1:1.0
 Section: Tweaks
