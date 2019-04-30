@@ -25441,6 +25441,28 @@ dev: ashikase
 homepage: http://github/ashikase/DedupeVariants/
 SHA256: aa7ab78190dfb837206d7d20de5aead81eb997acf3d8dc96c52f8968111a019c
 
+Package: jp.ashikase.libcrashreport
+Version: 1.1.0-1
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: firmware (>= 3.0)
+Depends: jp.ashikase.libsymbolicate (>= 1.9.0), jp.ashikase.libpackageinfo
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/jp.ashikase.libcrashreport_1.1.0-1_iphoneos-arm.deb
+Size: 30828
+Installed-Size: 196
+MD5sum: 5361d4f5e6b5dc4c3be513f51c3dbe42
+Name: libcrashreport
+Description: Library to parse and symbolicate crash reports.
+    This library is based upon CrashReporter by kennytm.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Lance Fetters (ashikase) <support@ashikase.com>
+Tag: role::developer
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcrashreportData
+dev: ashikase
+homepage: http://github.com/ashikase/libcrashreport
+SHA256: a826702e56c6ba6c6604a6798e693bef5e9f0cfcf9659c5d5287633109cbd97f
+
 Package: jp.ashikase.libpackageinfo
 Version: 1.1.0.1-1
 Section: Development

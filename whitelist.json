@@ -184,5 +184,6 @@
 	"org.coolstar.llvm-clang64",
 	"ws.hbang.common",
 	"jp.ashikase.techsupport",
-	"org.theos.dependencies"
+	"org.theos.dependencies",
+	"jp.ashikase.libcrashreport"
 ]
