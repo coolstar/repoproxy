@@ -186,5 +186,6 @@
 	"jp.ashikase.techsupport",
 	"org.theos.dependencies",
 	"jp.ashikase.libcrashreport",
-	"jp.ashikase.libsymbolicate"
+	"jp.ashikase.libsymbolicate",
+	"com.iky1e.swipeselection"
 ]
