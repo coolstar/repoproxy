@@ -517,15 +517,15 @@ dev: kirara
 SHA256: 72e80c48438d3d6f0d1847e9ffe4c9a9c6edfdb2d87d25e348cf29fa20605957
 
 Package: ca.ndoizo.bolders
-Version: 1.2
+Version: 1.2.2-2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.chpwn.iconsupport, preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bolders_1.2.deb
-Size: 63928
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/bolders_1.2.2-2.deb
+Size: 66614
 Installed-Size: 488
-MD5sum: 39ddb0ed9ed8996523f300c179f927fb
+MD5sum: f44a4f549c31c5b4f8a6c20de8f49190
 Name: Bolders
 Icon: file:///Library/PreferenceBundles/BoldersPrefs.bundle/Icon/Icon@2x.png
 Description: Bigger bolder folders
@@ -535,7 +535,7 @@ Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boldersDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=boldersDp
 dev: candoizo
-SHA256: 34bfb2bf5ce516ab275085976bae5901dadea823dd593943173a1ebe2228fce8
+SHA256: 0a8215038f48d7f9c6717ffd9ebdba4ab2b469fa1892051d72ff99f867a08aed
 
 Package: ca.ndoizo.castro
 Version: 1.0.2
@@ -681,8 +681,8 @@ Author: Matthias Ringwald <tickets@btstack.uservoice.com>
 Tag: role::developer, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=btstackData
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=btstackData
-breaks: co.cocoanuts.celeste (<= 0.90)
 dev: mringwald
+breaks: co.cocoanuts.celeste (<= 0.90)
 SHA256: 2f2f03f3e36047167c18cdf6d6c62dc8affc6b7b2237719ce592a5311b833c5b
 
 Package: ch.ringwald.hidsupport
@@ -1433,6 +1433,28 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bbmeasyDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bbmeasyDp
 dev: ahmedbafkir
 SHA256: 0106bdfd49f7b711235c45937fd6f7dc1c7e98fc402d7abb0c1053a3363f6ec5
+
+Package: com.ahmedbafkir.dleasy
+Version: 1.5.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dleasy_1.5.2.deb
+Size: 774858
+Installed-Size: 4612
+MD5sum: 2326fe17dc62290cea8c3112b572873f
+Name: DLEasy
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@2x.png
+Description: Download images & videos from social apps easily!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Ahmed Bafkir <prooxy0@gmail.com>
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dleasyDp
+dev: ahmedbafkir
+SHA256: 1890ddea1997c81ca12769c4d63e181e29d533bbd3fccb253d819c0018d45db2
 
 Package: com.ahmedbafkir.snapnight
 Version: 1.3.2
@@ -2676,25 +2698,25 @@ dev: brunonfl
 SHA256: f9cba36626fd2caef6bfbec21c59e3e2e5afdd2d2fb664a5d8a4177974b10ae8
 
 Package: com.brunonfl.wicellswitcher
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware(>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ws.hbang.common (>= 1.11)
+Depends: firmware(>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wicellswitcher_1.0.deb
-Size: 122366
-Installed-Size: 562
-MD5sum: a4753379186063481bde555fd3ef4b2b
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/wicellswitcher_1.1.deb
+Size: 434650
+Installed-Size: 875
+MD5sum: ff9bb537fdea6ed81652194d184211e6
 Name: WiCellSwitcher
 Icon: file:///Library/PreferenceBundles/WiCellSwitcherPrefs.bundle/WiCellSwitcher.png
 Description: Switch between Wi-Fi and Cellular the Smart Way!
 Author: Bruno Andrade <brubiluco@globo.com>
-Tag: purpose::extension, compatible::ios12
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wicellswitcherDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wicellswitcherDp
 sileodepiction: https://brunonfl.github.io/depictions/com.brunonfl.wicellswitcher/SileoDepiction.json
 dev: brunonfl
-SHA256: b154080c71f9d46e88a8c04882d191d7d9dffbba1e96d83279c62875254e3982
+SHA256: 5dcfb699829e852ae7538db11df1c1c01361b7603991fe232692cf4b9de11279
 
 Package: com.brycedev.convos
 Version: 1.0-1
@@ -6118,16 +6140,16 @@ dev: lucaluca86
 SHA256: 9ac51d934c81bdc08096833bf97e152951348a04eecadf91fb020e2a3244d6f6
 
 Package: com.cydiageek.marina
-Version: 1.0.9
+Version: 1.1.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/marina_1.0.9.deb
-Size: 73706
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/marina_1.1.1.deb
+Size: 73900
 Installed-Size: 579
-MD5sum: 798a899410d831f5405ef1d640a145d1
+MD5sum: 1ed3c01e319ac2be58bb3ae1eb3caf1c
 Name: Marina
 Icon: file:///Library/PreferenceBundles/Marina.bundle/Marina@2x.png
 Description: Change the Numbers of the Icons of the Dock & More!
@@ -6137,7 +6159,7 @@ Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=marinaDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=marinaDp
 dev: lucaluca86
-SHA256: 95124894eba54883924a2280103bc507611430e5001d586e75da0315ea7f3bc8
+SHA256: ac7125c027528348a35a9b0a307f926f66ec0becd1f8ad1ab5d805755b014543
 
 Package: com.cydiageek.morelinesnotifications
 Version: 1.0.0-5
@@ -8852,6 +8874,28 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onlinenotif
 dev: f0u4d
 SHA256: 6f9df208c09d6a2c470150d085b61914e5580a35a3cd03572461fcdf72579b9a
 
+Package: com.f0u4d.stalky
+Version: 4.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.0.11), com.rpetrich.rocketbootstrap
+Conflicts: com.f0u4d.stalkybeta
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/stalky_4.0.1.deb
+Size: 3507390
+Installed-Size: 17412
+MD5sum: de299fb858b78507fb806f67f4a5ed33
+Name: Stalky
+Icon: file:///Library/Application%20Support/Stalky/FRAssets.bundle/Preferences@3x.png
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Fouad Raheb <fouad.raheb@gmail.com>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stalkyDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stalkyDp
+dev: f0u4d
+SHA256: 20537149fb6a67d63044c1f21ac8877824a635ff84f5b6af3948f4cf0be3e4ba
+
 Package: com.f0u4d.watusitools
 Version: 2.0.9
 Section: Development
@@ -9239,24 +9283,24 @@ dev: frozenpenguin
 SHA256: 5e18c44265f11d57f6919c48edcbd6b36fc846f57e2436b6235bd3277eccfdd4
 
 Package: com.fpt.predictionshortcuts
-Version: 1.6.1
+Version: 1.6.2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), preferenceloader
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/predictionshortcuts_1.6.1.deb
-Size: 79264
-Installed-Size: 476
-MD5sum: b3e438758f483cc783a7cc212cae4887
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/predictionshortcuts_1.6.2.deb
+Size: 90354
+Installed-Size: 642
+MD5sum: cd013bd50dd4a6229c064cf03c88c269
 Name: PredictionShortcuts
 Icon: file:///Library/PreferenceBundles/predictionshortcuts.bundle/icon@2x.png
-Description: copy, cut, paste buttons above keyboard
+Description: Shortcuts above the keyboard.
 Author: Frozen Penguin <penguins_can_fly@live.com>
-Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=predictionshortcutsDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=predictionshortcutsDp
 dev: frozenpenguin
-SHA256: 3becb02da1254bc1217b21975ed4649dcd17f6112e9764820c0f507ac05e579a
+SHA256: abf7e8f42612d229996eaeeaf9faf7684b297d123afc9d64a9c891c23a669483
 
 Package: com.fpt.privatemessage
 Version: 1.0.0
@@ -9278,15 +9322,15 @@ dev: frozenpenguin
 SHA256: 72f7f83eb6f5eff8f4d9b7bd4a6d310a017e646aa67bca96caf8f6eefd73f21d
 
 Package: com.fpt.saw
-Version: 1.3.1
+Version: 1.3.3
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, applist, com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/saw_1.3.1.deb
-Size: 732480
-Installed-Size: 1815
-MD5sum: cd2e304e9e982beb73519752c99029fa
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/saw_1.3.3.deb
+Size: 733994
+Installed-Size: 1812
+MD5sum: 44a82b6c81d49b6a39c1756a483ed940
 Name: Saw
 Icon: file:///Library/PreferenceBundles/sawprefs.bundle/icon@2x.png
 Description: Cuts off useless space below the tab bar in apps. iOS 11 and iPhone X only.
@@ -9295,7 +9339,7 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sawDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sawDp
 dev: frozenpenguin
-SHA256: 2f937bdcc3810ddb2b634b9b5b2bd79c16db28f1baa1293eeed95572b86ed2c0
+SHA256: 4b6fec026268b9d464a801ba873f69b42f4ae575d069158deef8e8eb633458c5
 
 Package: com.fpt.spotty
 Version: 1.6.0
@@ -11429,6 +11473,28 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=badgecleane
 dev: ichitaso
 SHA256: 6f69be6a114cc3218088e32a6b7f6a702c584eab5fd472eec17e0b112f9041f7
 
+Package: com.ichitaso.brightnessactivatorpro2
+Version: 1.0-9
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate, libactivator, preferenceloader, applist
+Conflicts: com.ichitaso.brightnessactivatorpro
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.ichitaso.brightnessactivatorpro2_v1.0-9.deb
+Size: 168050
+Installed-Size: 597
+MD5sum: 8245ba0be5d5f6c9df5142fedbc09922
+Name: Brightness Activator Pro 2 (iOS8 to 11)
+Icon: file:///Library/PreferenceBundles/BrightnessActivatorPro2.bundle/BAPIcon@2x.png
+Description: adjust brightness by swipe up and down
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: ichitaso <willfeeltips+bapro@gmail.com>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=brightnessactivatorpro2Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=brightnessactivatorpro2Dp
+dev: ichitaso
+SHA256: 490d102311ac43214551f9706783d7a25f2f48386c8528aea59a09789ed19fe9
+
 Package: com.ichitaso.hidekbsettings
 Version: 1.0.1
 Section: Tweaks
@@ -11449,6 +11515,28 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidekbsett
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidekbsettingsDp
 dev: ichitaso
 SHA256: b879eda21f773c228e3998a16ac5d0442737f5e9a04e49e59befe9ee1978f3cb
+
+Package: com.ichitaso.killbackground10
+Version: 1.1.2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Conflicts: tw.garynil.swipehome, com.ichitaso.killbackground9, com.ichitaso.killbackground11, com.julioverne.sbcard
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.ichitaso.killbackground10_v1.1.2.deb
+Size: 319540
+Installed-Size: 1011
+MD5sum: 81827ba447ef7ea5a8246f0f0f73bc28
+Name: KillBackground10 (iOS 10 & 11)
+Icon: file:///Library/PreferenceBundles/KillBackground10Preferences.bundle/KB_icon@2x.png
+Description: Kill background apps with style for iOS 10 & 11!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: ichitaso <willfeeltips+kb10@gmail.com>
+Tag: cydia::commercial, purpose::extension, compatible::ios10, compatible::ios11
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=killbackground10Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=killbackground10Dp
+dev: ichitaso
+SHA256: 8cbfd2024d961d302428560451c38b546fa7aa388f43c17daec4c36f5f107e9a
 
 Package: com.ichitaso.locationservicecc
 Version: 0.1-4
@@ -11689,6 +11777,28 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=spotlightno
 dev: ichitaso
 SHA256: fab55cb72c8efe6ffb0273ab1c4874108548bfe3ba27a72db60aa5a8132e6fe3
 
+Package: com.ichitaso.textserchpro
+Version: 1.1.3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, com.a3tweaks.flipswitch
+Conflicts: com.ichitaso.textserchaction
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_com.ichitaso.textserchpro_v1.1.3.deb
+Size: 283166
+Installed-Size: 1108
+MD5sum: c4a889718981bc1e14ce0fa8520d626b
+Name: TextSearchPro
+Icon: file:///Library/PreferenceBundles/TextSearchPro.bundle/TextSearchPro@2x.png
+Description: Easy Quick Search of Text via Flipswitch.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: ichitaso <willfeeltips+tsp@gmail.com>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=textsearchproDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=textsearchproDp
+dev: ichitaso
+SHA256: 98ed102ad6276870500429aaddf106fd897b3d5ecfb0625cd7b4691ccb9213f3
+
 Package: com.ichitaso.uirotation9
 Version: 1.0.3
 Section: Tweaks
@@ -11834,16 +11944,16 @@ dev: idevicelover
 SHA256: 8add6caa353e8f31cc81bba64b39809de826349cb19dffcb296f9427b2881d3a
 
 Package: com.idevicelover.confirm2proceed2
-Version: 1.3
+Version: 1.4
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ws.hbang.common, com.rpetrich.rocketbootstrap
 Conflicts: com.idevicelover.confirm2proceed
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/confirm2proceed2_1.3.deb
-Size: 205464
-Installed-Size: 1212
-MD5sum: 97a9070a5999d33377622047590bcd3e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/confirm2proceed2_1.4.deb
+Size: 280932
+Installed-Size: 2012
+MD5sum: 7bf747111fe8baf66b14945208e444f6
 Name: Confirm2Proceed2
 Icon: file:///Library/PreferenceBundles/confirm2proceed2.bundle/icon@2x.png
 Description: confirm dialog for sms, calls, email & more.
@@ -11853,19 +11963,19 @@ Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, c
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirm2proceed2Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=confirm2proceed2Dp
 dev: idevicelover
-SHA256: 45de86a8526d44ec011c052c111acb787f46f679c946b0df4daa8f7f137d2e8d
+SHA256: 96d6a69554c13b20dffc64a7d6de192174e83c7f7cb870c6a68895067382e36d
 
 Package: com.idevicelover.no2theft2
-Version: 1.4
+Version: 1.5-1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.idevicelover.no2theft
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/no2theft2_1.4.deb
-Size: 141644
-Installed-Size: 801
-MD5sum: bbc4def8570b2c46796435b0c01a9403
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/no2theft2_1.5-1.deb
+Size: 150896
+Installed-Size: 928
+MD5sum: b4efbec790e5c83c9935d2295ea86494
 Name: No2Theft2
 Icon: file:///Library/PreferenceBundles/No2Theft2.bundle/icon@2x.png
 Description: No2Theft protects your phone from thieves!
@@ -11875,7 +11985,7 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=no2theft2Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=no2theft2Dp
 dev: idevicelover
-SHA256: 041e47c102e25e218ed8e1d620cfc30b7cac0cb7f1897a4610d51bd457a411a1
+SHA256: d5957169f549ce139aa2d88dfe6d9d6bac9187ec0371c9c77350499dcbe92854
 
 Package: com.idevicelover.socialdownloader
 Version: 3.5
@@ -12260,6 +12370,27 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=checkDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=checkDp
 dev: freerunnering
 SHA256: dac7fc1d63e314b5d052cc0c593913a8f67102306786c4ac0183cd7e6f39294b
+
+Package: com.iky1e.swipeselection
+Version: 1.5.2-1
+Section: Tweaks
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/swipeselection_1.5.2-1.deb
+Size: 11394
+Installed-Size: 132
+MD5sum: 823d5a4505c7e828c6ed4ee1cc7b338a
+Name: SwipeSelection
+Icon: file:///Library/PreferenceBundles/SwipeSelectionPro.bundle/SwipeSelectionPro@2x.png
+Description: keyboard swipes move cursor & select text
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+dev: freerunnering
+SHA256: d3aaa49a9d81aa1cfc07d00bac894624dfde24186d909df8eb8a512bfdf015b8
 
 Package: com.ilostfinder
 Version: 1.4.0-7
@@ -13326,23 +13457,23 @@ dev: jailbreak365
 SHA256: b542734ee37e0cab74e24c17235817ebd7ae6d1540558dc4790bd5338d753456
 
 Package: com.jailbreak365.safeccmodules
-Version: 1.3-3
+Version: 1.4-2
 Section: Addons (ControlCenter)
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ccmodules_1.3-3.deb
-Size: 1145858
-Installed-Size: 6321
-MD5sum: 22a8c9da104d620e93ef47c929c0009a
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/ccmodules_1.4-2.deb
+Size: 1090490
+Installed-Size: 4421
+MD5sum: 2347a58428adc72cf43f390894af050c
 Name: CCModules
-Description: Control center modules for iOS 11.
+Description: More control center modules for iOS 11/12
 Author: jailbreak365 <jailbreak365@mail.com>
-Tag: purpose::extension, compatible::ios11
+Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
 dev: jailbreak365
-SHA256: 1c452ba5a9069729ae901bbbcaee04b69b17e551debcfbe168d59a466ad1a7d0
+SHA256: 79d76e4149c0225cc32045aeaa632f24a337b2b57e97504750a4b279514a4db7
 
 Package: com.jake0oo0.noalertloop
 Version: 1.0.1-1
@@ -15131,16 +15262,16 @@ dev: lema
 SHA256: 1e06007a28c1e680e1ab66b28c44a472ce0f430b90ff00bd40c75e15a84ee882
 
 Package: com.lema.unicorn
-Version: 2.1
+Version: 2.2
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/unicorn_2.1.deb
-Size: 449790
-Installed-Size: 2184
-MD5sum: 1519ee10e73c9370db55aa29204518e0
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/unicorn_2.2.deb
+Size: 449510
+Installed-Size: 2124
+MD5sum: afd51f2d85cf4192129e359c15411735
 Name: Unicorn
 Description: Download TikTok Videos and many other enhancements!
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -15149,7 +15280,7 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unicornDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=unicornDp
 dev: lema
-SHA256: bce06b3506eff6913cd6c873fd809276e564a0516f35658265e7a4e11fe98b03
+SHA256: eada5a994d276f171d702066cfec47d806bb37c022d569acfeb79ef5175c4b5d
 
 Package: com.lheap.whatspad
 Version: 2.0
@@ -19950,16 +20081,16 @@ dev: stgardner4
 SHA256: 0d3846fa52d34cce269d854ca17dc144374089ed3265f5ee8ae04e43b30fe03d
 
 Package: com.samgisaninja.successionrestore
-Version: 1.1.6
+Version: 1.2.4
 Priority: optional
 Section: Utilities
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), firmware-sbin, rsync
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/successionrestore_1.1.6.deb
-Size: 2135070
-Installed-Size: 3020
-MD5sum: 10491b2c8eae3b299c491f0059d14ac9
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/successionrestore_1.2.4.deb
+Size: 764094
+Installed-Size: 1720
+MD5sum: f5ccbfccb1406e938057af342edeeccc
 Name: Succession
 Icon: file:///Applications/SuccessionRestore.app/AppIcon20x20@3x.png
 Description: Restore without updating via rootfilesystem DMG
@@ -19969,7 +20100,7 @@ Tag: purpose::uikit, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=successionrestoreDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=successionrestoreDp
 dev: stgardner4
-SHA256: e7673b1c272da57783f5bd54176ac3a5eb8ed7e5a7b4f2b9e3d89db001dd8493
+SHA256: 993949ad9688700c281aaf6495a65d54363a3cee28b11a562ea6ec7ed551dad3
 
 Package: com.samihagingi.spoof
 Version: 11.0
@@ -21222,8 +21353,8 @@ Author: subdiox <subdiox@gmail.com>
 Tag: purpose::uikit
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blitzmodderDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blitzmodderDp
-breaks: org.coolstar.stash933
 dev: subdiox
+breaks: org.coolstar.stash933
 SHA256: 934599a68176a7f9f0f2c99f49a14374c74d6f45103da6697f31200c5c83ca3b
 
 Package: com.sull.facebookmessengeressentials
@@ -21790,25 +21921,25 @@ dev: thecomputerwhisperer
 SHA256: be9f2dab35827f454ec50026778a14366f907a9ca5e69827338300f54e02a39a
 
 Package: com.theo78825.carplaylockout
-Version: 1.0
+Version: 1.0.1
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 7.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/carplaylockout_1.0.deb
-Size: 2754
-Installed-Size: 132
-MD5sum: de44a8fb5c823cbda9b75dbb93af37d4
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/carplaylockout_1.0.1.deb
+Size: 3228
+Installed-Size: 181
+MD5sum: ea063cf97384f2b8c9231bc35cfa8d18
 Name: CarPlay Lockout
 Description: Disable lockout when connecting to CarPlay unit.
 Sponsor: thebigboss.org <http://thebigboss.org>
 Author: theo78825 <samuel_is_great@hotmail.com>
-Tag: purpose::extension, compatible::ios10
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carplaylockoutDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carplaylockoutDp
 dev: theo78825
-SHA256: d4e6f6c8b4c18e6bff609306828b73f259427c156a72502a08140b7a806c3c96
+SHA256: bbf9a17c0704862106424e70aa3435bb8e4a9ef10d0b863399e1695ec4802bd8
 
 Package: com.theo78825.spotifyfullscreenartworkui
 Version: 1.0.8
@@ -25311,16 +25442,16 @@ dev: dreamcode
 SHA256: 1dac53db24d6a31012256a7fb7442dbc9c02a43323bcb5765500eca66035a44c
 
 Package: jb.acc.gpsmanager
-Version: 1.8.3
+Version: 1.8.4
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: cn.tinyapps.XGPS, cn.tinyapps.location360, app.weiphone.tinyapps.location360pro, topme.ios.FakeGps, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, apt.tinyapps.XGPSPro, apt.tinyapps.location360pro, me.liuming.LocationHelper, me.liuming.LocationExpert, net.85819.ios.otrlocation, com.abcydia.otrlocation
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmanager_1.8.3.deb
-Size: 2639668
-Installed-Size: 9513
-MD5sum: 87560ab0603f4e34af7c304e57ab48ac
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/gpsmanager_1.8.4.deb
+Size: 2675022
+Installed-Size: 9713
+MD5sum: a036b89dcced4f597e2eedae198a24bf
 Name: GPS Manager(GPS定位管家)
 Description: Configure APP's fake GPS location wherever you like. GPS定位管家，可设置应用的虚拟定位，随时随地定位修改打卡。
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -25329,7 +25460,7 @@ Tag: purpose::extension, compatible::ios11
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpsmanagerDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gpsmanagerDp
 dev: chencong
-SHA256: b6592cc9dc2dd281f0e8aa704ea2e59cd378c8a21393da404709f939f940b6f1
+SHA256: c1b2b7abd371489d7b57f0a8f90ad918292f2afe9c90f27da00e50bfc65c5c4a
 
 Package: jb.kalashrah.whats10
 Version: 0.3.0
@@ -25689,23 +25820,45 @@ dev: rplus
 SHA256: 925491b094727a1d5554ce89b33470e8f39b44c72d0c75d2471033f9b836894e
 
 Package: jp.r-plus.slidecut
-Version: 0.4
+Version: 0.5
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: mobilesubstrate, firmware (>= 5.0)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/slidecut_0.4.deb
-Size: 11170
-Installed-Size: 116
-MD5sum: 86cd273b5343fbcbb52197d672404022
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/slidecut_0.5.deb
+Size: 12562
+Installed-Size: 149
+MD5sum: a9e83d4a04e727fc7a3d78a75dc32e9c
 Name: SlideCut
 Description: Slide shortcut via space key.
 Author: r_plus <anasthasia.r+aa@gmail.com>
-Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=slidecutDp
 dev: rplus
-SHA256: c04346df85c16f2c810bb7365586a0cf3f99aa17858950d2c40c48447fcc09d0
+SHA256: 1ec91cefd253c40b0efd291bd293e1f61540510d608ca3eb8f00008927330b6f
+
+Package: jp.r-plus.swipeshiftcaret
+Version: 1.9
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/swipeshiftcaret_1.9.deb
+Size: 19714
+Installed-Size: 156
+MD5sum: dec79e67084f8f8cca105920e960605c
+Name: SwipeShiftCaret
+Icon: file:///Library/PreferenceLoader/Preferences/SwipeShiftCaret@2x.png
+Description: Caret micromanager via swipes
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: r_plus <anasthasia.r+swipeshiftcaret@gmail.com>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeshiftcaretDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeshiftcaretDp
+dev: rplus
+SHA256: d4cba44d0a2a62d128e2a8c978016468c19f70d2abd996e755a7fb87facf161c
 
 Package: kr.iolate.customvolumestep
 Version: 0.1-2
@@ -25938,17 +26091,17 @@ dev: freemanrepo
 SHA256: 86ce3592a8a3c28165c65772f10b84a09455cca50beb15ac4c36cf0837620581
 
 Package: me.autotouch.autotouch.ios8
-Version: 5.0.6
+Version: 5.1.0
 Priority: optional
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>=0.9.5000), applist (>= 1.4.1), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/autotouch8_5.0.6.deb
-Size: 10474428
-Installed-Size: 35221
-MD5sum: c5c6b8c28d55d348ca3a1c1250a2a68b
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/autotouch8_5.1.0.deb
+Size: 11834882
+Installed-Size: 46721
+MD5sum: deca3b7a2ad62e13ae6026e24278fabd
 Name: AutoTouch
 Icon: file:///Applications/AutoTouch.app/AppIcon29x29@2x.png
 Description: Record and playback touch operations, play macro scripts automatically.
@@ -25958,7 +26111,28 @@ Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, 
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=autotouch8Dp
 dev: kentkrantz
-SHA256: b18deb7a750cfe65378ad975e31c4ae619e2fd8ef7749e8e06067650fb67ff4a
+SHA256: 29fbebcdcf46081713b957720ede56c89b39a0e18d32de47e6b8b11b1215acde
+
+Package: me.liuming.apphider
+Version: 1.6.5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/apphider_1.6.5.deb
+Size: 2629172
+Installed-Size: 9412
+MD5sum: e82661d6c32a02007dca8797c4b1607d
+Name: App Hider(应用隐藏) - Make Apps disappeared from SpringBoard
+Icon: file:///Applications/AppHider.app/AppIcon29x29@2x.png
+Description: Hide your Apps from SpringBoard
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: liuming <liuminggui1993@163.com>
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=apphiderDp
+dev: liuming
+SHA256: 82f6d89f0f876203f82f89ec90b249351671510dfb2b260042004d754d507fe5
 
 Package: me.liuming.locationexpert
 Version: 2.5.3
@@ -25982,6 +26156,28 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationexp
 dev: liuming
 SHA256: 6b3d0bba3f820f91a01d557a30408286fb63e3a50e7ecbc3cc41a313a1759858
 
+Package: me.liuming.locationhelper
+Version: 5.3.7
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 6.0), mobilesubstrate, applist (>= 1.5.14), com.rpetrich.rocketbootstrap (>= 1.0.2)
+Conflicts: app.weiphone.tinyapps.location360pro, cn.tinyapps.XGPSLite, app.weiphone.cn.tinyapps.pogo, net.85819.ios.otrlocation, com.abcydia.otrlocation, cn.tinyapps.XGPS, cn.tinyapps.location360, apt.tinyapps.XGPSPro, me.liuming.LocationExpert, topme.ios.FakeGps, apt.tinyapps.location360pro
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/locationhelper_5.3.7.deb
+Size: 3055236
+Installed-Size: 9921
+MD5sum: 3c9ce2ca33464b084077fd2f1f07d9ba
+Name: 虚拟定位助手 - 系统GPS定位修改器，GPS Faker，天下游，模拟地理位置
+Icon: file:///Applications/LocationChanger.app/AppIcon29x29@2x.png
+Description: 轻松修改微信、QQ、支付宝、朋友圈、微博、陌陌、百度、高德位置信息，玩游戏、企业钉钉打卡、360度撩妹必备。
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: mingfaker <liuminggui1993@163.com>
+Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationhelperDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationhelperDp
+dev: liuming
+SHA256: 4e01afbf301987de3e8a192307da1e25fd12c55e8275b5d4f6a265c9f5f78160
+
 Package: me.matt.nophototabs
 Version: 1.0.1-1
 Priority: optional
@@ -26002,6 +26198,30 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nophototab
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nophototabbarDp
 dev: fletchto99
 SHA256: 8e2b8a188f2db8b16e7f0867aa88c8702fa2ba7cbce5b8f383a2f3e15509dd96
+
+Package: me.nepeta.libcolorpicker
+Version: 1.6.2-3
+Priority: optional
+Section: Development
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 9.0)
+Conflicts: org.thebigboss.libcolorpicker
+Provides: org.thebigboss.libcolorpicker, org.thebigboss.libcolorpicker (=1.6.1)
+Replaces: org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/libcolorpickernepeta_1.6.2-3.deb
+Size: 104446
+Installed-Size: 629
+MD5sum: cd19e8646bd484973848e6a8e313acf3
+Name: libcolorpicker-nepeta
+Description: libcolorpicker with arm64e (A12) support
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Nepeta <Ominousness@protonmail.com>
+Tag: purpose::library, role::developer, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, cydia::obsolete
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickernepetaDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libcolorpickernepetaDp
+dev: pixelfiredev
+SHA256: df358744da38d7daa99fe25c2bf51ff483e7bb9817ba5fa08a2090f51a77a46b
 
 Package: me.qusic.xgress
 Version: 2.0
@@ -26688,15 +26908,15 @@ dev: joebruce
 SHA256: 1bc960b6fbda428b777fb28468e294cfcd365e1ccf69ae684cfee075844a2797
 
 Package: net.joebruce.uninstallguard
-Version: 1.3.5
+Version: 1.3.6
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.14)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/uninstallguard_1.3.5.deb
-Size: 2236036
-Installed-Size: 8222
-MD5sum: 8f79ecda9a8949d8dbd11b3b8d4c153e
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/uninstallguard_1.3.6.deb
+Size: 2255900
+Installed-Size: 8422
+MD5sum: e112b68bd21319a7e137117efc24bd20
 Name: UninstallGuard(卸载守护者) - forbid removing Apps
 Description: Uninstall Guard can be able to forbid the Apps to be uninstalled.
     So avoid the Apps you care about (like Facebook, WhatsApp, Line, Pokemon GO, WeChat, Messenger), deleted by children, others or by mistake operations.卸载守护者，能够设定应用不可卸载。从而避免你关心的应用（微信、支付宝、抖音），被小孩、他人或误操作而删除。
@@ -26706,7 +26926,7 @@ Tag: purpose::extension, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uninstallguardDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uninstallguardDp
 dev: joebruce
-SHA256: 0d29bdbd86e855b19f86a867541df35c994c083dfbc4fcafc699961dc7a5c062
+SHA256: 8aa8a9eaf80f4d46027b3552718bf88846032a1289092079586bfc3ceb0d56af
 
 Package: net.joedj.revelation
 Version: 1.3-2
@@ -27803,8 +28023,8 @@ Author: CoolStar <coolstarorganization@gmail.com>
 Tag: purpose::console, cydia::obsolete
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
-breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
 dev: coolstar
+breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
 SHA256: 5039cdce59d916fd7d1072ea96d16344962dfbe52f008d8b7cd4e8ccc3c71bf0
 
 Package: org.coolstar.llvm-clang64
@@ -27826,8 +28046,8 @@ Author: CoolStar <coolstarorganization@gmail.com>
 Tag: purpose::console, cydia::obsolete
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
-breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
 dev: coolstar
+breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
 SHA256: 3f8ca53ff4cc6ddf7a621d67780dd4b348c1d4eee6455a729b1ac52524716689
 
 Package: org.coolstar.nolargetitles
@@ -29144,6 +29364,28 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterD
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=datameterDp
 dev: minuit
 SHA256: 9b4546fa6effe8af7307a70e477851a71d1e7c8a003145245f8f36faa63e8c16
+
+Package: org.thebigboss.dimme
+Version: 2.0.3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, applist, preferenceloader (>= 2.2.3), firmware (>= 7.0)
+Conflicts: com.julioverne.dpkgcheck, com.sull.dpkgcheck
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/dimme_2.0.3.deb
+Size: 210230
+Installed-Size: 1724
+MD5sum: 1c3d8d8b8828bf1ed66252d929c64070
+Name: DimMe
+Icon: file:///Library/PreferenceBundles/DimMeSettings.bundle/DimMeSettings@2x.png
+Description: Dim the Screen with options.
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Rene Kahle <packetfahrer@web.de>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dimmeDp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=dimmeDp
+dev: packetfahrer
+SHA256: e20dc2848962bd10cc41cf70f841fc0842e1f6f1ffe4a7c70070bc21c5543ad4
 
 Package: org.thebigboss.disableparallaxeffect
 Version: 2.0
@@ -30561,15 +30803,15 @@ dev: s0ftman
 SHA256: 8918d3f7790133674a4ed2f174aa374bc2a5d958976dc9c5cb9c5db1bea1f189
 
 Package: org.thebigboss.nobanner
-Version: 2.0.1
+Version: 2.0.2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nobanner_2.0.1.deb
-Size: 223750
-Installed-Size: 1427
-MD5sum: 0b4a2f8023edc4354a2e3196738d6eca
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/nobanner_2.0.2.deb
+Size: 230044
+Installed-Size: 1627
+MD5sum: 7e7fb8a534bc3c29e5f21fd8a490f5c6
 Name: NoBanner
 Icon: file:///Library/PreferenceBundles/NoBannerSettings.bundle/icon@2x.png
 Description: no push notifications during video playback
@@ -30579,7 +30821,7 @@ Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, c
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nobannerDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nobannerDp
 dev: packetfahrer
-SHA256: bdfa3a0e21333e12736fb97a8a985a45288e82609dcdfb3dd03c5d09a1cbb3b6
+SHA256: 66a5eb380f54f5dd14e0e65aae1c505a639da6af1f0fa6f83b2ab1a49fca2eb3
 
 Package: org.thebigboss.noflyanimunlockxi
 Version: 1.0
@@ -31131,27 +31373,6 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=searchlight
 dev: twodayslate
 SHA256: 01f13a14a2a6a319872f64c2597847a470e72521e2c7d2bbe99e8f9eb7bc725f
 
-Package: org.thebigboss.selectmoji
-Version: 1.0.3
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 6.0)
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/cydiastore_org.thebigboss.selectmoji_v1.0.3.deb
-Size: 34652
-Installed-Size: 263
-MD5sum: 12fc80452f9ca25c264f936f8e65113c
-Name: Selectmoji
-Icon: file:///Library/PreferenceBundles/SelectmojiSettings.bundle/Emojis@2x.png
-Description: Better frequently used emojis.
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: cole cabral @ca13ra1 <cabralcole@gmail.com>
-Tag: purpose::extension, cydia::commercial, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=selectmojiDp
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=selectmojiDp
-dev: ca13ra1
-SHA256: 9412f804414602dc38e717ea9f6e57a17c4affaf4a3fa4867297efb473285458
-
 Package: org.thebigboss.slalommod
 Version: 1.5.4
 Section: Tweaks
@@ -31380,6 +31601,27 @@ homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stillcaptur
 dev: poomst
 SHA256: 545f3f2e31c8987ec9aa0dd3eae24f39bc8daa731c24ac7f91c1706dce6dca2b
 
+Package: org.thebigboss.stopalarmios8
+Version: 2.0.5
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.1), mobilesubstrate (>= 0.9.5000), preferenceloader
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/stopalarmios8_2.0.5.deb
+Size: 484350
+Installed-Size: 2521
+MD5sum: 550a08c1eb251adf276a87f41a0c421e
+Name: StopAlarm iOS 8+
+Icon: file:///Library/PreferenceBundles/StopAlarm8Settings.bundle/StopAlarm8Settings@2x.png
+Description: Snooze or Stops an Alarm!
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Rene Kahle <packetfahrer@web.de>
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stopalarmios8Dp
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=stopalarmios8Dp
+dev: packetfahrer
+SHA256: d2081e8f53f83a53ceb916123ae679c6b0fcdd91e73eee7933c6caafd824e6d2
+
 Package: org.thebigboss.supersetlogoszeppelin
 Version: 1.3-2
 Section: Addons (Zeppelin)
@@ -31422,15 +31664,15 @@ dev: rdrnt
 SHA256: 2c095518a4f5aa08c18b12949862404f0634197264dd332f02964e242e6248e2
 
 Package: org.thebigboss.sutuplus
-Version: 2.5.3
+Version: 2.5.4
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 5.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sutuplus_2.5.3.deb
-Size: 208786
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/sutuplus_2.5.4.deb
+Size: 209094
 Installed-Size: 706
-MD5sum: 9072aa74c7b582194cdfef5140197a59
+MD5sum: 3cc3bc9a9e4ac294b9e2eb7c1f273637
 Name: SutuPLUS-苏兔PLUS WX美化增强工具
 Description: 一款微信美化工具，请查阅教程后使用，关注我的公众号”苏兔“获取更多资源。
 Sponsor: thebigboss.org <http://thebigboss.org>
@@ -31439,7 +31681,7 @@ Tag: purpose::extension, role::enduser, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 dev: carby
-SHA256: dbcc85382d68675f1e2ad1b37045cda3d30971ee9dbf3189e2a4cff4692fe19e
+SHA256: 1d230766a628ac3b9d8f2710bc4605651e30b42f6ab3bc0b195d3546dafe1262
 
 Package: org.thebigboss.swipeformore
 Version: 1.1.7
@@ -32127,15 +32369,15 @@ dev: andreaskhenriksson
 SHA256: e848815aa7a14ffeb9355c629c15ed3720eec3c0c6b3b1a303d26a8358d7d78a
 
 Package: se.nosskirneh.customlockscreenduration
-Version: 1.4.1
+Version: 1.4.2
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.4)
 Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/customlockscreenduration_1.4.1.deb
-Size: 46244
-Installed-Size: 439
-MD5sum: 08b9867e8fdbb7ed9b6dd467ddfc503d
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/customlockscreenduration_1.4.2.deb
+Size: 49822
+Installed-Size: 634
+MD5sum: ecf86c299062474ccfe86be5ffb680da
 Name: CustomLockscreenDuration
 Icon: file:///Library/PreferenceBundles/CustomLockDurationPrefs.bundle/icon@2x.png
 Description: Customize time for sleep on lockscreen
@@ -32145,7 +32387,7 @@ Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlockscreendurationDp
 homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=customlockscreendurationDp
 dev: andreaskhenriksson
-SHA256: b19e325498cea6bb76ae284b2753911aff85366051d4d7e448942e866a586d4e
+SHA256: b0d3ab52ccd9c60312ab91bdca63e38894884a0ddd46997273d59d35605bbc69
 
 Package: se.nosskirneh.hidesirisuggestions
 Version: 1.0.1
