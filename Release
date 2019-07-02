@@ -1,4 +1,4 @@
-Origin: RepoBridge
+Origin: BigBoss+
 Label: BigBoss+
 Suite: stable
 Version: 0.9
@@ -6,12 +6,12 @@ Codename: repounclutter
 Architectures: iphoneos-arm
 Components: main
 Description: iOS 11 and higher compatible packages from BigBoss, Modmyi and ZodTTD combined
-Date: Sun, 23 Jun 2019 05:55:10 +0000
+Date: Tue, 02 Jul 2019 03:00:02 +0000
 MD5Sum:
- 1cee5d72da5dec66671cfc7e9b52d215 2022214 Packages
- 61bced79d0f0f6f3966bc6f3325d5c9a 321088 Packages.bz2
- 30833866ef6bd1790e0226857123936a 325416 Packages.xz
+ a325be9fc286f74d6372560362883f5d 2025161 Packages
+ b6a2b748e4f04bd7f8a07b21c21a77b8 321432 Packages.bz2
+ 3af9d9d5f25ea23a8cf9c9063d37c471 325848 Packages.xz
 SHA256:
- da66db2b7b8021b906229a968a060e0fa59ada19a7fc06208e115ca3b8ef8a89 2022214 Packages
- 8c4f3cf64fc05d94638db4a0673de82f37d7d3b896d5e647ab11e87454db84e9 321088 Packages.bz2
- f58ca4511b46a7f873a9d6fb58c2b45ca012b00acff2e54709d6af900500fe0d 325416 Packages.xz
+ 4dd665f9a5bd8b3c2ac51d04c8fda8271463490dc6939ff2c79abed5fed5d578 2025161 Packages
+ d0e9db666bde79c193e1192a672863ffe3504848982cd89f7b016aeadc8cc8c2 321432 Packages.bz2
+ 8993fa1af51789527a81b821e91d1d8aac140e6b46d7ff1f796f9b2dc4c40200 325848 Packages.xz
