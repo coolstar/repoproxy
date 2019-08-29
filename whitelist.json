@@ -187,5 +187,6 @@
 	"org.theos.dependencies",
 	"jp.ashikase.libcrashreport",
 	"jp.ashikase.libsymbolicate",
-	"com.iky1e.swipeselection"
+	"com.iky1e.swipeselection",
+	"com.cabralcole.forceinpicture"
 ]
