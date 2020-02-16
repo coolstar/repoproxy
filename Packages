@@ -35436,25 +35436,6 @@ Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kodi64Dp
 dev: teamkodi
 homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=kodi64Dp
 
-Package: preferenceloader
-Version: 2.2.4
-Section: System
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/preferenceloader_2.2.4.deb
-Size: 32646
-Installed-Size: 525
-MD5sum: ad8a5b8d50745e812a0eff4593ae0ec6
-SHA256: 83a634aed3aa29344e4514a20846c87589dc6f16d44e57f3f0dee03fec352d3b
-Name: PreferenceLoader
-Description: load preferences in style
-Author: Sam Bingner <maintainer@sbdhi.com>
-Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
-dev: dustinhowett
-homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
-
 Package: ru.anonz.vkpass
 Version: 1.0.2-1
 Priority: optional
