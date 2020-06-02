@@ -1,17 +1,17 @@
-Origin: BigBoss+
-Label: BigBoss+
+Origin: ModMyTTD+
+Label: ModMyTTD+
 Suite: stable
-Version: 0.9
+Version: 0.9.1
 Codename: repounclutter
 Architectures: iphoneos-arm
 Components: main
-Description: iOS 11 and higher compatible packages from BigBoss, Modmyi and ZodTTD combined
-Date: Thu, 14 May 2020 12:09:16 +0000
+Description: iOS 11 and higher compatible packages from Modmyi and ZodTTD combined
+Date: Tue, 02 Jun 2020 08:11:10 +0000
 MD5Sum:
- 5e5f1d8968d86c1bf5cb2b91d14c960b 2233293 Packages
- f3c9ce5cacee547de485141ccec3c165 354187 Packages.bz2
- bf3fdf231277f8867709555c2d096588 356208 Packages.xz
+ a51df9940c5412dca36ee96c381ab19d 514543 Packages
+ e9e5b300bdbc8591ca28e6b407422e1f 88016 Packages.bz2
+ 79921d204635e92962548f2c98735d57 89880 Packages.xz
 SHA256:
- 45dcc8c89046eef66b05d2b3b07ab284bd8a95b33aab8d2a38608aaf1704ddd5 2233293 Packages
- 419559f5e5523d24b74e89d012a38de8c330ba876eab22bfeac0d1e02cc339c9 354187 Packages.bz2
- 280ce41694e63143dcc3d674412f3970c480e4c5ecfc7c6232b3bd0c5340ee10 356208 Packages.xz
+ 71d4763355cba5e3db1d625bc2e880b559e57a22fd694aa9743cfaa7601dfe4b 514543 Packages
+ 8e2eacb436e147b6f6e39b5ccb00f6405ab16ff536bef3abb89d3320b4c3d39f 88016 Packages.bz2
+ 41011a4053c8ada25431f771eea5cdf4fed5fc01fe6b2a9e0897bdc98f6d6d50 89880 Packages.xz
